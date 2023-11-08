@@ -13,7 +13,8 @@ if uploaded_file:
             options = question_data["options"]
             correct_answer = question_data["correct_answer"]
 
-            st.write(f"Question {idx}: {question}")
+            #st.write(f"Question {idx}: {question}")
+            st.markdown(f"**Question {idx}:** {question}")
             user_answer = st.radio("Select your answer:", options, index=None)
 
             if user_answer:

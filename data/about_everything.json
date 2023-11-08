@@ -1,12 +1,27 @@
 [
   {
-      "question": "What is the capital of India?",
-      "options": ["Nagpur", "Mumbai", "Delhi", "Bangalore"],
-      "correct_answer": "Delhi"
+      "question": "Which Activation Function in Machine Learning has a range between 0 and positive infinity?",
+      "options": ["ReLu", "Sigmoid", "Tanh"],
+      "correct_answer": "ReLu"
   },
   {
-      "question": "How many continents are in the world?",
-      "options": ["8", "7", "6", "9"],
-      "correct_answer": "7"
+      "question": "What is tensor in tensor algebra?",
+      "options": ["An algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space", "An algebraic object that describes a unilinear relationship between sets of algebraic objects related to a vector space"],
+      "correct_answer": "An algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space"
+  },
+  {
+    "question": "Tensors are multi-dimensional arrays with a uniform type (dtype):",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "When it comes to training time of TensorFlow and PyTorch libraries:",
+    "options": ["TensorFlow has higher training time", "PyTorch has higher training time", "Times are the same"],
+    "correct_answer": "TensorFlow has higher training time"
+  },
+  {
+    "question": "When it comes to flexibility of TensorFlow and PyTorch libraries:",
+    "options": ["TensorFlow is more flexible", "PyTorch is more flexible"],
+    "correct_answer": "PyTorch is more flexible"
   }
 ]

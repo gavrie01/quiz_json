@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": ["Nagpur", "Mumbai", "Delhi", "Bangalore"],
+        "correct_answer": "Delhi"
+    },
+    {
+        "question": "How many continents are in the world?",
+        "options": ["8", "7", "6", "9"],
+        "correct_answer": "7"
+    }
+  ]
+  

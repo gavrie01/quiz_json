@@ -1,13 +1,187 @@
 [
     {
-        "question": "What is the capital of India?",
-        "options": ["Nagpur", "Mumbai", "Delhi", "Bangalore"],
-        "correct_answer": "Delhi"
+        "question": "Which of the following statements provides the BEST example of the ‘AI Effect’?",
+        "options": ["People lose their jobs as AI-based systems perform their roles cheaper and better", "Competitive computer games lose popularity as AI-based systems always win", "Rule-based expert systems for medical diagnosis are no longer considered to be AI", "People believe AI will take over the world"], 
+        "correct_answer": "Rule-based expert systems for medical diagnosis are no longer considered to be AI"
     },
     {
-        "question": "How many continents are in the world?",
-        "options": ["8", "7", "6", "9"],
-        "correct_answer": "7"
+        "question": "Which of the following options is NOT a technology used to implement AI?",
+        "options": ["Support vector machine", "Decision Tree", "Evolutionary reasoning", "Bayesian optimization"],
+        "correct_answer": "Evolutionary reasoning"
+    },
+    {
+        "question": "Which of the following statements about the hardware used to implement AI-based systems is <strong>MOST</strong> likely to be <strong>CORRECT</strong>?",
+        "options": ["The processors used to train a mobile recommendation system must be the same as the processors on the mobile phone", "Graphical processing units (GPUs) are a reasonable choice to implement an AI-based computer vision system", "Deep learning systems need to be trained, evaluated, and tested using AI-specific chips", "It is always best to choose processors with more bits to achieve sufficient accuracy for AI-based systems"],
+        "correct_answer": "Graphical processing units (GPUs) are a reasonable choice to implement an AI-based computer vision system"
+    },
+    {
+        "question": "There are a number of good quality pre-trained models available in the market and you want to use one of them for an image-based classifier. You have decided to ask the provider of the model about the data used for training the model and its format.<br>Which of the following statements is the <strong>BEST</strong> example of a risk that you are trying to mitigate by asking these questions?",
+        "options": ["Bad classification accuracy of the pre-trained models", "Differences in the data used to train the model and the operational data", "Performance efficiency issues of the pre-trained model", "Lack of explainability of the pre-trained model compared to that of a model trained by you"],
+        "correct_answer": "Differences in the data used to train the model and the operational data"
+    },
+    {
+        "question": "Which of the following statements is <strong>MOST</strong> likely to be specifying a requirement for autonomy in an AI-based system?",
+        "options": ["The system shall maintain a safe distance to other vehicles until the brake or accelerator is pushed by the driver", "The system shall learn the preferred style of response to emails by remotely monitoring the email traffic", "The system shall compare its predictions of house prices with actual selling prices to determine if it needs to be retrained", "It shall be possible to modify the system’s behavior to work with different types of users in less than a day"],
+        "correct_answer": "The system shall maintain a safe distance to other vehicles until the brake or accelerator is pushed by the driver"
+    },
+    {
+        "question": "Which of the following statements about bias in AI-based systems is <strong>NOT</strong> correct?",
+        "options": ["Bias may be caused by users of a book recommendation system making choices that deliberately cause the system to make poor suggestions", "Bias may be caused in the employee age of death prediction system by collecting thetraining data from a dataset of patients who are all retired", "Bias may be caused in the creditworthiness system by using training data obtained from those who own and use a credit card", "Bias may be caused in the navigation system by using a route planning algorithm that is too complex to be explained to typical users"],
+        "correct_answer": "Bias may be caused in the navigation system by using a route planning algorithm that is too complex to be explained to typical users"
+    },
+    {
+        "question": "Which of the following is <strong>MOST</strong> likely to be an example of reward hacking?",
+        "options": ["The programmer’s assistant tool optimizes the code to provide reduced response times, while still ensuring that functional requirements are met", "An anesthetic supply device with a goal of keeping patients stable during surgery supplies too many doses and patients do not wake up as quickly as expected", "The third-party development organization paid their AI programmers based on the number of lines of code they write", "A type of AI used to play competitive computer games against humans that is focused on getting the highest score"],
+        "correct_answer": "An anesthetic supply device with a goal of keeping patients stable during surgery supplies too many doses and patients do not wake up as quickly as expected"
+    },
+    {
+        "question": "Given the following attributes for an AI-based system (I-V):<br>I. Probabilistic<br>II. Explicable<br>III. Unfair<br>IV. Non-deterministic<br>V. Deterministic<br>Which list of attributes below is likely to cause the <strong>MOST</strong> difficulties if the system is to be used as part of a safety-related system?",
+        "options": ["I, IV", "II, IV", "II, III, V", "I, III, V"],
+        "correct_answer": "I, IV"
+    },
+    {
+        "question": "Which of the following statements BEST describes classification and regression as part of supervised learning?",
+        "options": ["Regression is checking that the ML model test results do not change when the same test data is executed", "Classification is the grouping of unlabeled data into separate classes", "Classification is the labelling of the data for training the ML model", "Regression is predicting the number of classes that are output by the ML model"],
+        "correct_answer": "Classification is the grouping of unlabeled data into separate classes"
+    },
+    {
+        "question": "Which of the following options <strong>BEST</strong> describes an example of reinforcement learning?",
+        "options": ["The mobile game app updates its feedback, response timing and the number of user options it provides based on how much the players spend", "The language translation app searches the internet to find text provided in multiple languages to improve its translation function", "The factory quality control system uses video cameras and audio analysis to identify manufactured items that are faulty based on monitoring a human quality control operative", "The software component test prediction system uses a range of quality measures to identify which components are likely to contain the most defects"],
+        "correct_answer": "The mobile game app updates its feedback, response timing and the number of user options it provides based on how much the players spend"
+    },
+    {
+        "question": "You have been asked for your opinion on the ML approach to be used for a new system that is part of the traffic management for a SMART city. The idea is that the new system will control the traffic lights in the city to ensure traffic flows easily through and around the city.<br>Which of the following approaches do you expect <strong>MOST</strong> likely to succeed?",
+        "options": ["Unsupervised learning that is based on identifying clusters around the city where the traffic density is higher than average", "A supervised learning regression solution based on thousands of journeys labelled with both journey length and duration", "Reinforcement learning that is based on a reward function that penalizes solutions that result in higher levels of traffic congestion", "A supervised learning classification solution that is based on drivers and passengers submitting their favorite routes for traversing the city"],
+        "correct_answer": "Reinforcement learning that is based on a reward function that penalizes solutions that result in higher levels of traffic congestion"
+    },
+    {
+        "question": "When performing testing of a trained model, an ML engineer found that the model was highly accurate when evaluated with validation data but that it performed poorly with independent test data.<br>Which of the following options is <strong>MOST</strong> likely to cause this situation?",
+        "options": ["Underfitting", "Concept drift", "Overfitting", "Poor acceptance criteria"],
+        "correct_answer": "Overfitting"
+    },
+    {
+        "question": "Which of the following is an example of a challenge that is likely to be encountered in the course of developing and testing an ML solution?",
+        "options": ["Data anonymization operations typically require knowledge of various ML algorithms", "The data used might be unstructured data", "A large percentage of the budget gets spent just in data preparation", "The data pipeline scalability is a challenge when training the model"],
+        "correct_answer": "A large percentage of the budget gets spent just in data preparation"
+    },
+    {
+        "question": "The data scientist has complained that the model cannot be trained with one particular algorithm, although other algorithms work with the same training data.<br>Which of the following options is the <strong>MOST</strong> likely reason for this?",
+        "options": ["Wrong data", "Missing data", "Badly labelled data", "Insufficient data"],
+        "correct_answer": "Insufficient data"
+    },
+    {
+        "question": "DataSure is a start-up with a product that promises to improve the quality of ML models. DataSure claim that this improvement comes from checking if the data has been labeled correctly.<br>Which of the following defects is <strong>MOST</strong> likely to have been prevented by using this product?",
+        "options": ["The model will have security vulnerabilities", "The model will have poor accuracy", "The model will not fulfill its intended function", "The model will produce biased outputs"],
+        "correct_answer": "The model will have poor accuracy"
+    },
+    {
+        "question": "An ML engineer, upon finding insufficient training data, is rotating labeled images to create additional training data.<br>Which of the following approaches to labeling is being applied in this above example?",
+        "options": ["Crowdsourcing", "Augmentation", "AI-based labeling", "Outsourcing"],
+        "correct_answer": "Augmentation"
+    },
+    {
+        "question": "The confusion matrix for an image classifier is shown below.<br>Which of the following options represents the precision of the classifier?",
+        "options": ["20/120 *100", "78/120 *100", "78/100 *100", "22/100 *100"],
+        "correct_answer": "78/100 *100",
+        "image_path": "data/Question_17_CM.jpg"
+    },
+    {
+        "question": "ThermalSpace is a solution provider that helps thermal power plants to optimize their power output. Their solution is based on an ML model created using past data with clearly marked output. The model helps determine the amount of electricity to be generated at a given time of the day.<br>To determine the quality of the model using ML functional performance metrics, which of the following metrics is <strong>MOST</strong> likely to be used?",
+        "options": ["R-squared", "Precision", "Recall", "False Positives"],
+        "correct_answer": "R-squared"
+    },
+    {
+        "question": "KnowYourPet is an app utilizing ML to determine whether a pet is hungry or not. It is understood that a dog is likely to be not hungry most of the time, as reflected in the training data. If the dog is mis-diagnosed as hungry then it may lead to overfeeding of the dog and this could lead to serious health issues.<br>Which of the following metrics would you choose for determining the suitability of the model under test?",
+        "options": ["Accuracy", "Precision", "Recall", "F1-score"],
+        "correct_answer": "F1-score"
+    },
+    {
+        "question": "Which of the following options <strong>BEST</strong> describes a deep neural net?",
+        "options": ["It is comprised of a hierarchical structure of neurons with the lowest (deepest) neurons making most of the decisions", "It is comprised of connected neurons where each neuron has an associated bias and each connection has an associated weight", "It is made up several layers with each layer (except input and output layers) connected to each other layer and errors are propagated backwards through the network", "It is made up of layers of neurons, each of which generates an activation value based on the other neurons in the same layer"],
+        "correct_answer": "It is comprised of connected neurons where each neuron has an associated bias and each connection has an associated weight"
+    },
+    {
+        "question": "Which of the following statements <strong>CORRECTLY</strong> describes a test coverage measure for neural networks?",
+        "options": ["Value change coverage is based on individual neurons being seen to affect the overall output of the neural network", "Threshold coverage is based on neurons outputting an activation value greater than a pre-set value between zero and one", "Neuron coverage is a measure of the proportion of neurons that are activated at any time during the testing", "Sign change coverage measures the coverage of neurons that output both positive, negative and zero activation values"],
+        "correct_answer": "Threshold coverage is based on neurons outputting an activation value greater than a pre-set value between zero and one"
+    },
+    {
+        "question": "Which of the following requirements for an AI-based system is <strong>MOST</strong> likely to cause a significant challenge in testing?",
+        "options": ["The system shall be more accurate than the system it is replacing", "The AI component in the system shall have 100% accuracy", "A human operator should be able to override the system in 1 second", "The system shall mimic the human emotions of a typical game player"],
+        "correct_answer": "The system shall mimic the human emotions of a typical game player"
+    },
+    {
+        "question": "Which of the following is a factor associated with the test data that can make the testing of AI-based systems difficult?",
+        "options": ["Sourcing big data with high velocity", "Sourcing data from a single source", "Sourcing data separately from the data scientists", "Sourcing data from public websites"],
+        "correct_answer": "Sourcing big data with high velocity"
+    },
+    {
+        "question": "Why would the accuracy of human decisions be considered in testing as well as the accuracy of AI-based systems?",
+        "options": ["Intuitive human decisions can be made faster than a corresponding AI-based system in some situations", "Unethical decisions can be made by humans as well as AI-based systems", "The accuracy of human decisions is not relevant to testing AI-based systems", "Human decisions may be of lower quality when they have been recommended by an AI-based system"],
+        "correct_answer": "Human decisions may be of lower quality when they have been recommended by an AI-based system"
+    },
+    {
+        "question": "Which of the following statements <strong>BEST</strong> describes a testing challenge that specifically applies to a self-learning system?",
+        "options": ["The system requires regular retraining and therefore requires regular testing", "The system is regularly released which means regression testing is required", "The system changes in such a way that tests that previously passed can fail", "The system requires a human operator, who is also required for testing"],
+        "correct_answer": "The system changes in such a way that tests that previously passed can fail"
+    },
+    {
+        "question": "Which of the following is <strong>NOT</strong> likely to be required to test a system for bias?",
+        "options": ["Involving selected users that are known to be biased", "Measuring how changes in test inputs change test outputs", "Observing how production outputs correlate to production inputs", "Obtaining additional data from other sources"],
+        "correct_answer": "Involving selected users that are known to be biased"
+    },
+    {
+        "question": "Which of the following statements <strong>BEST</strong> describes how system complexity can create challenges when testing an AI-based system?",
+        "options": ["Testing for bias may require data that the team does not have", "Manual generation of white-box tests can be difficult", "Determining whether a system is ethical can be subjective", "It can be difficult to find representative data to train a mode"],
+        "correct_answer": "Manual generation of white-box tests can be difficult"
+    },
+    {
+        "question": "An ML engineer is trying to find exploitable inputs and then use these inputs to retrain the models to make them immune to these inputs.<br>Which of the following options <strong>BEST</strong> describes the approach being used by the ML engineer?",
+        "options": ["Validation", "Adversarial testing", "Data pipeline testing", "Scalability testing"],
+        "correct_answer": "Adversarial testing"
+    },
+    {
+        "question": "A test manager has to select test techniques to be used for testing autonomous vehicle software. There are a large number of environmental conditions (>50) that need to be considered for seven vehicle functions.<br>Which of the following test techniques is <strong>MOST</strong> likely to be used when testing the variety of vehicle functions (VF) in different environmental conditions (EC)?",
+        "options": ["A/B testing based on the VF and EC parameters", "Combination testing of all the parameters of VF and EC", "Pairwise testing of the relevant values of VF and EC", "Back-to-back testing of relevant VF and EC values"],
+        "correct_answer": "Pairwise testing of the relevant values of VF and EC"
+    },
+    {
+        "question": "A test manager decides to have a non-AI system with similar functionality to the AI based system under test (SUT) built to support system testing.<br>Which of the following statements is most likely to be <strong>CORRECT</strong>?",
+        "options": ["The test manager has chosen back-to-back testing because it helps solve the test oracle problem by using a pseudo-oracle", "The test manager has chosen A/B testing because it helps solve the test oracle problem by using a pseudo-oracle", "The test manager has chosen back-to-back testing because the non-functional requirements of the SUT can be verified against the pseudo-oracle", "The test manager has chosen A/B testing because the non-functional requirements of the SUT can be verified against the pseudo-oracle"],
+        "correct_answer": "The test manager has chosen back-to-back testing because it helps solve the test oracle problem by using a pseudo-oracle"
+    },
+    {
+        "question": "Which one of the following statements is an example of a difference between a test environment for AI-based systems and a test environment for conventional systems?",
+        "options": ["Test environments for AI-based systems may require some mechanism to determine how a particular decision is made", "Test environments for AI-based systems need simulators and virtual environments whereas conventional systems do not need these", "Test environments for AI-based systems need large amounts of data, whereas conventional systems do not need large amount of data", "GPUs are required for test environments for AI-based systems whereas conventional systems do not need these"],
+        "correct_answer": "Test environments for AI-based systems may require some mechanism to determine how a particular decision is made"
+    },
+    {
+        "question": "In which of the following situations would AI be <strong>MOST</strong> useful when categorizing new defects?",
+        "options": ["A small number of defects requires categorization on a new application", "A large number of defects is reported on a small application", "Minimal data is provided in typical defect reports", "A new development team needs to know the most appropriate developer to fix a defect"],
+        "correct_answer": "A large number of defects is reported on a small application"
+    },
+    {
+        "question": "Which of the following is an AI tool <strong>MOST</strong> likely to use as the basis for generating functional test cases?",
+        "options": ["A test charter", "A picture of the system as a flow chart", "Web server logs", "Crash reports"],
+        "correct_answer": "Crash reports"
+    },
+    {
+        "question": "Which of the following options <strong>CORRECTLY</strong> states how an AI-based tool can perform optimization of regression test suites?",
+        "options": ["By analyzing false positive test results", "By analyzing information from previous testing activities", "By using genetic algorithms to create new test cases", "By updating the expected results to counter concept drift"],
+        "correct_answer": ""
+    },
+    {
+        "question": "Which of the following options <strong>CORRECTLY</strong> states how an AI-based tool can perform defect prediction?",
+        "options": ["Using natural language to ask developers where they predict defects will occur", "By analyzing the causes of defects raised on a similar code base", "By analyzing false positive defects", "Scanning code to identify defects using rules"],
+        "correct_answer": ""
     }
-  ]
+]
+
+
+
+
   
+   
+  
+  
+

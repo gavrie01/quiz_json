@@ -23,5 +23,16 @@
     "question": "When it comes to flexibility of TensorFlow and PyTorch libraries:",
     "options": ["TensorFlow is more flexible", "PyTorch is more flexible"],
     "correct_answer": "PyTorch is more flexible"
-  }
+  },
+  {
+    "question": "System testing of an AI-based system is being planned. It has been suggested that exploratory testing is used in addition to scripted test techniques.<br>Which of the following scenarios is MOST likely to be an example of exploratory testing being performed?",
+    "options": ["Training data is visualized using tools to look at various aspects of the data", "Tests written using equivalence partitioning during the previous test cycle are being run", "The Google ‘ML test checklist’ is being used", "ML functional performance metrics are being calculated"],
+    "correct_answer": "Training data is visualized using tools to look at various aspects of the data"
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct_answer": ""
+},
 ]
+

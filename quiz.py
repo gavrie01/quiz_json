@@ -1,7 +1,3 @@
-# 25th question from istqb is missed
-# 29th question from istqb is missed
-# 33th question from istqb is missed
-# 35th question from istqb is missed
 import streamlit as st
 import json
 

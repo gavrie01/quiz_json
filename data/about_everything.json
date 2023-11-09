@@ -15,7 +15,7 @@
     "correct_answer": "Yes"
   },
   {
-    "question": "When it comes to training time of TensorFlow and PyTorch libraries:",
+    "question": "When it comes to training time in TensorFlow and PyTorch libraries:",
     "options": ["TensorFlow has higher training time", "PyTorch has higher training time", "Times are the same"],
     "correct_answer": "TensorFlow has higher training time"
   },
@@ -25,14 +25,14 @@
     "correct_answer": "PyTorch is more flexible"
   },
   {
-    "question": "System testing of an AI-based system is being planned. It has been suggested that exploratory testing is used in addition to scripted test techniques.<br>Which of the following scenarios is MOST likely to be an example of exploratory testing being performed?",
-    "options": ["Training data is visualized using tools to look at various aspects of the data", "Tests written using equivalence partitioning during the previous test cycle are being run", "The Google ‘ML test checklist’ is being used", "ML functional performance metrics are being calculated"],
-    "correct_answer": "Training data is visualized using tools to look at various aspects of the data"
+    "question": "One of the most promising and widely adopted languages for data science, machine learning, and statistical computing:",
+    "options": ["Python", "C++", "Basic", "PHP"],
+    "correct_answer": "Python"
   },
   {
-    "question": "",
-    "options": ["", "", "", ""],
-    "correct_answer": ""
-},
+    "question": "... is the most widely used language in the Jupyter ecosystem:",
+    "options": ["R", "Julia", "Python"],
+    "correct_answer": "Python"
+  }
 ]
 

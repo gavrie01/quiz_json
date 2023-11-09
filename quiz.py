@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-st.title("Quiz")
+st.title("Quiz ☕")
 
 uploaded_file = st.file_uploader("Upload your json or select existing in 'data/' folder", type=["json"])
 

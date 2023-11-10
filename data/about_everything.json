@@ -10,7 +10,7 @@
       "correct_answer": "An algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space"
   },
   {
-    "question": "Tensors are multi-dimensional arrays with a uniform type (dtype):",
+    "question": "Technically Tensors are multi-dimensional arrays with a uniform type (dtype):",
     "options": ["Yes", "No"],
     "correct_answer": "Yes"
   },
@@ -33,6 +33,47 @@
     "question": "... is the most widely used language in the Jupyter ecosystem:",
     "options": ["R", "Julia", "Python"],
     "correct_answer": "Python"
+  },
+  {
+    "question": "PyTorch is an open source machine learning and deep learning framework:",
+    "options": ["True", "False", "I have never heard of it, so the package does not exits"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "Scalar, Vector, Matrix are different types of tensor",
+    "options": ["True", "False"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "In pytorch scalar tensor is created like i.e.:",
+    "options": ["scalar = torch.tensor(7,7)", "scalar = torch.tensor(7)", "scalar = torch.tensor()"],
+    "correct_answer": "scalar = torch.tensor(7)"
+  },
+  {
+    "question": "A scalar refers to a:",
+    "options": ["single numeric value", "can be a string"],
+    "correct_answer": "single numeric value"
+  },
+  {
+    "question": "Put in logical order:",
+    "options": ["scalar/matrix/vector", "matrix/scalar/vector", "scalar/vector/matrix"],
+    "correct_answer": "scalar/vector/matrix"
+  },
+  {
+    "question": "Tensors, in general, are the fundamental building blocks in PyTorch:",
+    "options": ["definitely yes", "of course not"],
+    "correct_answer": "definitely yes"
+  },
+  {
+    "question": "Tensors can work with integers only:",
+    "options": ["No, tensors in PyTorch can work with various numeric data types", "Yes, they work only with integers"],
+    "correct_answer": "No, tensors in PyTorch can work with various numeric data types"
+  },
+  {
+    "question": "Random Tensors are important, because:",
+    "options": ["because they are not important", "the way many nn learn is they start with tensors full of random numbers and adjust random numbers to better represent data and so on"],
+    "correct_answer": "the way many nn learn is they start w tensors full of random numbers and adjust random numbers to better represent data and so on"
   }
-]
 
+]
+ 

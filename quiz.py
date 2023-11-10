@@ -1,5 +1,6 @@
 import streamlit as st
 import json
+import random
 
 st.title("Quiz ☕")
 
@@ -8,6 +9,7 @@ uploaded_file = st.file_uploader("Upload your json or select existing in 'data/'
 if uploaded_file:
     try:
         quiz_data = json.load(uploaded_file)
+        random.shuffle(quiz_data)
         for idx, question_data in enumerate(quiz_data, start=1):
             question = question_data["question"]
             options = question_data["options"]

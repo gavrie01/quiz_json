@@ -36,7 +36,7 @@
   },
   {
     "question": "PyTorch is an open source machine learning and deep learning framework:",
-    "options": ["True", "False", "I have never heard of it, so the package does not exits"],
+    "options": ["True", "False", "I have never heard of it, so the package does not exist"],
     "correct_answer": "True"
   },
   {
@@ -73,6 +73,31 @@
     "question": "Random Tensors are important, because:",
     "options": ["because they are not important", "the way many neural networks learn is they start with tensors full of random numbers and adjust random numbers to better represent data and so on"],
     "correct_answer": "the way many neural networks learn is they start with tensors full of random numbers and adjust random numbers to better represent data and so on"
+  },
+  {
+    "question": "The following code in Python:<br>x =2<br>y = (x := x * 2) + x<br>print(y)<br>is example of:",
+    "options": ["assignment within expression, called walrus operator", "runtime error, it does not work"],
+    "correct_answer": "assignment within expression, called walrus operator"
+  },
+  {
+    "question": "What of the following methods does not prevent model from overfitting",
+    "options": ["dropout", "pooling", "early stopping","data augmentation"],
+    "correct_answer": "pooling"
+  },
+  {
+    "question": "Regularization refers to techniques that are used to calibrate machine learning models in order to minimize the adjusted loss function and prevent:",
+    "options": ["overfitting and underfitting", "only overfitting", "only underfitting"],
+    "correct_answer": "overfitting and underfitting"
+  },
+  {
+    "question": "Lasso and Ridge are Regularization techniques:",
+    "options": ["Yes", "No", "only Lasso"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "Linear Regression can be used for Classification:",
+    "options": ["Yes, it can be used as is", "No, Logistic Regression is the right choice"],
+    "correct_answer": "No, Logistic Regression is the right choice"
   }
 
 ]

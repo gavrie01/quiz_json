@@ -71,8 +71,8 @@
   },
   {
     "question": "Random Tensors are important, because:",
-    "options": ["because they are not important", "the way many nn learn is they start with tensors full of random numbers and adjust random numbers to better represent data and so on"],
-    "correct_answer": "the way many nn learn is they start w tensors full of random numbers and adjust random numbers to better represent data and so on"
+    "options": ["because they are not important", "the way many neural networks learn is they start with tensors full of random numbers and adjust random numbers to better represent data and so on"],
+    "correct_answer": "the way many neural networks learn is they start with tensors full of random numbers and adjust random numbers to better represent data and so on"
   }
 
 ]

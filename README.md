@@ -2,7 +2,7 @@
 
 Brief instruction:
 1) Python + JSON runs on streamlit;
-2) Pull the repo;
+2) Clone the repo;
 3) pip install streamlit;
 4) Run 'quiz.py' -> get link to streamlit instance;
 5) upload a file. proceed with the quiz itself

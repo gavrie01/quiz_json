@@ -5,10 +5,10 @@ Brief instruction:
 2) Clone the repo;
 3) pip install streamlit;
 4) Run 'quiz.py' -> get link to streamlit instance;
-5) upload a file. proceed with the quiz itself
+5) upload a file, proceed with the quiz itself
 
 Content of JSON:
-1) there are two files in data folder:
+1) There are two files in data folder:
 * misc questions, still around Data Science and QA;
 * AI_ISTQB questions and answers based on official ISTQB documentation
 2) New questions & answers are being added

@@ -132,7 +132,7 @@
   {
     "question": "In Python <strong>dtype</strong> is a function that belongs to NumPy library:",
     "options": ["Yes, dtype is a function", "No, dtype is not a function, it is attribute of array"],
-    "correct_answer": ""
+    "correct_answer": "No, dtype is not a function, it is attribute of array"
   },
   {
     "question": "Difference between <strong>encoding</strong> and <strong>imputation</strong> respectively:",

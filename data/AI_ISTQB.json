@@ -168,12 +168,12 @@
     {
         "question": "Which of the following options <strong>CORRECTLY</strong> states how an AI-based tool can perform optimization of regression test suites?",
         "options": ["By analyzing false positive test results", "By analyzing information from previous testing activities", "By using genetic algorithms to create new test cases", "By updating the expected results to counter concept drift"],
-        "correct_answer": ""
+        "correct_answer": "By analyzing information from previous testing activities"
     },
     {
         "question": "Which of the following options <strong>CORRECTLY</strong> states how an AI-based tool can perform defect prediction?",
         "options": ["Using natural language to ask developers where they predict defects will occur", "By analyzing the causes of defects raised on a similar code base", "By analyzing false positive defects", "Scanning code to identify defects using rules"],
-        "correct_answer": ""
+        "correct_answer": "By analyzing the causes of defects raised on a similar code base"
     }
 ]
 

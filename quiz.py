@@ -2,9 +2,7 @@ import streamlit as st
 import json
 import random
 
-correct_answers_counter = 0 # add to st.sidebar
-
-
+correct_answers_counter = 0  # add to st.sidebar
 
 st.title("Quiz ☕")
 
@@ -27,11 +25,15 @@ if uploaded_file:
             correct_answer = question_data["correct_answer"]
             image_path = question_data.get("image_path", None)
 
+            # Use question index as a part of the key to ensure uniqueness
+            radio_key = f"question_{idx}"
+            
             # Display the question with Markdown (including an image if available)
             st.markdown(f"**Question {idx}:** {question}", unsafe_allow_html=True)
             if image_path:
                 st.image(image_path, use_column_width="auto")
-            user_answer = st.radio("Select your answer:", options, index=None)
+            
+            user_answer = st.radio(f"Select your answer for Question {idx}:", options, key=radio_key, index=None)
 
             if user_answer:
                 if user_answer == correct_answer:
@@ -39,10 +41,10 @@ if uploaded_file:
                     st.success("Correct!")
                 else:
                     st.error(f"The correct answer is: {correct_answer}")
+
         # Display the correct answers counter in the sidebar
         st.sidebar.header("Correct / Total")
-        st.sidebar.write(correct_answers_counter,"/", len(quiz_data))
-
+        st.sidebar.write(correct_answers_counter, "/", len(quiz_data))
 
     except json.JSONDecodeError:
         st.error("Invalid JSON file. Please upload a valid JSON file.")

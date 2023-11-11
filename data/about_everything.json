@@ -98,7 +98,77 @@
     "question": "Linear Regression can be used for Classification:",
     "options": ["Yes, it can be used as is", "No, Logistic Regression is the right choice"],
     "correct_answer": "No, Logistic Regression is the right choice"
+  },
+  {
+    "question": "SMOTE - Synthetic Minority Over-sampling Technique - is",
+    "options": ["specialized algorithm designed to handle imbalanced data", "probably there is SMOTE, but it is not related to ML"],
+    "correct_answer": "specialized algorithm designed to handle imbalanced data"
+  },
+  {
+    "question": "In the context of linear regression, a <strong>scalar</strong> typically refers to a single numerical value, which is a continuous variable:",
+    "options": ["True", "False"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Natural Language Processing variable <strong>V</strong> means",
+    "options": ["Vocabulary", "Volume"],
+    "correct_answer": "Vocabulary"
+  },
+  {
+    "question": "Logistic Regression is a binary classification, which predicts [0,1] outcomes",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "Logistic Regression uses sigmoid function (logistic function)",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "In linear function y=mx+b, <strong>m</strong> and <strong>b</strong> are scalars:",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "In Python <strong>dtype</strong> is a function that belongs to NumPy library:",
+    "options": ["Yes, dtype is a function", "No, dtype is not a function, it is attribute of array"],
+    "correct_answer": ""
+  },
+  {
+    "question": "Difference between <strong>encoding</strong> and <strong>imputation</strong> respectively:",
+    "options": ["transforms data from categorical to numeric format / predicts missing values", "predicts missing values / transforms data from categorical to numeric format"],
+    "correct_answer": "transforms data from categorical to numeric format / predicts missing values"
+  },
+  {
+    "question": "Highest Precision in computing in PyTorch is achieved with:",
+    "options": ["64-bit floating point dtype, but torch.float32 maybe sufficient", "32-bit floating point dtype", "16-bit floating point dtype"],
+    "correct_answer": "64-bit floating point dtype, but torch.float32 maybe sufficient"
+  },
+  {
+    "question": "Neural Netwrok learns via tensors manipulation: multiply, divide, substract, add",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "The following manipulation on tensor<br>tensor = torch.tensor([1,2,3])<br>tensor + 10<br> returns",
+    "options": ["Error, multiplication does not work element-wise", "tensor([11,12,13])"],
+    "correct_answer": "tensor([11,12,13])"
+  },
+  {
+    "question": "The following manipulation on tensor<br>tensor = torch.tensor([1,2,3])<br>tensor * 10<br>tensor<br> returns",
+    "options": ["tensor([1,2,3])", "tensor([10,20,30])"],
+    "correct_answer": "tensor([1,2,3])"
+  },
+  {
+    "question": "Does tensor aggregation exist?",
+    "options": ["yes, MAX, MIN, MEAN and SUM", "no, it is impossible"],
+    "correct_answer": "yes, MAX, MIN, MEAN and SUM"
   }
+
 
 ]
  
+
+
+tensor = torch.tensor([1,2,3])
+tensor * 10

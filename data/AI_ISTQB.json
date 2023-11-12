@@ -1,6 +1,6 @@
 [
     {
-        "question": "Which of the following statements provides the BEST example of the ‘AI Effect’?",
+        "question": "Which of the following statements provides the <strong>BEST</strong> example of the ‘AI Effect’?",
         "options": ["People lose their jobs as AI-based systems perform their roles cheaper and better", "Competitive computer games lose popularity as AI-based systems always win", "Rule-based expert systems for medical diagnosis are no longer considered to be AI", "People believe AI will take over the world"], 
         "correct_answer": "Rule-based expert systems for medical diagnosis are no longer considered to be AI"
     },
@@ -26,7 +26,7 @@
     },
     {
         "question": "Which of the following statements about bias in AI-based systems is <strong>NOT</strong> correct?",
-        "options": ["Bias may be caused by users of a book recommendation system making choices that deliberately cause the system to make poor suggestions", "Bias may be caused in the employee age of death prediction system by collecting thetraining data from a dataset of patients who are all retired", "Bias may be caused in the creditworthiness system by using training data obtained from those who own and use a credit card", "Bias may be caused in the navigation system by using a route planning algorithm that is too complex to be explained to typical users"],
+        "options": ["Bias may be caused by users of a book recommendation system making choices that deliberately cause the system to make poor suggestions", "Bias may be caused in the employee age of death prediction system by collecting the training data from a dataset of patients who are all retired", "Bias may be caused in the creditworthiness system by using training data obtained from those who own and use a credit card", "Bias may be caused in the navigation system by using a route planning algorithm that is too complex to be explained to typical users"],
         "correct_answer": "Bias may be caused in the navigation system by using a route planning algorithm that is too complex to be explained to typical users"
     },
     {

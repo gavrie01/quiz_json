@@ -1,8 +1,10 @@
 import streamlit as st
 import json
 import random
+import time
 
 correct_answers_counter = 0  # add to st.sidebar
+
 
 st.title("Quiz ☕")
 
@@ -18,6 +20,7 @@ if uploaded_file:
             st.session_state.shuffled_order = list(range(len(quiz_data)))
             random.shuffle(st.session_state.shuffled_order)
 
+        
         for idx, question_idx in enumerate(st.session_state.shuffled_order, start=1):
             question_data = quiz_data[question_idx]
             question = question_data["question"]

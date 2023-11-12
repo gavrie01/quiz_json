@@ -141,7 +141,7 @@
   },
   {
     "question": "Highest Precision in computing in PyTorch is achieved with:",
-    "options": ["64-bit floating point dtype, but torch.float32 maybe sufficient", "32-bit floating point dtype", "16-bit floating point dtype"],
+    "options": ["64-bit floating point dtype, but torch.float32 may be sufficient for majority of tasks ", "32-bit floating point dtype", "16-bit floating point dtype"],
     "correct_answer": "64-bit floating point dtype, but torch.float32 maybe sufficient"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "question": "The following manipulation on tensor<br>tensor = torch.tensor([1,2,3])<br>tensor + 10<br> returns",
-    "options": ["Error, multiplication does not work element-wise", "tensor([11,12,13])"],
+    "options": ["Error, summation does not work element-wise", "tensor([11,12,13])"],
     "correct_answer": "tensor([11,12,13])"
   },
   {
@@ -163,8 +163,22 @@
     "question": "Does tensor aggregation exist?",
     "options": ["yes, MAX, MIN, MEAN and SUM", "no, it is impossible"],
     "correct_answer": "yes, MAX, MIN, MEAN and SUM"
+  },
+  {
+    "question": "A conventional system refers to a system that is widely accepted and commonly used within a particular field or industry. ",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "An adversarial testing is",
+    "options": ["a method for systematically evaluating an ML model with the intent of learning how it behaves when provided with malicious or inadvertently harmful input", "A/B testing"],
+    "correct_answer": "a method for systematically evaluating an ML model with the intent of learning how it behaves when provided with malicious or inadvertently harmful input"
+  },
+  {
+    "question": "",
+    "options": ["", ""],
+    "correct_answer": ""
   }
 
 
 ]
- 

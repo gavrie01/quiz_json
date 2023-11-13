@@ -1,0 +1,94 @@
+[
+ {
+    "question": "The ... assumes that all features in the input data are independent of each other (in ideal world)",
+    "options": ["Naive Bayes classifier", "Random Forest Classifier", "SVM"],
+    "correct_answer": "Naive Bayes classifier"
+  },
+  {
+    "question": "Independent feature is a:",
+    "options": ["Predictor", "Target Variable"],
+    "correct_answer": "Predictor"
+  },
+  {
+    "question": "Dependent fetature is a",
+    "options": ["Target Variable", "Predictor"],
+    "correct_answer": "Target Variable"
+  },
+  {
+    "question": "What function is used to remove missing values in pandas?",
+    "options": ["remove_na()", "drop_na()", "dropna()"],
+    "correct_answer": "dropna()"
+  },
+  {
+    "question": "What is <strongest>dot(scalar) product</strong> for vetors A = [a₁, a₂, a₃] and B = [b₁, b₂, b₃]) ",
+    "options": ["⚫ =a₁b₁+a₂b₂+a₃b₃", "⚫ = [a₁b₁,a₂b₂,a₃b₃]"],
+    "correct_answer": "⚫ =a₁b₁+a₂b₂+a₃b₃"
+  },
+  {
+    "question": "how can i get a dot product of two tensors in Pytorch?",
+    "options": ["torch.dot() / torch.matmul()", "there is not specific function", "apply torch.matmul() over torch.dot()"],
+    "correct_answer": "torch.dot(vector1, vector2)"
+  },
+  {
+    "question": "In PyTorch the notation i.e.(7, 7) usually refers to",
+    "options": ["the shape or dimensions of a tensor, not the values", "to the values, because the first coordinate is [0,0] by default"],
+    "correct_answer": "the shape or dimensions of a tensor, not the values"
+  },
+  {
+    "question": "Streamlit library (the latest in 2023 - 1.28.0) allows to upload json size of:",
+    "options": ["200MB", "100MB", "unlimited, it uploads by chunks"],
+    "correct_answer": "200MB"
+  },
+  {
+    "question": "Hadamard product is",
+    "options": ["element-wise multiplication of tensors", "another term for dot product"],
+    "correct_answer": "element-wise and dot product"
+  },
+  {
+    "question": "PyTorch mean() does not work with long dtype, tensor should be converted into another dtype",
+    "options": ["No, mean() does not work with float64", "Yes, mean() works with float64" ],
+    "correct_answer": "No, mean() does not work with float64"
+  },
+  {
+    "question": "In PyTorch, torch.stack([x,y,x,y], dim =1) is a",
+    "options": ["vertical stacking of two tensors", "horizontal stacking of two tensors"],
+    "correct_answer": "vertical stacking"
+  },
+  {
+    "question": "How to convert numPy array into tensor?",
+    "options": ["numpy array can be used as tensor, because multidimensional array is a tensor", "torch.numpy(ndarray)"],
+    "correct_answer": ""
+  },
+  {
+    "question": "Assuming A and B are random tensors, can I compare them like <strong>A == B</strong>)",
+    "options": ["no, comparison should be element-wise via looping", "yes, it is True /False element-wise comparison"],
+    "correct_answer": "yes, it is True /False element-wise comparison"
+  },
+  {
+    "question": "",
+    "options": ["", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "random_seed() makes reproducable randomness out of randomness",
+    "options": ["False", "True"],
+    "correct_answer": ""
+  },
+  {
+    "question": "Running tensors and PyTorch objects on GPUs makes computation faster",
+    "options": ["Yes!", "No, CPU and GPU give nearly the same time of computation"],
+    "correct_answer": "Yes!"
+  },
+  {
+    "question": "",
+    "options": ["", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "",
+    "options": ["", ""],
+    "correct_answer": ""
+  }
+
+
+]

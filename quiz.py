@@ -20,7 +20,7 @@ if uploaded_file:
             st.session_state.shuffled_order = list(range(len(quiz_data)))
             random.shuffle(st.session_state.shuffled_order)
 
-        
+      
         for idx, question_idx in enumerate(st.session_state.shuffled_order, start=1):
             question_data = quiz_data[question_idx]
             question = question_data["question"]

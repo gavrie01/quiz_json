@@ -4,9 +4,14 @@ import random
 import time
 
 correct_answers_counter = 0  # add to st.sidebar
-
-
 st.title("Quiz ☕")
+
+# Add a button to clear the session state
+clear_state_button = st.button("Clear Session State")
+
+# Check if the button is clicked
+if clear_state_button:
+    st.session_state.clear()
 
 uploaded_file = st.file_uploader("Upload your json or select existing in 'data/' folder", type=["json"])
 

@@ -27,7 +27,7 @@
   {
     "question": "how can i get a dot product of two tensors in Pytorch?",
     "options": ["torch.dot() / torch.matmul()", "there is not specific function", "apply torch.matmul() over torch.dot()"],
-    "correct_answer": "torch.dot(vector1, vector2)"
+    "correct_answer": "torch.dot() / torch.matmul()"
   },
   {
     "question": "In PyTorch the notation i.e.(7, 7) usually refers to",
@@ -42,7 +42,7 @@
   {
     "question": "Hadamard product is",
     "options": ["element-wise multiplication of tensors", "another term for dot product"],
-    "correct_answer": "element-wise and dot product"
+    "correct_answer": "element-wise multiplication of tensors"
   },
   {
     "question": "PyTorch mean() does not work with long dtype, tensor should be converted into another dtype",
@@ -52,12 +52,12 @@
   {
     "question": "In PyTorch, torch.stack([x,y,x,y], dim =1) is a",
     "options": ["vertical stacking of two tensors", "horizontal stacking of two tensors"],
-    "correct_answer": "vertical stacking"
+    "correct_answer": "vertical stacking of two tensors"
   },
   {
     "question": "How to convert numPy array into tensor?",
     "options": ["numpy array can be used as tensor, because multidimensional array is a tensor", "torch.numpy(ndarray)"],
-    "correct_answer": ""
+    "correct_answer": "torch.numpy(ndarray)"
   },
   {
     "question": "Assuming A and B are random tensors, can I compare them like <strong>A == B</strong>)",
@@ -72,7 +72,7 @@
   {
     "question": "random_seed() makes reproducable randomness out of randomness",
     "options": ["False", "True"],
-    "correct_answer": ""
+    "correct_answer": "True"
   },
   {
     "question": "Running tensors and PyTorch objects on GPUs makes computation faster",
@@ -103,6 +103,76 @@
     "question": "In 'GPT' Transformers mean",
     "options": ["Generally speaking it is a specific type of architecture", "Transactional Providers", "Transmitting Formulators"],
     "correct_answer": "Generally speaking it is a specific type of architecture"
+  },
+  {
+    "question": "MySQL, Oracle, PostgreSQL are examples of:",
+    "options": ["Time-Series DB", "NoSQL DB", "Relational DB"],
+    "correct_answer": "Relational DB"
+  },
+  {
+    "question": "InfluxDB, Graphite, Prometheus, TimescaleDB are examples of:",
+    "options": ["Time-Series DB", "NoSQL DB", "Relational DB"],
+    "correct_answer": "Time-Series DB"
+  },
+  {
+    "question": "MongoDB, Cassandra, Redis, Couchbase are examples of:",
+    "options": ["Time-Series DB", "NoSQL DB", "Relational DB"],
+    "correct_answer": "NoSQL DB"
+  },
+  {
+    "question": "Key-Value approach points to",
+    "options": ["Time-Series DB", "NoSQL DB", "Relational DB"],
+    "correct_answer": "NoSQL DB"
+  },
+  {
+    "question": "Data Lake is ....",
+    "options": ["another yet DB type, like Time-Series DB, etc", "storage repository that can hold vast amounts of data", "a lot of different data which swims in a Lake"],
+    "correct_answer": "storage repository that can hold vast amounts of data"
+  },
+  {
+    "question": "Data in Data Lakes is stored as",
+    "options": ["raw data in its native format", "structured tables similar to relational databases", "executable program files"],
+    "correct_answer": "raw data in its native format"
+  },
+  {
+    "question": "LZ4, Zstd, Snappy",
+    "options": ["machine learning models", "data compression algorithms", "transformers"],
+    "correct_answer": "data compression algorithms"
+  },
+  {
+    "question": "LZ4 has ... type",
+    "options": ["general purpose", "fast compression"],
+    "correct_answer": "fast compression"
+  },
+  {
+    "question": "",
+    "options": ["", "", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", ""],
+    "correct_answer": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", ""],
+    "correct_answer": ""
   }
 
 

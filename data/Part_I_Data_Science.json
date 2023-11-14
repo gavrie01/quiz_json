@@ -142,7 +142,7 @@
     {
       "question": "Highest Precision in computing in PyTorch is achieved with:",
       "options": ["64-bit floating point dtype, but torch.float32 may be sufficient for majority of tasks ", "32-bit floating point dtype", "16-bit floating point dtype"],
-      "correct_answer": "64-bit floating point dtype, but torch.float32 maybe sufficient"
+      "correct_answer": "64-bit floating point dtype, but torch.float32 may be sufficient for majority of tasks"
     },
     {
       "question": "Neural Netwrok learns via tensors manipulation: multiply, divide, substract, add",

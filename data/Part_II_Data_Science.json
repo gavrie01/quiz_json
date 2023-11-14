@@ -65,9 +65,9 @@
     "correct_answer": "yes, it is True /False element-wise comparison"
   },
   {
-    "question": "",
-    "options": ["", ""],
-    "correct_answer": ""
+    "question": "In PyTorch, the torch.manual_seed() function is used to set the random seed for the entire PyTorch environment",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes"
   },
   {
     "question": "random_seed() makes reproducable randomness out of randomness",
@@ -80,14 +80,29 @@
     "correct_answer": "Yes!"
   },
   {
-    "question": "",
-    "options": ["", ""],
-    "correct_answer": ""
+    "question": "Machine Learning models work with numerical data representation",
+    "options": ["Yes, all the input data is numerical / encoded", "No, such models like RandomForestClassifier use text as input"],
+    "correct_answer": "Yes, all the input data is numerical / encoded"
   },
   {
-    "question": "",
-    "options": ["", ""],
-    "correct_answer": ""
+    "question": "An ensemble model in machine learning refers to a",
+    "options": ["technique where multiple individual models are combined to create a stronger, robust model", "single powerful model that incorporates all possible features and algorithms, aiming to eliminate the need for combining multiple models"],
+    "correct_answer": "technique where multiple individual models are combined to create a stronger, robust model"
+  },
+  {
+    "question": "There are several types of ensemble methods, but two of the most common are",
+    "options": ["Boosting & Bagging", "Voting Classifiers/Regressors & GBM"],
+    "correct_answer": "Boosting & Bagging"
+  },
+  {
+    "question": "GPT stands for",
+    "options": ["Generative Pre-trained Transformers", "Global Positioning Technology"],
+    "correct_answer": "Generative Pre-trained Transformers"
+  },
+  {
+    "question": "In 'GPT' Transformers mean",
+    "options": ["Generally speaking it is a specific type of architecture", "Transactional Providers", "Transmitting Formulators"],
+    "correct_answer": "Generally speaking it is a specific type of architecture"
   }
 
 

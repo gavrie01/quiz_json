@@ -145,34 +145,34 @@
     "correct_answer": "fast compression"
   },
   {
-    "question": "",
-    "options": ["", "", ""],
-    "correct_answer": ""
+    "question": "torch.nn.Module is",
+    "options": ["base class for audio and video processing", "base class for all neural network models", "specific to handling image data"],
+    "correct_answer": "base class for all neural network models"
   },
   {
-    "question": "",
-    "options": ["", "", ""],
-    "correct_answer": ""
+    "question": "Default dtype for PyTorch tensor <strong>torch.float</strong> is",
+    "options": ["float16", "float64", "float32"],
+    "correct_answer": "float32"
   },
   {
-    "question": "",
-    "options": ["", "", ""],
-    "correct_answer": ""
+    "question": "How to check parameters of a model i.e. <strong>model_0 = LinearRegressionModel()</strong>",
+    "options": ["model_0.parameters()", "list(model_0.parameters())", "model_0.Parameters"],
+    "correct_answer": "list(model_0.parameters())"
   },
   {
-    "question": "",
-    "options": ["", "", ""],
-    "correct_answer": ""
+    "question": "How to check named parameters of a model i.e. <strong>model_0 = LinearRegressionModel()</strong>",
+    "options": ["model_0.named_parameters", "model_0.state_dict()"],
+    "correct_answer": "model_0.state_dict()"
   },
   {
-    "question": "",
-    "options": ["", "", ""],
-    "correct_answer": ""
+    "question": "What does <strong>inference</strong> mean in context of machine learning?",
+    "options": ["optimization of gradient descent during training", "process of making predictions or drawing conclusions from a trained model based on unseen data"],
+    "correct_answer": "process of making predictions or drawing conclusions from a trained model based on unseen data"
   },
   {
-    "question": "",
-    "options": ["", "", ""],
-    "correct_answer": ""
+    "question": "what does torch.inference_mode() do",
+    "options": ["tracks gradient descent", "turns gradient descent tracking off"],
+    "correct_answer": "turns gradient descent tracking off"
   }
 
 

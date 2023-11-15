@@ -2,8 +2,9 @@ import streamlit as st
 import json
 import random
 
-# Add text to the Streamlit sidebar
-st.sidebar.text("Matrices & Math:\nmatrixmultiplication.xyz")
+# Add markdown to the Streamlit sidebar
+st.sidebar.markdown("[Matrices & Math](http://matrixmultiplication.xyz)")
+
 
 correct_answers_counter = 0  # add to st.sidebar
 st.title("Quiz ☕")

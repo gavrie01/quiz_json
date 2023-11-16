@@ -55,14 +55,14 @@
         "correct_answer": "epoch"
       },
       {
-        "question": "Bias' values change to minimize the loss function and improve the model's performance",
+        "question": "In PyTorch <strong>optimizer</strong> algorithm calibrates the model's parameters (weights and biases) in the direction that reduces the value of the loss function",
         "options": ["Yes", "No"],
         "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "To measure how poor or how wrong model's predictions compare to ideal world are ... ... is used",
+        "options": ["Loss function", "Balance function", "Forward Pass function"],
+        "correct_answer": "Loss function"
       },
       {
         "question": "",

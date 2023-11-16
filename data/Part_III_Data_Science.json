@@ -1,0 +1,180 @@
+[
+    {
+       "question": "Can linear function be used as activation function in hidden layer of neural network?",
+       "options": ["yes, any math function can be used as activation function", "technically it can, but it defeats the purpose of having multiple layers, as the network would not be able to learn complex, non-linear patterns in the data"],
+       "correct_answer": "technically it can, but it defeats the purpose of having multiple layers, as the network would not be able to learn complex, non-linear patterns in the data"
+     },
+     {
+        "question": "Simple linear regression model can be considered as a basic form of a neural network with one input and one output neuron",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question": "What does correctly describe Rectified Linear Unit activation function?",
+        "options": ["the function returns x for any negative input and zero for any positive input", "the function returns abs(x) of negative input", "the function returns x for any positive input and zero for any negative input"],
+        "correct_answer": "the function returns x for any positive input and zero for any negative input"
+      },
+      {
+        "question": "Swish activation function has Sigmoid-Like behavior",
+        "options": ["Yes, because it contains sigmoid function", "No, Swish function has nothing to do with Sigmoid", "Yes, Swish another name of Sigmoid, it is the same function"],
+        "correct_answer": "Yes, because it contains sigmoid function"
+      },
+      {
+        "question": " f(x)=x⋅σ(βx) where:<br>x is the input to the function,<br>σ is the sigmoid function,<br>β is a predefined constant<br>is...",
+        "options": ["Swish function", "ELU function", "SELU function"],
+        "correct_answer": "Swish function"
+      },
+      {
+        "question": "Neuron's weight in input layer is ...",
+        "options": ["random value set by initialization algorithm", "assigned based on user preferences before training"],
+        "correct_answer": "random value set by initialization algorithm"
+      },
+      {
+        "question": "Forward Pass and Backward Pass are the fundamental stages of learning process where",
+        "options": ["NN defines random values for its initial layer", "NN learns by adjusting its parameters based on input data and computed errors, respectively", "These steps do not belong to NN at all"],
+        "correct_answer": "NN learns by adjusting its parameters based on input data and computed errors, respectively"
+      },
+      {
+        "question": "What if all NN weights were the same in input layer?",
+        "options": ["NN will not learn anything from this state", "It does not matter, because back propagation adjusts them", "They are initially the same, but weight is randomly chosen"],
+        "correct_answer": "NN will not learn anything from this state"
+      },
+      {
+        "question": "In Neural Network <strong>bias</strong> is a constant through the whole learning process?",
+        "options": ["Yes", "No"],
+        "correct_answer": "No"
+      },
+      {
+        "question": "In general, bias provides model with more flexibility to fit the data better",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question": "In context of Neural Network one complete pass through the entire training dataset, which consists of processing all the batches in the dataset is ...",
+        "options": ["century", "era", "epoch"],
+        "correct_answer": "epoch"
+      },
+      {
+        "question": "Bias' values change to minimize the loss function and improve the model's performance",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", "", ""],
+        "correct_answer": ""
+      }
+   
+   
+   ]
+   

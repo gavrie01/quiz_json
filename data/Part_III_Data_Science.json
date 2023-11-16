@@ -85,9 +85,9 @@
         "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "Epoch, Learning Rate are hyper parameters, because",
+        "options": ["system sets them and they can not be adjusted", "we (as ML engineers) set them by ourselves"],
+        "correct_answer": "we (as ML engineers) set them by ourselves"
       },
       {
         "question": "",

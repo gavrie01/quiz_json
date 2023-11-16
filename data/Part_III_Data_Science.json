@@ -45,7 +45,7 @@
         "correct_answer": "No"
       },
       {
-        "question": "In general, bias provides model with more flexibility to fit the data better",
+        "question": "In general, bias in NN provides model with more flexibility to fit the data better",
         "options": ["Yes", "No"],
         "correct_answer": "Yes"
       },
@@ -111,7 +111,7 @@
       },
       {
         "question": "In Python 'pass' statement is non-operation statement",
-        "options": ["skips code inside a loop iteration within current iteration", "yes, it is often used in situations where the syntax demands some code but you want to skip execution"],
+        "options": ["yes, skips code inside a loop iteration within current iteration", "yes, it is often used in situations where the syntax demands some code but you want to skip execution"],
         "correct_answer": "yes, it is often used in situations where the syntax demands some code but you want to skip execution"
       },
       {
@@ -125,12 +125,12 @@
         "correct_answer": "exit (terminate) the current loop prematurely"
       },
       {
-        "question": "Over sampling is technique for handling of imbalanced data sets, it  ...",
+        "question": "Over-sampling is technique for handling of imbalanced data sets, it  ...",
         "options": ["duplicates or creates new instances of the minority class to balance the class distribution", "removes instances from the majority class to balance the class distribution"],
         "correct_answer": "duplicates or creates new instances of the minority class to balance the class distribution"
       },
       {
-        "question": "Under sampling is technique for handling of imbalanced data sets, it ...",
+        "question": "Under-sampling is technique for handling of imbalanced data sets, it ...",
         "options": ["duplicates or creates new instances of the minority class to balance the class distribution", "removes instances from the majority class to balance the class distribution"],
         "correct_answer": "removes instances from the majority class to balance the class distribution"
       },

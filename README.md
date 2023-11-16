@@ -15,3 +15,6 @@ Content of JSON:
 2) New questions & answers are being added
 
 Feel free to use for your private purposes as well
+
+
+In case someone uses this repo for studying and finds inaccuracies / obvious bugs, please do not hesitate to contact me.

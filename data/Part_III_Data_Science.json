@@ -65,9 +65,9 @@
         "correct_answer": "Loss function"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "torch.optim.Adam is an example of",
+        "options": ["optimizer algorithm", "it is a joke, Adam is a human's name", "random weights selector"],
+        "correct_answer": "optimizer algorithm"
       },
       {
         "question": "",

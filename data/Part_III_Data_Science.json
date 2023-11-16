@@ -110,19 +110,19 @@
         "correct_answer": "before back propagation and after forward pass, because back propagation minimizes loss function value"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "In Python 'pass' statement is non-operation statement",
+        "options": ["skips code inside a loop iteration within current iteration", "yes, it is often used in situations where the syntax demands some code but you want to skip execution"],
+        "correct_answer": "yes, it is often used in situations where the syntax demands some code but you want to skip execution"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "In Python 'continue' statement is used to ...",
+        "options": ["it works exactly the same way as 'pass' statement", "skip the rest of the code inside a loop and move to the next iteration"],
+        "correct_answer": "skip the rest of the code inside a loop and move to the next iteration"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "In Python 'break' statement is used to ...",
+        "options": ["it is the same as 'continue' statement", "exit (terminate) the current loop prematurely"],
+        "correct_answer": "exit (terminate) the current loop prematurely"
       },
       {
         "question": "",

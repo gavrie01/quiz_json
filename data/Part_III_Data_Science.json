@@ -80,7 +80,7 @@
         "correct_answer": "5"
       },
       {
-        "question": "The smaller learning rate is, the bigger change it does to model's parameters",
+        "question": "The smaller <strong>learning rate</strong> parameter is, the bigger change it does to model's parameters",
         "options": ["Yes", "No"],
         "correct_answer": "Yes"
       },

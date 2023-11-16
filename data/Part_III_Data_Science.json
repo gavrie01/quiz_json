@@ -71,8 +71,8 @@
       },
       {
         "question": "in PyTorch <strong>Mean Absolute Error</strong> (loss) is",
-        "options": ["torch.nn.L1Loss", "torch.nn.CrossEntropyLoss", "torch.nn.CTCLoss"],
-        "correct_answer": "torch.nn.L1Loss"
+        "options": ["torch.nn.L1Loss()", "torch.nn.CrossEntropyLoss()", "torch.nn.CTCLoss()"],
+        "correct_answer": "torch.nn.L1Loss()"
       },
       {
         "question": "",

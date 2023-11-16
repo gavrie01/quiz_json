@@ -90,24 +90,24 @@
         "correct_answer": "we (as ML engineers) set them by ourselves"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "SQL is written in ...",
+        "options": ["Cobol", "Assembler", "C/C++", "Java"],
+        "correct_answer": "C/C++"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "Neurons that produce outputs close to zero or even zero itself during model training are excluded from learning process once an Epoch is completed",
+        "options": ["Yes, they are classified as white noise and spoil loss function results", "No, these neurons are still contributing to the network's ability to generalize and make predictions on new, unseen data"],
+        "correct_answer": "No, these neurons are still contributing to the network's ability to generalize and make predictions on new, unseen data"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "Xavier/Grolot, LeCun, He, Zero are ...",
+        "options": ["optimizing algorithms", "weights initialization algorithms", "loss calculation algorithms"],
+        "correct_answer": "weights initialization algorithms"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "Loss computation happens",
+        "options": ["before forward pass, since loss value is input for forward pass", "before back propagation and after forward pass, because back propagation minimizes loss function value", "at the beginning of each epoch"],
+        "correct_answer": "before back propagation and after forward pass, because back propagation minimizes loss function value"
       },
       {
         "question": "",

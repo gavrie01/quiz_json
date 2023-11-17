@@ -70,9 +70,9 @@
         "correct_answer": "a large dataset of text samples that are used for training, validating, or testing NLP models"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "<strong>Gradient</strong> in ML is ...",
+        "options": ["Logarithm from function with more than one input, mathematically speaking is it a slope", "Derivative from function with more than one input, mathematically speaking is it a slope"],
+        "correct_answer": "Derivative from function with more than one input, mathematically speaking is it a slope"
       },
       {
         "question": "",

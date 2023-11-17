@@ -25,44 +25,44 @@
         "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "CNN is ...",
+        "options": ["news service like BBC", "convolutional neural network"],
+        "correct_answer": "convolutional neural network"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Convolutional Neural Network does its best in ...",
+        "options": ["images classification / objects detection / image generation", "speech recognition", "articles spinning"],
+        "correct_answer": "images classification / objects detection / image generation"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Convolutional NN has convolutional layers, designed for processing grid-like data, such as images",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Convolutional Layer is Hidden layer",
+        "options": ["Yes, hidden layers are between input and output layers and Convolutional Layer is a type of Hidden layer", "No, Convolutional Layer is specific to CNN, all layers are Convolutional in there"],
+        "correct_answer": "Yes, hidden layers are between input and output layers and Convolutional Layer is a type of Hidden layer"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "When you need to work with sequential data, such as time series, natural language, speech, your choice is ...",
+        "options": ["CNN", "GAN", "RNN"],
+        "correct_answer": "RNN"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "RNN stands for ...",
+        "options": ["Recognitive Neural Network", "Recurrent Neural Network"],
+        "correct_answer": "Recurrent Neural Network"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "When processing sequential data, RNNs suffer from the vanishing gradient problem and the exploding gradient problem",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Wnen running the Python code below, result is...<br>result = eval('2 + 3')<br>print(result)",
+        "options": ["2+3", "5"],
+        "correct_answer": "5"
       },
       {
         "question": "",

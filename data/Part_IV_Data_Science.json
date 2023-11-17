@@ -1,0 +1,181 @@
+[
+    {
+       "question": "Example of synthetic data: artifically generated text or image that mimics patterns of real-world data",
+       "options": ["Yes", "No"],
+       "correct_answer": "Yes"
+     },
+     {
+        "question": "Why is synthetic data valuable for ML engineers?",
+        "options": ["the generation of synthetic data is not important, it is just an experiment so far with no purpose", "the generation of synthetic data is particularly valuable in situations where the use of real data may pose privacy concerns, data protection issues, or limitations on data sharing with researchers"],
+        "correct_answer": "the generation of synthetic data is particularly valuable in situations where the use of real data may pose privacy concerns, data protection issues, or limitations on data sharing with researchers"
+      },
+      {
+        "question": "Key components of a Generative Adversarial Network (GAN) architecture ...",
+        "options": ["Generator and Discriminator", "Generator and Distractor", "Transformer and Discriminator" ],
+        "correct_answer": "Generator and Discriminator"
+      },
+      {
+        "question": "The key moment in GAN is competition between Generator and Discriminator.<br>Generator generates i.e. text out of text and Discriminator classifies it as either real or fake",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question": "Discriminator and Generator are two neural networks in GAN, that learn from each other",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      },
+      {
+        "question": "",
+        "options": ["", ""],
+        "correct_answer": ""
+      }
+     
+   
+   
+   ]
+   

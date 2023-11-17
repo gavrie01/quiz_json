@@ -160,19 +160,19 @@
         "correct_answer": "No, not associated, there is no any specific layer, it belongs to the training process itself"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "What is GAN in AI?",
+        "options": ["Global Area Network", "Generative Adversarial Network", "Gallium Nitride"],
+        "correct_answer": "Generative Adversarial Network"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "Generative Adversarial Network is used to generate synthetic data",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", "", ""],
-        "correct_answer": ""
+        "question": "Synthetic data is ...",
+        "options": ["White noise", "artificially generated data that mimics the statistical properties and patterns of real-world data", "term related to feature engineering"],
+        "correct_answer": "artificially generated data that mimics the statistical properties and patterns of real-world data"
       }
    
    

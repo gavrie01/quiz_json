@@ -85,9 +85,9 @@
         "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "PyTorch objects usually have extension...",
+        "options": ["pth", "ipynb"],
+        "correct_answer": "pth"
       },
       {
         "question": "",

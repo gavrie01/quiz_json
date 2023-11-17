@@ -60,7 +60,7 @@
         "correct_answer": "Yes"
       },
       {
-        "question": "Wnen running the Python code below, result is...<br>result = eval('2 + 3')<br>print(result)",
+        "question": "Wnen running the Python code below, result of <strong>default</strong> eval() is...<br>result = eval('2 + 3')<br>print(result)",
         "options": ["2+3", "5"],
         "correct_answer": "5"
       },
@@ -75,14 +75,14 @@
         "correct_answer": "Derivative from function with more than one input, mathematically speaking is it a slope"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "eval() in PyTorch and built in eval() serve different purposes",
+        "options": ["Yes, these functions are different", "No, these functions are the same"],
+        "correct_answer": "Yes, these functions are different"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "eval() in PyTorch sets a model into evaluation mode, in evaluation mode, the model behaves differently than in training mode",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
         "question": "",

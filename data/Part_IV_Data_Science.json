@@ -65,9 +65,9 @@
         "correct_answer": "5"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In NLP term 'corpus' means...",
+        "options": ["stemming & lemmatization of tokenized text", "a large dataset of text samples that are used for training, validating, or testing NLP models"],
+        "correct_answer": "a large dataset of text samples that are used for training, validating, or testing NLP models"
       },
       {
         "question": "",

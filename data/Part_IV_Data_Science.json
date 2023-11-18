@@ -1,6 +1,6 @@
 [
     {
-       "question": "Example of synthetic data: artifically generated text or image that mimics patterns of real-world data",
+       "question": "It is an example of synthetic data: artifically generated text or image that mimics patterns of real-world data",
        "options": ["Yes", "No"],
        "correct_answer": "Yes"
      },
@@ -71,8 +71,8 @@
       },
       {
         "question": "<strong>Gradient</strong> in ML is ...",
-        "options": ["Logarithm from function with more than one input, mathematically speaking is it a slope", "Derivative from function with more than one input, mathematically speaking is it a slope"],
-        "correct_answer": "Derivative from function with more than one input, mathematically speaking is it a slope"
+        "options": ["Logarithm from function with more than one input, mathematically speaking it is a slope", "Derivative from function with more than one input, mathematically speaking it is a slope"],
+        "correct_answer": "Derivative from function with more than one input, mathematically speaking it is a slope"
       },
       {
         "question": "eval() in PyTorch and built in eval() serve different purposes",
@@ -85,34 +85,34 @@
         "correct_answer": "Yes"
       },
       {
-        "question": "PyTorch objects usually have extension...",
+        "question": "PyTorch objects (i.e. saved pytorch model) usually have extension...",
         "options": ["pth", "ipynb"],
         "correct_answer": "pth"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "What is <strong>LangChain</strong>?",
+        "options": ["Large Language Model", "Open-source Framework that uses as input a Large Language Model"],
+        "correct_answer": "Open-source Framework that uses as input a Large Language Model"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In LangChain this<br><strong>User Input -> Intent Recognition -> Data Retrieval -> Language Model -> Output Formatter</strong><br>is example of",
+        "options": ["chain in LangChain", "link in LangChain"],
+        "correct_answer": "chain in LangChain"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In the scenaraio<br><strong>User Input -> Intent Recognition -> Data Retrieval -> Language Model -> Output Formatter</strong><br>LLM component in LangChain could be responsible for ...",
+        "options": ["gathering relevant info on the topic", "formulating an appropriate response back", "recognition of user's intention"],
+        "correct_answer": "formulating an appropriate response back"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "pip install langchain",
+        "options": ["installs LangChain library", "does not do anything, because this library is built-in"],
+        "correct_answer": "installs LangChain library"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "LangChain library is written in",
+        "options": ["Python + Java", "Python"],
+        "correct_answer": "Python + Java"
       },
       {
         "question": "",

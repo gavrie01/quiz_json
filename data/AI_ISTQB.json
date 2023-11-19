@@ -5,7 +5,7 @@
         "correct_answer": "Rule-based expert systems for medical diagnosis are no longer considered to be AI"
     },
     {
-        "question": "Which of the following options is NOT a technology used to implement AI?",
+        "question": "Which of the following options is <strong>NOT</strong> a technology used to implement AI?",
         "options": ["Support vector machine", "Decision Tree", "Evolutionary reasoning", "Bayesian optimization"],
         "correct_answer": "Evolutionary reasoning"
     },
@@ -40,7 +40,7 @@
         "correct_answer": "I, IV"
     },
     {
-        "question": "Which of the following statements BEST describes classification and regression as part of supervised learning?",
+        "question": "Which of the following statements <strong>BEST</strong> describes classification and regression as part of supervised learning?",
         "options": ["Regression is checking that the ML model test results do not change when the same test data is executed", "Classification is the grouping of unlabeled data into separate classes", "Classification is the labelling of the data for training the ML model", "Regression is predicting the number of classes that are output by the ML model"],
         "correct_answer": "Classification is the grouping of unlabeled data into separate classes"
     },
@@ -132,7 +132,7 @@
     },
     {
         "question": "Which of the following statements <strong>BEST</strong> describes how system complexity can create challenges when testing an AI-based system?",
-        "options": ["Testing for bias may require data that the team does not have", "Manual generation of white-box tests can be difficult", "Determining whether a system is ethical can be subjective", "It can be difficult to find representative data to train a mode"],
+        "options": ["Testing for bias may require data that the team does not have", "Manual generation of white-box tests can be difficult", "Determining whether a system is ethical can be subjective", "It can be difficult to find representative data to train a model"],
         "correct_answer": "Manual generation of white-box tests can be difficult"
     },
     {

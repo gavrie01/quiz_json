@@ -38,10 +38,6 @@ page_bg_img = f"""
 """
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
-
-
-
-
 # Add markdown to the Streamlit sidebar
 st.sidebar.markdown("[Matrices & Math](http://matrixmultiplication.xyz)")
 correct_answers_counter = 0  # add to st.sidebar
@@ -49,6 +45,9 @@ st.title("Quiz")
 
 # Add a button to clear the session state
 clear_state_button = st.button("Clear Session State")
+
+#language selector
+#selected_language = st.radio("Select Language", ["English", "German", "Russian"])
 
 # Check if the button is clicked
 if clear_state_button:

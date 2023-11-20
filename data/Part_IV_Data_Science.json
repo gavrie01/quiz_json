@@ -1,6 +1,6 @@
 [
     {
-       "question": "It is an example of synthetic data: artifically generated text or image that mimics patterns of real-world data",
+       "question": "It is an example of synthetic data: artificially generated text or image that mimics patterns of real-world data",
        "options": ["Yes", "No"],
        "correct_answer": "Yes"
      },
@@ -125,54 +125,54 @@
         "correct_answer": "Yes, it is a reasonable simplification, each neuron (or node) typically performs a mathematical operation on the input it receives"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Output of each Neuron in NN is ...",
+        "options": ["Input for next Neuron in the line", "All the Neurons are independent"],
+        "correct_answer": "Input for next Neuron in the line"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Process of scaling and centering input data before feeding it into the neural network is called",
+        "options": ["Regularization", "Normalization", "Optimization"],
+        "correct_answer": "Normalization"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Normalization typically happens in Input Layer of NN, so hidden layers work with normalized input",
+        "options": ["No", "Yes, but it depends, Normalization is a significant topic"],
+        "correct_answer": "Yes, but it depends, Normalization is a significant topic"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Z-score ..., Min / Max ...",
+        "options": ["Normalization", "Loss Function", "Distribution"],
+        "correct_answer": "Normalization"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "BatchNorm can be applied to all layers of NN",
+        "options": ["Yes", "Yes, except Output Layer"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Main idea of BatchNorm ...",
+        "options": ["normalizes the inputs of each layer by subtracting the mean and dividing by the standard deviation of the batch", "normalizes the inputs of input layer by subtracting the mean and dividing by the standard deviation of the batch"],
+        "correct_answer": "normalizes the inputs of each layer by subtracting the mean and dividing by the standard deviation of the batch"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "BatchNorm is applied",
+        "options": ["feature/neuron-wise", "to Neurons' weights only"],
+        "correct_answer": "feature/neuron-wise"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "The number of neurons in the input layer should match the number of features in your dataset",
+        "options": ["No, a Neuron can be associated with a few features", "Exactly"],
+        "correct_answer": "Exactly"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Is it correct statement:<br>In the input layer of a neural network, each feature in your dataset is considered a dimension.<br>For example, if you have a dataset with three features (e.g., height, weight, age), the input layer would have three neurons, and each neuron corresponds to one dimension",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "<strong>Embedding</strong> in NN is ...",
+        "options": ["there is no such term in NN", "continuous vector"],
+        "correct_answer": "continuous vector"
       }
      
    

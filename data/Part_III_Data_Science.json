@@ -156,7 +156,7 @@
       },
       {
         "question": "Underfitting prevention is not associated with a specific layer in neural network",
-        "options": ["Yes, it is associated, it happens in Dropout layer as we as overfitting prevention", "No, not associated, there is no any specific layer, it belongs to the training process itself"],
+        "options": ["Yes, it is associated, it happens in Dropout layer as well as overfitting prevention", "No, not associated, there is no any specific layer, it belongs to the training process itself"],
         "correct_answer": "No, not associated, there is no any specific layer, it belongs to the training process itself"
       },
       {

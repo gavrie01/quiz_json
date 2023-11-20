@@ -120,9 +120,9 @@
         "correct_answer": "* means 'unpacking', '_' is a legal name of variable, ',' is layout formatting, so _ = ['P', 'y', 't', 'h', 'o', 'n']"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Each Neuron in NN is a math. operation",
+        "options": ["Yes, it is a reasonable simplification, each neuron (or node) typically performs a mathematical operation on the input it receives", "No, because Neurons in hidden layers do not perform any math. operations"],
+        "correct_answer": "Yes, it is a reasonable simplification, each neuron (or node) typically performs a mathematical operation on the input it receives"
       },
       {
         "question": "",

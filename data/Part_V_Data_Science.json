@@ -10,24 +10,24 @@
         "correct_answer": "Outlier, since this data point spoils the whole distribution"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "What is vanilla Python?",
+        "options": ["Seriously?", "Python is called vanilla or CPython to distinguish it from other Python implementations, such as Jython, PyPy, etc"],
+        "correct_answer": "Python is called 'vanilla' to distinguish it from other Python implementations, such as Jython (Python on the Java Virtual Machine), etc"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "The primary differences between different Python implementations lie in",
+        "options": ["underlying environments and implementation details", "in syntax of Python itself"],
+        "correct_answer": "underlying environments and implementation details"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Among all the 'dialects' of Python there is one that uses JIT (Just-in-Time) compiler and works a bit faster",
+        "options": ["Iron Python", "PyPy", "CPhyton"],
+        "correct_answer": "PyPy"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "What is tabular data?",
+        "options": ["data organized in two dimensional array, typically with rows and columns", "taboo data, needs to be de-anonymized before scientific processes"],
+        "correct_answer": "data organized in two dimensional array, typically with rows and columns"
       },
       {
         "question": "",

@@ -56,8 +56,8 @@
       },
       {
         "question": "In PyTorch, how does layers 'communicate' together?",
-        "options": ["in_features / out_features parameters of a model set by ML engineer", "this data is automatically sent from layer to layer, ML engineer has no influence"],
-        "correct_answer": "in_features / out_features parameters of a model set by ML engineer"
+        "options": ["in_features / out_features parameters of a model set by ML engineer (layers_1.out_features == layer_2.in_features)", "this data is automatically sent from layer to layer, ML engineer has no influence"],
+        "correct_answer": "in_features / out_features parameters of a model set by ML engineer (layers_1.out_features == layer_2.in_features)"
       },
       {
         "question": "",

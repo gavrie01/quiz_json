@@ -40,6 +40,7 @@ page_bg_img = f"""
 st.markdown(page_bg_img, unsafe_allow_html=True)
 # Add markdown to the Streamlit sidebar
 st.sidebar.markdown("[Matrices & Math](http://matrixmultiplication.xyz)")
+st.sidebar.markdown("[Tensors Playground](https://playground.tensorflow.org)")
 correct_answers_counter = 0  # add to st.sidebar
 st.title("Quiz")
 

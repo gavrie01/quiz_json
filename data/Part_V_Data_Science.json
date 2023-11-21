@@ -30,34 +30,34 @@
         "correct_answer": "data organized in two dimensional array, typically with rows and columns"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In Python sklearn library, there is a list of ready to go data sets, how can i check its content",
+        "options": ["dataset_list = datasets.__all__", "dataset_list = load_all(__data_sets__)"],
+        "correct_answer": "dataset_list = datasets.__all__"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Dataframe and Dataset mean same thing in Data Science",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In Data Science, Datasets are typically small in size, easy to understand, and used to demonstrate or test algorithms, models, or code snippets are called...",
+        "options": ["Educational Datasets", "Toy Datasets", "OOB Datasets"],
+        "correct_answer": "Toy Datasets"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In Data Science <strong>fit</strong> means:",
+        "options": ["applying an algorithm to learn the patterns and relationships within the training data so that the model can make predictions on new, unseen data", "scaling"],
+        "correct_answer": "applying an algorithm to learn the patterns and relationships within the training data so that the model can make predictions on new, unseen data"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In PyTorch all classes being created by ML engineer are inherited from:",
+        "options": ["nn.Parameters, it is the base class for all NN modules", "nn.Modules, it is the base class for all NN modules"],
+        "correct_answer": "nn.Modules, it is the base class for all NN modules"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In PyTorch, how does layers 'communicate' together?",
+        "options": ["in_features / out_features parameters of a model set by ML engineer", "this data is automatically sent from layer to layer, ML engineer has no influence"],
+        "correct_answer": "in_features / out_features parameters of a model set by ML engineer"
       },
       {
         "question": "",

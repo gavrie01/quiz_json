@@ -60,74 +60,74 @@
         "correct_answer": "in_features / out_features parameters of a model set by ML engineer (layers_1.out_features == layer_2.in_features)"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In the context of binary classification, where the goal is to classify instances into one of two classes (e.g., positive or negative), cross-entropy is often used as ...",
+        "options": ["a Loss function", "a measure of Perplexity"],
+        "correct_answer": "a Loss function"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "This is<br>−(y⋅log(p)+(1−y)⋅log(1−p)), where y is true label (0,1) and p is predicted probability is ...",
+        "options": ["Shannon Entropy", "Binary Cross-Entropy", "Gini Impurity", "Entropy in Decision Trees"],
+        "correct_answer": "Binary Cross-Entropy"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "The term <strong>sigmoid function</strong> is used to refer to a class of functions with ...",
+        "options": ["Line with negative slope", "S-shaped curves", "Convex function"],
+        "correct_answer": "S-shaped curves"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Inverse of ... function is <strong>sigmoid</strong> function",
+        "options": ["logit", "swish"],
+        "correct_answer": "logit"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "e^ax is an example of ...",
+        "options": ["linear function", "convex function"],
+        "correct_answer": "convex function"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Softmax is a mathematical function that converts a vector of real numbers into a probability distribution",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Softmax function is often used in the ... layer of a neural network to produce probabilities for multiple classes",
+        "options": ["input", "output", "hidden"],
+        "correct_answer": "output"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Output of Softmax function is:",
+        "options": ["a vector where each element is a non-negative real number between 0 and 1, and the sum of all elements is 1", "a vector where each element is a negative number between 0 and 1"],
+        "correct_answer": "a vector where each element is a non-negative real number between 0 and 1, and the sum of all elements is 1"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "The <strong>softmax</strong> function is commonly used for ... in the context of deep learning",
+        "options": ["weights randomizing", "normalization"],
+        "correct_answer": "normalization"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In machine learning, especially in the context of binary classification, the term <strong>logit</strong> is often used in the ... ... model",
+        "options": ["random forest", "logistic regression", "linear regression"],
+        "correct_answer": "logistic regression"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "What does this function do: torch.nn.BCEWithLogitsLoss()",
+        "options": ["this function combines binary cross-entropy with logit loss function and built-in sigmoid activation function, this is a loss function commonly used for binary classification problems", "this function combines binary cross-entropy with logit loss function, this is a loss function commonly used linear regression problems"],
+        "correct_answer": "this function combines binary cross-entropy with logit loss function and built-in sigmoid activation function, this is a loss function commonly used for binary classification problems"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "... = True Positive / (True Positive + True Negative) * 100",
+        "options": ["Accuracy", "Recall", "Precision"],
+        "correct_answer": "Accuracy"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "torch.eq(y_true, y_pred) returns ...",
+        "options": ["it is boolean", "maximum of two arrays"],
+        "correct_answer": "it is boolean"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In DL, raw outputs of a model without being passed to activation function to another of a model is called ...",
+        "options": ["there is no raw input, it is always processed", "logit"],
+        "correct_answer": "logit"
       },
       {
         "question": "",

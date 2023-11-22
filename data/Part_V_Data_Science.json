@@ -126,18 +126,18 @@
       },
       {
         "question": "In DL, raw outputs of a model without being passed to activation function to another of a model is called ...",
-        "options": ["there is no raw input, it is always processed", "logit"],
-        "correct_answer": "logit"
+        "options": ["there is no raw input, it is always processed", "logits"],
+        "correct_answer": "logits"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "What is the difference between<br><strong>(1) for epoch in range(epochs)</strong><br>and<br><strong>(2)for epoch in epochs</strong>",
+        "options": ["(1)iterates over a range of numerical values, (2)iterates over the elements of an iterable object (e.g., a list) and the output is the same", "(1)iterates over the elements of an iterable object (e.g., a list), (2)iterates over a range of numerical values and the output is the same"],
+        "correct_answer": "(1)iterates over a range of numerical values, (2)iterates over the elements of an iterable object (e.g., a list) and the output is the same"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": " In PyTorchб optimizer.zero_grad() is responsible for",
+        "options": ["before performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing", "after performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing"],
+        "correct_answer": "before performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing"
       },
       {
         "question": "",

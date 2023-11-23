@@ -125,7 +125,7 @@
         "correct_answer": "it is boolean"
       },
       {
-        "question": "In DL, raw outputs of a model without being passed to activation function to another of a model is called ...",
+        "question": "In DL, raw, unnormalized outputs of a model without being passed to activation function to another of a model is called ...",
         "options": ["there is no raw input, it is always processed", "logits"],
         "correct_answer": "logits"
       },

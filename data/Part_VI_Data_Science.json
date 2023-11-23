@@ -1,0 +1,181 @@
+[
+    {
+       "question": "'Valid', 'Same', 'Full' are types of ... in a Neural Network",
+       "options": ["pooling", "padding"],
+       "correct_answer": "padding"
+     },
+     {
+      "question": "Padding in Neural Network is widely used in .... processing",
+      "options": ["image", "natural language"],
+      "correct_answer": "image"
+    },
+    {
+      "question": "<strong>Convolution Operation</strong> in CNN involves sliding the filters over ...",
+      "options": ["the output data, element-wise multiplying the filter values with the overlapping input values, and summing the results", "the input data, element-wise multiplying the filter values with the overlapping input values, and summing the results"],
+      "correct_answer": "the input data, element-wise multiplying the filter values with the overlapping input values, and summing the results"
+    },
+    {
+      "question": "RNN / Transformers: Padding is used in Tokenization in NLP for which purpose?",
+      "options": ["for randomization of sequences", "it adds special tokens (often representing padding) to ensure that all sequences in a batch have the same length"],
+      "correct_answer": "it adds special tokens (often representing padding) to ensure that all sequences in a batch have the same length"
+    },
+    {
+      "question": "'Valid' type of Padding means",
+      "options": ["no padding is added, and the filter or pooling window moves across the input without extra elements", "padding is added, and the filter or pooling window moves across the input with one extra element"],
+      "correct_answer": "no padding is added, and the filter or pooling window moves across the input without extra elements"
+    },
+    {
+      "question": "<strong>Output size = (Input size + 2 * padding - filter size) / stride + 1</strong><br> illustrates  what type of <strong>Padding</strong> in CNN?",
+      "options": ["Full", "Valid", "Same"],
+      "correct_answer": "Same"
+    },
+    {
+      "question": "In 2023, in NN context, how many spatial dimensions are used in NN?",
+      "options": ["1D, 2D, 3D", "1D, 2D, 3D, 4D", "1D, 2D, 3D, 4D, 5D"],
+      "correct_answer": "1D, 2D, 3D"
+    },
+    {
+      "question": "What is the purpose of device-agnostic code?",
+      "options": ["the purpose is to create a software that stably works on the same device and does not depend on OS of device", "the purpose is to create software that provides a seamless and consistent experience to users regardless of the specific device they are using"],
+      "correct_answer": "the purpose is to create software that provides a seamless and consistent experience to users regardless of the specific device they are using"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+     
+     
+   
+   ]
+   

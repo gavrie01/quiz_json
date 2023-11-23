@@ -140,34 +140,34 @@
         "correct_answer": "before performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "What is vector of repeated values?",
+        "options": ["it is a multi-dimensional array (vector) where all elements have the same value", "it is a one-dimensional array (vector) where all elements have the same value"],
+        "correct_answer": "it is a one-dimensional array (vector) where all elements have the same value"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "Give an example of vector of repeated values",
+        "options": ["[2, 2, 2, 2]", "[1, 2, 3, 1, 2, 3]"],
+        "correct_answer": "[2, 2, 2, 2]"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "A tensor with shape (1, 3, 1, 4) has sgingleton dimensions, how much?",
+        "options": ["1", "2", "3", "4"],
+        "correct_answer": "2"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "In PyTorch squeeze() helps to get read of",
+        "options": ["unnecessary dimensions", "repetition of vectors"],
+        "correct_answer": "unnecessary dimensions"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "The effectiveness of a neural network depends on a balance between model complexity and the available data",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "PyTorch itself ... .... a built-in visualization tool like TensorBoard",
+        "options": ["provides, it uses torchvision library for the purpose", "does not provide, it uses torch.utils.tensorboard module from TensorFLow"],
+        "correct_answer": "does not provide, it uses torch.utils.tensorboard module from TensorFLow"
       },
       {
         "question": "",

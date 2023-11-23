@@ -150,7 +150,7 @@
         "correct_answer": "[2, 2, 2, 2]"
       },
       {
-        "question": "A tensor with shape (1, 3, 1, 4) has sgingleton dimensions, how much?",
+        "question": "A tensor with shape (1, 3, 1, 4) has singleton dimensions, how much?",
         "options": ["1", "2", "3", "4"],
         "correct_answer": "2"
       },
@@ -170,9 +170,9 @@
         "correct_answer": "does not provide, it uses torch.utils.tensorboard module from TensorFLow"
       },
       {
-        "question": "",
-        "options": ["", ""],
-        "correct_answer": ""
+        "question": "<strong>sklearn</strong> is just a shorter alias or nickname for ...",
+        "options": ["numpy", "scikit-learn"],
+        "correct_answer": "scikit-learn"
       }
      
    

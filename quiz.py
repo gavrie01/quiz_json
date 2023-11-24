@@ -42,6 +42,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 st.sidebar.markdown("[Matrices & Math](http://matrixmultiplication.xyz)")
 st.sidebar.markdown("[Tensors Playground](https://playground.tensorflow.org)")
 st.sidebar.markdown("[Binary Cross-Entropy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)")
+st.sidebar.markdown("[PyTorch Docs](https://pytorch.org/docs/stable/index.html)")
 correct_answers_counter = 0  # add to st.sidebar
 st.title("Quiz")
 

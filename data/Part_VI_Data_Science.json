@@ -50,7 +50,7 @@
       "correct_answer": "A is int64, B is float32, because of steps = 1 and 0.1 respectively"
     },
     {
-      "question": "A = torch.arange(-10, 10, 1, dtype = torch.float32), in this code float32 tensor type os forcedly set",
+      "question": "A = torch.arange(-10, 10, 1, dtype = torch.float32), in this code float32 tensor type is forcedly set",
       "options": ["Yes", "No"],
       "correct_answer": "Yes"
     },
@@ -81,8 +81,8 @@
     },
     {
       "question": "Being a ML engineer you would like to help your QA colleagues and generate <strong>Test Cases</strong> for the next release (yes, it is a very complex task, but let us assume it comes to a model choice only), what would you choose from the list below?",
-      "options": ["sequence-to-sequence models (Seq2Seq)", "CNN"],
-      "correct_answer": "sequence-to-sequence models (Seq2Seq)"
+      "options": ["sequence-to-sequence models (Seq2Seq)", "CNN", "Both can be used, but Seq2Seq is 'natural' and therefore faster"],
+      "correct_answer": "Both can be used, but Seq2Seq is more 'natural' and therefore faster"
     },
     {
       "question": "What does require Machine Learning from the list below?",

@@ -50,9 +50,9 @@
       "correct_answer": "A is int64, B is float32, because of steps = 1 and 0.1 respectively"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A = torch.arange(-10, 10, 1, dtype = torch.float32), in this code float32 tensor type os forcedly set",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
       "question": "",

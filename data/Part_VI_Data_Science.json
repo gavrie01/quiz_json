@@ -40,9 +40,9 @@
       "correct_answer": "the purpose is to create software that provides a seamless and consistent experience to users regardless of the specific device they are using"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Explain this line of code<br>y_pred = torch.round(torch.sigmoid(y_logits))<br>",
+      "options": ["activation function (sigmoid in this case) is applied to y_logits (a tensor), the output is rounded to the nearest integer, since sigmoid function produces values 0 or 1", "activation function (sigmoid in this case) is applied to y_logits (a tensor), the output is rounded to the nearest float, since sigmoid function produces values between 0 or 1"],
+      "correct_answer": "activation function (sigmoid in this case) is applied to y_logits (a tensor), the output is rounded to the nearest integer, since sigmoid function produces values 0 or 1"
     },
     {
       "question": "",

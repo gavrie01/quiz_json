@@ -65,34 +65,34 @@
       "correct_answer": "All the above"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "PCA, tSNE, NMF are algorithms of ...",
+      "options": ["dimensionality reduction in unsupervised learning", "clustering in unsupervised learning", "dimensionality reduction in supervised learning"],
+      "correct_answer": "dimensionality reduction in deep learning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "CNN, RNN belong to",
+      "options": ["supervised deep learning", "supervised machine learning", "clustering in unsupervised learning"],
+      "correct_answer": "supervised deep learning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "As a Machine Learning Engineer you would like to help your QA colleagues to predict number of defects in upcoming Release.<br>Looking into data being collected, you see there is a number of features that looks like have non-linear relationship to number of defects.<br>What (from the given options below) would you choose?",
+      "options": ["Ensamble Methods, Neural Networks", "Multiple Linear Regression, Logistic Regression"],
+      "correct_answer": "Ensamble Methods, Neural Networks"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Being a ML engineer you would like to help your QA colleagues and generate <strong>Test Cases</strong> for the next release (yes, it is a very complex task, but let us assume it comes to a model choice only), what would you choose from the list below?",
+      "options": ["sequence-to-sequence models (Seq2Seq)", "CNN"],
+      "correct_answer": "sequence-to-sequence models (Seq2Seq)"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What does require Machine Learning from the list below?",
+      "options": ["Fibonacci Sequence Prediction", "sorting a large list of numbers (1 000 000 + items)", "email spam classification"],
+      "correct_answer": "email spam classification"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Validating the strength of a password requires machine learning to analyze patterns and complexity, why?",
+      "options": ["it does not, because validation is rule-based", "it does, because I am not developer / ML engineer and to me this validation seems magic"],
+      "correct_answer": "it does not, because validation is rule-based"
     },
     {
       "question": "",

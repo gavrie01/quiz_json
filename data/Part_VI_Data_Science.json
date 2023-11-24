@@ -45,9 +45,9 @@
       "correct_answer": "activation function (sigmoid in this case) is applied to y_logits (a tensor), the output is rounded to the nearest integer, since sigmoid function produces values 0 or 1"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A = torch.arange(-10, 10, 1) and B = torch.arange(-10, 10, 0.1) creates tensors of which types?",
+      "options": ["A is int64, B is float32, because of steps = 1 and 0.1 respectively", "these are not tensors, these are one dimensional arrays"],
+      "correct_answer": "A is int64, B is float32, because of steps = 1 and 0.1 respectively"
     },
     {
       "question": "",

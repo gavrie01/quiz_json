@@ -55,9 +55,9 @@
       "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What does this construction mean (generally in Python)?<br>def relu(x: torch.Tensor) -> torch.Tensor:...<br>",
+      "options": ["this function accepts x of torch.Tensor type and returns torch.Tensor type as output", "this construction does not work, because the function already knows the output type, it is torch.Tensor"],
+      "correct_answer": "this function accepts x of torch.Tensor type and returns torch.tensor type as well"
     },
     {
       "question": "",

@@ -67,7 +67,7 @@
     {
       "question": "PCA, tSNE, NMF are algorithms of ...",
       "options": ["dimensionality reduction in unsupervised learning", "clustering in unsupervised learning", "dimensionality reduction in supervised learning"],
-      "correct_answer": "dimensionality reduction in deep learning"
+      "correct_answer": "dimensionality reduction in unsupervised learning"
     },
     {
       "question": "CNN, RNN belong to",

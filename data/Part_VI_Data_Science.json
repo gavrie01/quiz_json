@@ -60,9 +60,9 @@
       "correct_answer": "this function accepts x of torch.Tensor type and returns torch.tensor type as well"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... refer to a group of data points that share similar characteristics or form a distinct pattern within a dataset",
+      "options": ["Blob", "Cluster", "All the above"],
+      "correct_answer": "All the above"
     },
     {
       "question": "",

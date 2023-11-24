@@ -116,8 +116,8 @@
       },
       {
         "question": "Explain this construction in Python<br><strong>*_, = 'Python'</strong>",
-        "options": ["*_, is illegal name of a variable in Python, so we will get runtime error", "* means 'unpacking', '_' is a legal name of variable, ',' is layout formatting, so _ = ['P', 'y', 't', 'h', 'o', 'n']"],
-        "correct_answer": "* means 'unpacking', '_' is a legal name of variable, ',' is layout formatting, so _ = ['P', 'y', 't', 'h', 'o', 'n']"
+        "options": ["*_, is illegal name of a variable in Python, so we will get runtime error", "'*' means 'unpacking', '_' is a legal name of variable, ',' is layout formatting, so _ = ['P', 'y', 't', 'h', 'o', 'n']"],
+        "correct_answer": "'*' means 'unpacking', '_' is a legal name of variable, ',' is layout formatting, so _ = ['P', 'y', 't', 'h', 'o', 'n']"
       },
       {
         "question": "Each Neuron in NN is a math. operation",

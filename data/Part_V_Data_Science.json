@@ -12,7 +12,7 @@
       {
         "question": "What is vanilla Python?",
         "options": ["Seriously?", "Python is called vanilla or CPython to distinguish it from other Python implementations, such as Jython, PyPy, etc"],
-        "correct_answer": "Python is called 'vanilla' to distinguish it from other Python implementations, such as Jython (Python on the Java Virtual Machine), etc"
+        "correct_answer": "Python is called vanilla or CPython to distinguish it from other Python implementations, such as Jython, PyPy, etc"
       },
       {
         "question": "The primary differences between different Python implementations lie in",
@@ -37,7 +37,7 @@
       {
         "question": "Dataframe and Dataset mean same thing in Data Science",
         "options": ["Yes", "No"],
-        "correct_answer": "Yes"
+        "correct_answer": "No"
       },
       {
         "question": "In Data Science, Datasets are typically small in size, easy to understand, and used to demonstrate or test algorithms, models, or code snippets are called...",
@@ -135,7 +135,7 @@
         "correct_answer": "(1)iterates over a range of numerical values, (2)iterates over the elements of an iterable object (e.g., a list) and the output is the same"
       },
       {
-        "question": " In PyTorchб optimizer.zero_grad() is responsible for",
+        "question": " In PyTorch, optimizer.zero_grad() is responsible for",
         "options": ["before performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing", "after performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing"],
         "correct_answer": "before performing the backward pass on a new batch, it zeros out the gradients of all the parameters that the optimizer is optimizing"
       },

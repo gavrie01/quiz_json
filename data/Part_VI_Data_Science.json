@@ -100,9 +100,9 @@
       "correct_answer": "not the best choice for sure"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In the context of imbalanced datasets, precision and recall are often considered more informative metrics than accuracy",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
       "question": "",

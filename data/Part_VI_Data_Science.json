@@ -120,14 +120,14 @@
       "correct_answer": "Thanks God!"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What does Computer Vision involve in context of Data Science?",
+      "options": ["it involves design & development of new hardware concept that supports processing of large volumes of data", "it involves the development of algorithms, models, and systems that can interpret and make decisions based on visual data, such as images and videos"],
+      "correct_answer": "it involves the development of algorithms, models, and systems that can interpret and make decisions based on visual data, such as images and videos"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In context of Computer Vision this is called: following the movement and interactions of objects over a sequence of frames in a video",
+      "options": ["Object Tracking and Detection", "Movement Recognition Tracking and Detection"],
+      "correct_answer": "Object Tracking and Detection"
     },
     {
       "question": "",

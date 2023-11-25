@@ -95,9 +95,9 @@
       "correct_answer": "it does not, because validation is rule-based"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Accuracy Evaluation Metric vs Imbalanced Classes",
+      "options": ["not the best choice for sure", "why not"],
+      "correct_answer": "not the best choice for sure"
     },
     {
       "question": "",

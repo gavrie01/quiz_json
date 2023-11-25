@@ -115,9 +115,9 @@
       "correct_answer": "Recall"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Pytorch, there are torchmetrics.Accuracy(), torchmetrics.Recall() and torchmetrics.Precision() do all the evaluation job",
+      "options": ["Thanks God!", "No, you have to calculate manually"],
+      "correct_answer": "Thanks God!"
     },
     {
       "question": "",

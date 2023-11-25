@@ -21,3 +21,5 @@ In case someone uses this repo for studying and finds inaccuracies / obvious bug
 
 Background picture: https://www.freepik.com/
 by Benzoix
+
+PS please be careful and try to think independently when doing a quiz, all these question are self made and may contain wrong understanding

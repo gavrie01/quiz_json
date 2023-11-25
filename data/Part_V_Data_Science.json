@@ -115,7 +115,7 @@
         "correct_answer": "this function combines binary cross-entropy with logit loss function and built-in sigmoid activation function, this is a loss function commonly used for binary classification problems"
       },
       {
-        "question": "... = True Positive / (True Positive + True Negative) * 100",
+        "question": "... = True Positive + True Negative  / (True Positive + True Negative + False Positive + False Negative) * 100",
         "options": ["Accuracy", "Recall", "Precision"],
         "correct_answer": "Accuracy"
       },

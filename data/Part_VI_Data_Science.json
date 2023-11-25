@@ -105,14 +105,14 @@
       "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... = True Positives / (True Positives + False Positives) * 100",
+      "options": ["Precision", "Recall"],
+      "correct_answer": "Precision"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": ".. = True Positives / (True Positives + False Negatives) * 100",
+      "options": ["Recall", "Accuracy"],
+      "correct_answer": "Recall"
     },
     {
       "question": "",

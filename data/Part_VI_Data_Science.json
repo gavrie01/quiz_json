@@ -160,19 +160,19 @@
       "correct_answer": "matrix that contain 0 or 1 and is the same as binary matrix"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A = [2 3, 4 5], Det(A) -?",
+      "options": ["2", "-2", "14"],
+      "correct_answer": "-2"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "If Det(A) != 0, than inverse ..",
+      "options": ["exists", "does not exist"],
+      "correct_answer": "exists"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Inverse exists only for squared matrices with Det != 0",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     }
      
      

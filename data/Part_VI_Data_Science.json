@@ -130,34 +130,34 @@
       "correct_answer": "Object Tracking and Detection"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Matrices play a central role in representing and solving systems of linear equations",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Matrix A = [1 2, 3 4] is",
+      "options": ["square Matrix", "rectengular Matrix"],
+      "correct_answer": "square Matrix"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Matrix B = [2] is it a valid matrix?",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is identity matrix in Linear Algebra?",
+      "options": ["a square diagonal matrix, with all entries on the main diagonal equal to 0, and the rest 1", "a square diagonal matrix, with all entries on the main diagonal equal to 1, and the rest 0"],
+      "correct_answer": "a square diagonal matrix, with all entries on the main diagonal equal to 1, and the rest 0"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is binary matrix?",
+      "options": ["a matrix whose entries are all either 0 or 1", "a matrix whose entries are all either X or Y"],
+      "correct_answer": "a matrix whose entries are all either 0 or 1"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Boolean Matrix is",
+      "options": ["the same as identity matrix", "matrix that contain 0 or 1 and is the same as binary matrix"],
+      "correct_answer": "matrix that contain 0 or 1 and is the same as binary matrix"
     },
     {
       "question": "",

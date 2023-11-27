@@ -1,0 +1,180 @@
+[
+    {
+       "question": "Why logarithms are so actively used in Data Science, in Neural Networks as an example?",
+       "options": ["mostly it happens because variables' values are so small, that i.e. final product of weights can be zeroed by calculation, logarithm resolves the case", "logarithms are not used, derivatives are"],
+       "correct_answer": "mostly it happens because variables' values are so small, that i.e. final product of weights can be zeroed by calculation, logarithm resolves the case"
+     },
+     {
+      "question": "Masked Language Modelling it is when ...",
+      "options": ["a model masks profanity", "a certain percentage of the words in corpus are randomly chosen to be masked, they are replaced with a special token, such as [MASK], the model predicts these words"],
+      "correct_answer": "a certain percentage of the words in corpus are randomly chosen to be masked, they are replaced with a special token, such as [MASK], the model predicts these words"
+    },
+    {
+      "question": "BERT as pre-trained model has ...",
+      "options": ["no trained word embeddings vocabulary", "trained word embeddings vocabulary"],
+      "correct_answer": "trained word embeddings vocabulary"
+    },
+    {
+      "question": "As of 2022 BERT Large language model has ... parameters",
+      "options": ["340 thousand", "340 million", "500"],
+      "correct_answer": "340 million"
+    },
+    {
+      "question": "Google has been using your reCAPTCHA selections to label training data since 2011",
+      "options": ["Yes", "No way"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "BERT was trained on ....",
+      "options": ["Wikipedia and Google’s BooksCorpus", "Encyclopedia Britannica", "whole WWW content"],
+      "correct_answer": "Wikipedia and Google’s BooksCorpus"
+    },
+    {
+      "question": "In NN weight and bias are",
+      "options": ["non-trainable paramters", "hyper parameters", "trainable parameters"],
+      "correct_answer": "trainable parameters"
+    },
+    {
+      "question": "Transformers create differential weights signaling which words in a sentence are the most ... to further process",
+      "options": ["critical", "useless"],
+      "correct_answer": "critical"
+    },
+    {
+      "question": "The Transformer architecture consists of ...",
+      "options": ["Encoder and Decoder", "Encoder", "Decoder"],
+      "correct_answer": "Encoder and Decoder"
+    },
+    {
+      "question": "What is GLUE",
+      "options": ["glue is glue", "General Language Understanding Evaluation benchmark, it consists of 9 tasks"],
+      "correct_answer": "General Language Understanding Evaluation benchmark, it consists of 9 tasks"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+       
+   
+   ]
+   

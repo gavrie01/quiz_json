@@ -50,54 +50,54 @@
       "correct_answer": "General Language Understanding Evaluation benchmark, it consists of 9 tasks"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Example of unigram ...",
+      "options": ["['A love natural language processing']", "['I', 'love', 'natural', 'language', 'processing']"],
+      "correct_answer": "['I', 'love', 'natural', 'language', 'processing']"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Example of trigram ...",
+      "options": ["['I love natural', 'love natural language', 'natural language processing']", "['I love language']"],
+      "correct_answer": "['I love natural', 'love natural language', 'natural language processing']"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Context is important for models' training",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Provide an example of word sense disambiguation in English",
+      "options": ["Book vs Book", "Book vs Reserve", "Book vs Cancel"],
+      "correct_answer": "Book vs Book"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Provide an example of word sense disambiguation in Russian or think about it in your native language",
+      "options": ["Коса, Косой, Косить", "Маленький, Меньше, Малыш"],
+      "correct_answer": "Коса, Косой, Косить"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Distillation in NLP is ...",
+      "options": ["knowledge transfer from heavy, complex model to light and smaller one", "knowledge transfer from light and small model to heavy and complex, it will be working faster"],
+      "correct_answer": "knowledge transfer from heavy, complex model to light and smaller one"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Min-Max Scaling scales the data to a specific range (e.g., between 0 and 1) based on the minimum and maximum values and ...",
+      "options": ["is sensitive to Outliers", "is not sensitive to outliers"],
+      "correct_answer": "is sensitive to Outliers"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Standardization (Z-score Normalization) transforms the data to have a mean of 0 and a standard deviation of 1 and is senstitve to Outliers",
+      "options": ["Yes, sensitive esp on small data sets", "No, not sensitive"],
+      "correct_answer": "Yes, sensitive esp on small data sets"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Robust Scaling scales the data using the median and IQR and is less affected by extreme data",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Which data type has limited precision in python",
+      "options": ["float is limited by 64 bits", "string of course", "integer"],
+      "correct_answer": "float is limited by 64 bits"
     },
     {
       "question": "",

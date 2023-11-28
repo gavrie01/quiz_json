@@ -101,7 +101,7 @@
   },
   {
     "question": "In 'GPT' Transformers mean",
-    "options": ["Generally speaking it is a specific type of architecture", "Transactional Providers", "Transmitting Formulators"],
+    "options": ["Generally speaking it is a specific type of architecture, which is a specific Neural Network", "Transactional Providers", "Transmitting Formulators"],
     "correct_answer": "Generally speaking it is a specific type of architecture"
   },
   {

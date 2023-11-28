@@ -155,14 +155,14 @@
       "correct_answer": "performance stops improving or starts degrading"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "CUDA is ...",
+      "options": ["Compute Unified Device Architecture, parallel computing platform and API model developed by NVIDIA", "You mean barracuda, a fish?"],
+      "correct_answer": "Compute Unified Device Architecture, parallel computing platform and API model developed by NVIDIA"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "If you do not have GPU on your PC but need to train your model q u i c k l y, your choice is ...",
+      "options": ["Google Colaboratory", "Go to the store and buy it"],
+      "correct_answer": "Google Colaboratory"
     },
     {
       "question": "",

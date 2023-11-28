@@ -1,0 +1,181 @@
+[
+    {
+       "question": "'Bidirectional' in BERT means",
+       "options": ["training on both the left and right context of a masked word, BERT learns bidirectional representations", "I do not know"],
+       "correct_answer": "training on both the left and right context of a masked word, BERT learns bidirectional representations"
+     },
+     {
+      "question": "How does BERT define which words to mask?",
+      "options": ["selects some percentage randomly", "it is a hyperparameter"],
+      "correct_answer": "selects some percentage randomly"
+    },
+    {
+      "question": "nstead masked word BERT puts 'MASK' token",
+      "options": ["Yes", "No, it removes words and puts them into special dictionary"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+     
+       
+   
+   ]
+   

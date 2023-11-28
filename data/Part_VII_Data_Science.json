@@ -105,9 +105,9 @@
       "correct_answer": "Pre-training on large amount of cheap data + Post-training on specific data"
     },
     {
-      "question": "Main idea Cross-Validation",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Main idea Cross-Validation is to",
+      "options": ["divide a dataset into multiple subsets, train the model on different combinations of these subsets, and evaluate its performance across various partitions", "to eliminate outliers"],
+      "correct_answer": "divide a dataset into multiple subsets, train the model on different combinations of these subsets, and evaluate its performance across various partitions"
     },
     {
       "question": "GPT-3 has ... of trainable parameters",
@@ -125,7 +125,7 @@
       "correct_answer": "allows the model to learn different aspects of relationships within the input data, how 'tight' words are with each other"
     },
     {
-      "question": "Tokens like <CLS>, <POS>, <SEP>, <UNK>, etc in the context of transformer-based models like BERT  are used for ...",
+      "question": "Tokens like 'CLS', 'POS', 'SEP', 'UNK', etc in the context of transformer-based models like BERT  are used for ...",
       "options": ["model marks up the text, prepares it for further processing, these tokens provide additional info on structure", "everything what is marked wit tokens is removed from the model"],
       "correct_answer": "model marks up the text, prepares it for further processing, these tokens provide additional info on structure"
     },
@@ -136,13 +136,13 @@
     },
     {
       "question": "NLU is ...",
-      "options": ["Natural Language Understanding, deals with the ability of a computer system to comprehend, interpret, and derive meaning from human language", "THe same as NLP"],
+      "options": ["Natural Language Understanding, deals with the ability of a computer system to comprehend, interpret, and derive meaning from human language", "The same as NLP"],
       "correct_answer": "Natural Language Understanding, deals with the ability of a computer system to comprehend, interpret, and derive meaning from human language"
     },
     {
       "question": "In the context of multi-head attention in transformers, a 'head' refers to",
       "options": ["independently learned set of parameters that are used to compute attention scores", "there is term 'body', not 'head' for the purpose"],
-      "correct_answer": ""
+      "correct_answer": "independently learned set of parameters that are used to compute attention scores"
     },
     {
       "question": "Deepl has such a precise quality of translation because it uses ...",

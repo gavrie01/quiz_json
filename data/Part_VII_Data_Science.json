@@ -135,24 +135,24 @@
       "correct_answer": "Attention mechanism in Transformer neural network"
     },
     {
-      "question": "",
-      "options": ["", ""],
+      "question": "NLU is ...",
+      "options": ["Natural Language Understanding, deals with the ability of a computer system to comprehend, interpret, and derive meaning from human language", "THe same as NLP"],
+      "correct_answer": "Natural Language Understanding, deals with the ability of a computer system to comprehend, interpret, and derive meaning from human language"
+    },
+    {
+      "question": "In the context of multi-head attention in transformers, a 'head' refers to",
+      "options": ["independently learned set of parameters that are used to compute attention scores", "there is term 'body', not 'head' for the purpose"],
       "correct_answer": ""
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Deepl has such a precise quality of translation because it uses ...",
+      "options": ["neural machine translation models", "Deepl has a secret model, self developed"],
+      "correct_answer": "neural machine translation models"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The goal of early stopping is to prevent overfitting and improve generalization performance by monitoring the model's performance on a validation dataset during training and stopping the training process when ....",
+      "options": ["performance stops improving or starts degrading", "performance stucks on the same level"],
+      "correct_answer": "performance stops improving or starts degrading"
     },
     {
       "question": "",

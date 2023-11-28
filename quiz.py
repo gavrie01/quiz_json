@@ -45,7 +45,8 @@ st.sidebar.markdown("[Tensors Playground](https://playground.tensorflow.org)")
 st.sidebar.markdown("[Binary Cross-Entropy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)")
 st.sidebar.markdown("[PyTorch Docs](https://pytorch.org/docs/stable/index.html)")
 st.sidebar.markdown("[BERT](https://huggingface.co/blog/bert-101#3-bert-model-size--architecture)")
-
+st.sidebar.markdown("[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)")
+st.sidebar.markdown("[Dan Jurafsky Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)")
 
 
 correct_answers_counter = 0  # add to st.sidebar

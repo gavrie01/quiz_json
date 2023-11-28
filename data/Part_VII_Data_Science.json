@@ -100,39 +100,39 @@
       "correct_answer": "float is limited by 64 bits"
     },
     {
-      "question": "",
+      "question": "General Idea of Transfer Learning is ...",
+      "options": ["Pre-training on large amount of cheap data + Post-training on specific data", "Pre-training on specific data + Post-training on large and cheap data"],
+      "correct_answer": "Pre-training on large amount of cheap data + Post-training on specific data"
+    },
+    {
+      "question": "Main idea Cross-Validation",
       "options": ["", ""],
       "correct_answer": ""
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "GPT-3 has ... of trainable parameters",
+      "options": ["175 billion", "110 million"],
+      "correct_answer": "175 billion"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Transformers use ... to connect Neurons between each other",
+      "options": ["attention", "ingnoring", "laughing"],
+      "correct_answer": "attention"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Attention in Transformers, i.e. GPT, BERT",
+      "options": ["allows the model to learn different aspects of relationships within the input data, how 'tight' words are with each other", "pays attention to profanity"],
+      "correct_answer": "allows the model to learn different aspects of relationships within the input data, how 'tight' words are with each other"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Tokens like <CLS>, <POS>, <SEP>, <UNK>, etc in the context of transformer-based models like BERT  are used for ...",
+      "options": ["model marks up the text, prepares it for further processing, these tokens provide additional info on structure", "everything what is marked wit tokens is removed from the model"],
+      "correct_answer": "model marks up the text, prepares it for further processing, these tokens provide additional info on structure"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Query, Key, Value Vectors<br>Attention Scores<br>Weighted Sum of Vectors' Values<br> all this about",
+      "options": ["Normalization mechanism to ignore negative sense of the text being processed", "Attention mechanism in Transformer neural network"],
+      "correct_answer": "Attention mechanism in Transformer neural network"
     },
     {
       "question": "",

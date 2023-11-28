@@ -165,14 +165,14 @@
       "correct_answer": "Google Colaboratory"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Should I do text preprocessing for pre-trained models?",
+      "options": ["Usually and in general no, tokenizer in such model has 'strong teeth it eats everything', but it depends", "Yes, it is mandatory"],
+      "correct_answer": "Usually and in general no, tokenizer in such model has 'strong teeth it eats everything', but it depends"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Neural Network == Linear Algebra",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     }
        
    

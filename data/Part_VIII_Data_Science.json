@@ -10,104 +10,104 @@
       "correct_answer": "selects some percentage randomly"
     },
     {
-      "question": "nstead masked word BERT puts 'MASK' token",
+      "question": "Instead masked word BERT puts 'MASK' token",
       "options": ["Yes", "No, it removes words and puts them into special dictionary"],
       "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "'sings', 'sung', 'sang' are forms of the word 'sing', the word 'sing' is common ... of these words",
+      "options": ["lemma", "tokenization"],
+      "correct_answer": "lemma"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Tokenization, Lemmatization, Stemming, Sentence Segmentation all together are",
+      "options": ["Text Normalization", "Lookahead assertions"],
+      "correct_answer": "Text Normalization"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stripping suffixes from the end of the word is",
+      "options": ["stemming", "lemmatization"],
+      "correct_answer": "stemming"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stemming is essential for morphologically complex languages, like Arabic",
+      "options": ["Yes", "No, languages with complex morphology are out of scope of AI, it is too complex for them"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Sentence segmentation is",
+      "options": ["breaking down text into individual sentences", "searching for sentences with similar sense"],
+      "correct_answer": "breaking down text into individual sentences"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Single document of collection of documents in NLP is called ...",
+      "options": ["Magazine", "DataFrame", "Data Set", "Corpus"],
+      "correct_answer": "Corpus"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "When we have a ... to search in corpus we use regexp",
+      "options": ["pattern", "rare word"],
+      "correct_answer": "pattern"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "regexp /Buttercup/ matches nay string containing the substring ...",
+      "options": ["Buttercup", "buttercup", "Butter"],
+      "correct_answer": "Buttercup"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Regular Expressions are case ... sensitive",
+      "options": ["sensitive", "not sensitive"],
+      "correct_answer": "sensitive"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "/[wW]oodchuck/ returns",
+      "options": ["woodchuck or Woodchuck", "it is wrong regexp"],
+      "correct_answer": "woodchuck or Woodchuck"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "/[2-5]/ searches for ...",
+      "options": ["2 or 3 or 4 or 5", "3 or 4"],
+      "correct_answer": "2 or 3 or 4 or 5"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "This regexp /[^aeiou]/ matches any single character that is ... a vowel",
+      "options": ["is a vowel", "is not a vowel"],
+      "correct_answer": "is not a vowel"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "/?/ means ...",
+      "options": ["full match", "the preceding character or nothing"],
+      "correct_answer": "the preceding character or nothing"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In regexp <strong>Kleene *</strong> means ...",
+      "options": ["zero or more occurrences of the immediately previous character", "cleany what?"],
+      "correct_answer": "zero or more occurrences of the immediately previous character"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "n regexp <strong>Kleene +</strong> means ...",
+      "options": ["zero or more occurrences of the immediately preceding character", "cleany what?"],
+      "correct_answer": "zero or more occurrences of the immediately preceding character"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "/^The/ how does this regexp works",
+      "options": ["matches 'The' only at the start of a line", "looks for last word 'The' in sentence and this is why regexp is wrong"],
+      "correct_answer": "matches 'The' only at the start of a line"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "| means OR in regexp",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "/{3}/ means",
+      "options": ["exactly 3 occurrences of the previous character or regexp", "what is it?"],
+      "correct_answer": "exactly 3 occurrences of the previous character or regexp"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Module, that provides support for regular expressions in Python",
+      "options": ["nö", "ja", "re"],
+      "correct_answer": "re"
     },
     {
       "question": "",

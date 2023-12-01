@@ -16,7 +16,7 @@
     },
     {
       "question": "'sings', 'sung', 'sang' are forms of the word 'sing', the word 'sing' is common ... of these words",
-      "options": ["lemma", "tokenization"],
+      "options": ["lemma", "token"],
       "correct_answer": "lemma"
     },
     {
@@ -50,7 +50,7 @@
       "correct_answer": "pattern"
     },
     {
-      "question": "regexp /Buttercup/ matches nay string containing the substring ...",
+      "question": "regexp /Buttercup/ matches any string containing the substring ...",
       "options": ["Buttercup", "buttercup", "Butter"],
       "correct_answer": "Buttercup"
     },
@@ -75,7 +75,7 @@
       "correct_answer": "is not a vowel"
     },
     {
-      "question": "/?/ means ...",
+      "question": "Regexp /?/ means ...",
       "options": ["full match", "the preceding character or nothing"],
       "correct_answer": "the preceding character or nothing"
     },
@@ -85,7 +85,7 @@
       "correct_answer": "zero or more occurrences of the immediately previous character"
     },
     {
-      "question": "n regexp <strong>Kleene +</strong> means ...",
+      "question": "In regexp <strong>Kleene +</strong> means ...",
       "options": ["zero or more occurrences of the immediately preceding character", "cleany what?"],
       "correct_answer": "zero or more occurrences of the immediately preceding character"
     },
@@ -110,49 +110,49 @@
       "correct_answer": "re"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Linear Algebra and Matrices: A x B == B x A",
+      "options": ["true", "false"],
+      "correct_answer": "false"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Linear Algebra and Matrices: can i multiply 1 x 2 matrix by 2 x 1 matrix in Python",
+      "options": ["no, just no", "yes, reshape will help, reshape must ensure that the number of columns in the first matrix matches the number of rows in the second matrix"],
+      "correct_answer": "yes, reshape will help, reshape must ensure that the number of columns in the first matrix matches the number of rows in the second matrix"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Python such linear algebra 'things' like Row Echelon Matrix, Reduced Row Echelon Matrix are covered with ...",
+      "options": ["they are not covered, custom code should be written", "sympy library"],
+      "correct_answer": "sympy library"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "in Python back substitution for a system of linear equations can be performed by ...",
+      "options": ["numpy, np.linalg.solve(M, v)", "sympy, sp.linalg.solve(M, v)"],
+      "correct_answer": "numpy, np.linalg.solve(M, v)"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Reshaping ... ",
+      "options": ["involves changing the dimensions of an array without changing its data", "is obtained by swapping its rows with its columns."],
+      "correct_answer": "involves changing the dimensions of an array without changing its data"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Python, '.T' attribute and 'np.transpose()' function are the same",
+      "options": ["Yes", "No, why would be there to identical things?"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "|B| of matrix B is ...",
+      "options": ["discriminant", "determinant"],
+      "correct_answer": "determinant"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "If matrix has dimension i.e. 3x3 you can not calculate discriminant",
+      "options": ["No, I can not", "I can not as is, but there is cofactor expansion to ease my life"],
+      "correct_answer": "I can not as is, but there is cofactor expansion to ease my life"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "if det(A)=0, then A is ...",
+      "options": ["singular", "non-singular"],
+      "correct_answer": "singular"
     },
     {
       "question": "",

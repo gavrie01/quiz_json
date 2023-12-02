@@ -155,24 +155,24 @@
       "correct_answer": "singular"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Example of Scalar is ...",
+      "options": ["volume", "acceleration"],
+      "correct_answer": "volume"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Example of Vector is ...",
+      "options": ["volume", "acceleration"],
+      "correct_answer": "acceleration"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Vector has magnitude and direction",
+      "options": ["only magnitude", "only direction", "true"],
+      "correct_answer": "true"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Scalar has a magnitude only",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     }
      
        

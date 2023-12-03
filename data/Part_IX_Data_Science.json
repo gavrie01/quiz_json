@@ -1,0 +1,180 @@
+[
+    {
+       "question": "What does vector have and scalar does not?",
+       "options": ["magnitude", "direction"],
+       "correct_answer": "direction"
+     },
+     {
+      "question": "Multiply vector by negative number ... its direction",
+      "options": ["reverses", "does not change"],
+      "correct_answer": "reverses"
+    },
+    {
+      "question": "Initial point of vector is ...",
+      "options": ["tail", "head"],
+      "correct_answer": "tail"
+    },
+    {
+      "question": "Terminal point of vector is ...",
+      "options": ["tail", "head"],
+      "correct_answer": "head"
+    },
+    {
+      "question": "When the angle between vectors is 0, vectors are called ...",
+      "options": ["parallel", "equal"],
+      "correct_answer": "parallel"
+    },
+    {
+      "question": "90 Grad between vectors points out these vectors are ...",
+      "options": ["orthogonal", "negative"],
+      "correct_answer": "orthogonal"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "Addition of 2 vectors ...",
+      "options": ["gives a new vector", "changes direction of the first vector"],
+      "correct_answer": "gives a new vector"
+    },
+    {
+      "question": "Subtraction of 2 vector is the same as adding ...",
+      "options": ["Yes, the same as adding", "Yes, the same as adding a negative vector"],
+      "correct_answer": "Yes, the same as adding a negative vector"
+    },
+    {
+      "question": "Vectors addition follows the commutative law",
+      "options": ["False", "True"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "You can always add or subtract vectors by using a ...",
+      "options": ["triangle", "parallelogram"],
+      "correct_answer": "parallelogram"
+    },
+    {
+      "question": "Unit Vector is a dimensionless vector with a magnitude of exactly",
+      "options": ["0", "1"],
+      "correct_answer": "1"
+    },
+    {
+      "question": "Unit Vector in Data Science can be used in normalization algorithms (feature scaling), gradient descent",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "Unit vector specifies direction",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "Symbols 'i', 'k', 'j'  are usually used for unit vectors in 3D space",
+      "options": ["yes", "of course not"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Unit vectors |j|, |i|, |k| form a set of mutually perpendicular vectors in Right-Handed Coordinate System",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "What is the main difference between Right-Handed Coordinate System and Cartesian Coordinate System?",
+      "options": ["Cartesian can be 2D or 3D", "Right-Handed Coordinate System can be 2D or 3D"],
+      "correct_answer": "Cartesian can be 2D or 3D"
+    },
+    {
+      "question": "Find magnitude of 3D vector A(3,4,5)",
+      "options": ["sq. root of 50", "sq. root of 12"],
+      "correct_answer": "sq. root of 50"
+    },
+    {
+      "question": "In linear algebra, a ... ... is a mathematical structure formed by a collection of vectors, along with operations of vector addition and scalar multiplication that satisfy certain properties",
+      "options": ["hilbert space", "vector space"],
+      "correct_answer": "vector space"
+    },
+    {
+      "question": "Normed Vector Space is ...",
+      "options": [" a vector space equipped with a norm, which is a function that assigns a non-negative scalar to each vector, representing its 'length' or 'magnitude'", "a vector space equipped with a norm, which is a function that assigns a negative scalar to each vector, representing its 'length' or 'magnitude'"],
+      "correct_answer": "a vector space equipped with a norm, which is a function that assigns a non-negative scalar to each vector, representing its 'length' or 'magnitude'"
+    },
+    {
+      "question": "vectors a = [1, 2] and v=[3,6] are ...",
+      "options": ["dependent", "independent"],
+      "correct_answer": "dependent"
+    },
+    {
+      "question": "vectors a = [1, 2] and v=[3,4] are ...",
+      "options": ["independent", "dependent"],
+      "correct_answer": "independent"
+    },
+    {
+      "question": "Span of vectors is a ...",
+      "options": ["set of all vectors that can be obtained by scaling and adding them", "the set of all vectors that can be obtained by adding them"],
+      "correct_answer": "set of all vectors that can be obtained by scaling and adding them"
+    },
+    {
+      "question": "If the vectors are linearly independent the span is ...",
+      "options": ["the entire space they live in If they are linearly dependent", "a subspace of the larger space"],
+      "correct_answer": "the entire space they live in If they are linearly dependent"
+    },
+    {
+      "question": "If det(A) == 0, where A are vector1, vector2, etc, than vectors are",
+      "options": ["linearly dependent", "linearly independent"],
+      "correct_answer": "linearly dependent"
+    },
+    {
+      "question": "Each eigenvector is associated with a corresponding eigenvalue",
+      "options": ["yes of course", "can be just eigenvector without eigenvalue"],
+      "correct_answer": "yes of course"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    } 
+       
+   
+   ]
+   

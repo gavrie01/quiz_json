@@ -130,49 +130,49 @@
       "correct_answer": "yes of course"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Eigenvectors exist for any square matrices",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Any square matrix has just one eigenvector",
+      "options": ["Yes", "No, there can be multiple linearly independent eigenvectors associated with that eigenvalue"],
+      "correct_answer": "No, there can be multiple linearly independent eigenvectors associated with that eigenvalue"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Eigenvalues and eigenvectors are used in NLP for ... purpose",
+      "options": ["context detection", "dimensionality reduction techniques"],
+      "correct_answer": "dimensionality reduction techniques"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Brackets, Orders (i.e., powers and square roots, etc.), Division, Multiplication, Addition, Subtraction called ... in Math",
+      "options": ["precedence", "BODMAS"],
+      "correct_answer": "BODMAS"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In linear algebra, complex numbers consist of real part and an ...  part",
+      "options": ["natural", "imaginary", "fantastic"],
+      "correct_answer": "imaginary"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "x^3+1=0 has no roots",
+      "options": ["it has no, because discriminant is less that 0", "it has 3 roots"],
+      "correct_answer": "it has 3 roots"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "If case discriminant of an equation is less than 0, equation has complex conjugate roots, incl. imaginary numbers",
+      "options": ["yes, just yes", "no, discriminant is negative, at school I was taught, there are no roots in this case"],
+      "correct_answer": "yes, just yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Is 0 a natural number?",
+      "options": ["sometimes - yes, sometimes - no", "definitely no"],
+      "correct_answer": "sometimes - yes, sometimes - no"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Every natural number is a whole number, but not every whole number is a natural number because whole numbers include zero",
+      "options": ["so true", "unbelievable"],
+      "correct_answer": "so true"
     } 
        
    

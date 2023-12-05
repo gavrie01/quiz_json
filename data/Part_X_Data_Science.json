@@ -50,14 +50,14 @@
       "correct_answer": "sqrt of (9 * (-1)) = 3*i, where i is imaginary number"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What does store large texts in SQL?",
+      "options": ["BLOB", "CLOB"],
+      "correct_answer": "CLOB"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Casual Language Model ...",
+      "options": ["measures probability of next word in a sequence", "generates casual texts based on wikipedia articles"],
+      "correct_answer": "measures probability of next word in a sequence"
     },
     {
       "question": "",

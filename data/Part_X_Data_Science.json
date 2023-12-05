@@ -20,7 +20,7 @@
       "correct_answer": "yes"
     },
     {
-      "question": "Square root of 2 is  number",
+      "question": "Square root of 2 is ... number",
       "options": ["irrational", "rational", "irrational and real"],
       "correct_answer": "irrational and real"
     },
@@ -30,24 +30,24 @@
       "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "x*x + y*y = 1, is it what we call function in math?",
+      "options": ["yes, it is so called 'circle' function", "no, because an x value corresponds here to two y values, while in true function x has just one y value"],
+      "correct_answer": "no, because an x value corresponds here to two y values, while in true function x has just one y value"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "F(x) = x is it linear function?",
+      "options": ["yes, why not", "no, it does not look like a function"],
+      "correct_answer": "yes, why not"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "F(x) = x, slope of this function equals to ...",
+      "options": ["1", "there is not slope"],
+      "correct_answer": "1"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is the solution for: sqrt of -9",
+      "options": ["there is no solution, -9 is negative", "sqrt of (9 * (-1)) = 3*i, where i is imaginary number"],
+      "correct_answer": "sqrt of (9 * (-1)) = 3*i, where i is imaginary number"
     },
     {
       "question": "",

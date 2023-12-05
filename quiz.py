@@ -47,6 +47,7 @@ st.sidebar.markdown("[PyTorch Docs](https://pytorch.org/docs/stable/index.html)"
 st.sidebar.markdown("[BERT](https://huggingface.co/blog/bert-101#3-bert-model-size--architecture)")
 st.sidebar.markdown("[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)")
 st.sidebar.markdown("[Dan Jurafsky Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)")
+st.sidebar.markdown("[Graph Sketch](https://graphsketch.com)")
 
 
 correct_answers_counter = 0  # add to st.sidebar

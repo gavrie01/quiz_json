@@ -95,24 +95,24 @@
       "correct_answer": "beam search"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Beam search picks up the word with the k highest probabilities from the dictionary",
+      "options": ["yes, this how beams are created in fact", "no, it selects just one, the highest"],
+      "correct_answer": "yes, this how beams are created in fact"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Greedy search is just a constrained version of Beam Search, where k == 1",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "ChatGPT uses sampling text generation strategy, this is why when you ask the same question a few times you get different answers",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Sampling text generation strategy it is when ...",
+      "options": ["algorithm chooses between a number of words with relatively close probability", "no, sampling it is about images only"],
+      "correct_answer": "algorithm chooses between a number of words with relatively close probability"
     },
     {
       "question": "",

@@ -60,39 +60,39 @@
       "correct_answer": "measures probability of next word in a sequence"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A little bit of english, what is plural from 'corpus'?",
+      "options": ["corpuses, what a strange question", "corpora"],
+      "correct_answer": "corpora"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What does the 'n' in n-gram represent?",
+      "options": ["number of words for prediction", "number of words to train the model"],
+      "correct_answer": "number of words for prediction"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Perplexity is ... evaluation",
+      "options": ["intrinsic", "Extrinsic"],
+      "correct_answer": "intrinsic"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Low perplexity means ... ",
+      "options": ["language model gives high probabilities for the texts", "language model gives low probabilities for the texts"],
+      "correct_answer": "language model gives high probabilities for the texts"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Laplace Smoothing is used in NLP to handle ... ",
+      "options": ["the issue of zero probabilities for unseen events", "the issue of stop-words for unseen events"],
+      "correct_answer": "the issue of zero probabilities for unseen events"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The idea of Laplace Smoothing is to 'smooth' the probability distribution by  ... ... ... to the count of each event, including those that have not been observed in the training data",
+      "options": ["adding a sigmoid function to probabilities", "adding a small constant (commonly 1)"],
+      "correct_answer": "adding a small constant (commonly 1)"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What does have a higher computational cost?",
+      "options": ["beam search", "greedy search"],
+      "correct_answer": "beam search"
     },
     {
       "question": "",

@@ -3,6 +3,7 @@ import json
 import random
 import base64
 
+correct_answers_counter = 0  # add to st.sidebar
 file_path = 'image_by_benzoix_on_Freepic.jpg'
 # Function to read an image from a file
 def read_image(file_path):
@@ -36,9 +37,9 @@ page_bg_img = f"""
 }}
 </style>
 """
-
-st.markdown(page_bg_img, unsafe_allow_html=True)
 # Add markdown to the Streamlit sidebar
+st.markdown(page_bg_img, unsafe_allow_html=True)
+# Add interesting links to the Streamlit sidebar
 st.sidebar.markdown("[Matrices & Math_1](http://matrixmultiplication.xyz)")
 st.sidebar.markdown("[Matrices & Math_2](https://matrix.reshish.com/)")
 st.sidebar.markdown("[Tensors Playground](https://playground.tensorflow.org)")
@@ -48,9 +49,8 @@ st.sidebar.markdown("[BERT](https://huggingface.co/blog/bert-101#3-bert-model-si
 st.sidebar.markdown("[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)")
 st.sidebar.markdown("[Dan Jurafsky Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)")
 st.sidebar.markdown("[Graph Sketch](https://graphsketch.com)")
+st.sidebar.markdown("[How to generate ...](https://huggingface.co/blog/how-to-generate)")
 
-
-correct_answers_counter = 0  # add to st.sidebar
 st.title("Quiz")
 
 # Add a button to clear the session state

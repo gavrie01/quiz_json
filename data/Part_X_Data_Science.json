@@ -35,13 +35,13 @@
       "correct_answer": "no, because an x value corresponds here to two y values, while in true function x has just one y value"
     },
     {
-      "question": "F(x) = x is it linear function?",
+      "question": "F(x) = x, is it linear function?",
       "options": ["yes, why not", "no, it does not look like a function"],
       "correct_answer": "yes, why not"
     },
     {
       "question": "F(x) = x, slope of this function equals to ...",
-      "options": ["1", "there is not slope"],
+      "options": ["1", "there is no slope"],
       "correct_answer": "1"
     },
     {
@@ -71,8 +71,8 @@
     },
     {
       "question": "Perplexity is ... evaluation",
-      "options": ["intrinsic", "Extrinsic"],
-      "correct_answer": "intrinsic"
+      "options": ["Intrinsic", "Extrinsic"],
+      "correct_answer": "Intrinsic"
     },
     {
       "question": "Low perplexity means ... ",
@@ -115,9 +115,14 @@
       "correct_answer": "algorithm chooses between a number of words with relatively close probability"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "OOV token means",
+      "options": ["Out Of Vocabulary", "Overly Optimistic Vocabulary"],
+      "correct_answer": "Out Of Vocabulary"
+    },
+    {
+      "question": "What is the difference in probabilistic and deterministic algorithms of text generation in Data Science?",
+      "options": ["deterministic produce the same output, while probabilistic introduce randomness or uncertainty into the modeling process", "determinism introduces randomness or uncertainty into the modeling process, while probabilistic produce the same output"],
+      "correct_answer": "deterministic produce the same output, while probabilistic introduce randomness or uncertainty into the modeling process"
     },
     {
       "question": "",
@@ -125,44 +130,39 @@
       "correct_answer": ""
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Auto-regressive language generation is based on the assumption that the probability distribution of a word sequence can be decomposed into the product of conditional next word distributions",
+      "options": ["Yes", "No, auto-regression is related to linear models only, they can not be used in NLP"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... search selects the word with the highest probability as its next word",
+      "options": ["Sampling", "Greedy"],
+      "correct_answer": "Greedy"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The major drawback of greedy search though is that it ...",
+      "options": ["misses high probability words hidden behind a low probability word", "misses low probability words hidden behind a high probability word"],
+      "correct_answer": "misses high probability words hidden behind a low probability word"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "BeamSearch text is less surprizing for humans",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "That is the big problem when sampling word sequences: the models often generate ...",
+      "options": ["incoherent gibberish", "too scientific content, only for PhD"],
+      "correct_answer": "incoherent gibberish"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "top-p and top-K sampling seem to produce more fluent text than traditional greedy - and beam search on open-ended language generation",
+      "options": ["agree", "disagree"],
+      "correct_answer": "agree"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "When a model encounters a word that is not part of its vocabulary during training or evaluation, it replaces that word with the ... token.",
+      "options": ["UNK", "NEW"],
+      "correct_answer": "UNK"
     },
     {
       "question": "",

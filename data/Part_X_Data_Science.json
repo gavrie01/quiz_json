@@ -125,9 +125,9 @@
       "correct_answer": "deterministic produce the same output, while probabilistic introduce randomness or uncertainty into the modeling process"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In neural language model relevance scores can be converted into probability with ... function",
+      "options": ["softmax", "softmin", "hardmax"],
+      "correct_answer": "softmax"
     },
     {
       "question": "Auto-regressive language generation is based on the assumption that the probability distribution of a word sequence can be decomposed into the product of conditional next word distributions",
@@ -165,14 +165,14 @@
       "correct_answer": "UNK"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The self-attention mechanism in a neural language network allows the model",
+      "options": ["to weigh the importance of different words in a sequence when making predictions", "to weigh the importance of different words in a sequence when normalizing text"],
+      "correct_answer": "to weigh the importance of different words in a sequence when making predictions"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Neural Language Model higher levels deal with more complex reasoning while lower layer deal with basic syntax",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     }
       
        

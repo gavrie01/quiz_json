@@ -1,0 +1,180 @@
+[
+    {
+       "question": "Which machine learning layer from the following cannot be parallelized on a GPU?",
+       "options": ["convolutional", "recurrent, it requires one by by input that can not be parallelized", "hidden layer"],
+       "correct_answer": "recurrent, it requires one by by input that can not be parallelized"
+     },
+    {
+      "question": "For arabic language in neural language network right-to-left generation is used",
+      "options": ["yes", "no, there is still left-to-right generation like in english, the text is transformed on last hidden layer"],
+      "correct_answer": "yes"
+     }, 
+     {
+      "question": "An n-gram model can be considered",
+      "options": ["an example of deep learning", "a statistical language model", "a neural language network"],
+      "correct_answer": "a statistical language model"
+    },
+    {
+      "question": "Can GitHub be used for a model training?",
+      "options": ["no, only wikipedia like resources can be used", "yes, LMs can be trained like this"],
+      "correct_answer": "yes, LMs can be trained like this"
+    },
+    {
+      "question": "GPT deals with next word predictions tasks",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "softmax function normalize attention scores so they sum up to ",
+      "options": ["1", "100"],
+      "correct_answer": "1"
+    },  
+    {
+      "question": "Language Model trained with spanish will perform well with english",
+      "options": ["true", "false"],
+      "correct_answer": "false"
+    },
+    {
+      "question": "What does this code do?<br>tokenized = tokenizer('The cat is on the mat', return_tensors='pt')<br>",
+      "options": ["puts the data into the format of a PyTorch tensor which is used as the input for a Transformer model", "yes, i agree"],
+      "correct_answer": "puts the data into the format of a PyTorch tensor which is used as the input for a Transformer model"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+       
+   
+   ]
+   

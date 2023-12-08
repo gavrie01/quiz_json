@@ -45,9 +45,9 @@
       "correct_answer": "1/64: A perplexity of 4 shows that the average per-token probability is 1/4, so the probability of a three token sequence is 1/4 * 1/4 * 1/4 which is 1/64"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "For the sentences<br>'I want to watch a movie' and 'I checked the time on my watch'<br> what the vectors could be?",
+      "options": ["[0.4, 0.1] and [0.1, 0.4]", "[0.4, 0.1] and [0.21, 0.40]"],
+      "correct_answer": "[0.4, 0.1] and [0.1, 0.4]"
     },
     {
       "question": "",

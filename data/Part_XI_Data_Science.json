@@ -95,44 +95,44 @@
       "correct_answer": "Gradient descent by learning from data"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is Hallucination in LLM?",
+      "options": ["not sure I get what you mean ", "a confident response by an AI that does not seem to be justified by its training data"],
+      "correct_answer": "a confident response by an AI that does not seem to be justified by its training data"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can biased data cause hallucinations in LLM?",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can overfitting to training data cause hallucinations in LMM",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can complex architecture of LLM cause hallucinations?",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "When you ask ChatGPT a question and it returns i.e. an empty response it is example of multiple ... it has",
+      "options": ["hallucinations", "bugs"],
+      "correct_answer": "bugs"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Sometimes LLM tries to find patterns in data where hey do not exist and finds them, it is ...",
+      "options": ["hallucination", "this is how generative AI works, it is ok"],
+      "correct_answer": "hallucination"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Sometimes LLMs can create fictional details when answering our questions",
+      "options": ["definitely", "it is impossible, they are not humans"],
+      "correct_answer": "definitely"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Adversarial Testing it is a method ...",
+      "options": ["for systematically evaluating an ML model with the intent of learning how it behaves when provided with malicious or inadvertently harmful input", "another name for happy path testing which is performed by prompt engineer"],
+      "correct_answer": "for systematically evaluating an ML model with the intent of learning how it behaves when provided with malicious or inadvertently harmful input"
     },
     {
       "question": "",

@@ -50,9 +50,9 @@
       "correct_answer": "[0.4, 0.1] and [0.1, 0.4]"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "How words are vectorized?",
+      "options": ["This is model's global task done via math in language models", "vectorized? no, AI works with texts"],
+      "correct_answer": "This is model's global task done via math in language models"
     },
     {
       "question": "",

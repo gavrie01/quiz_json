@@ -55,8 +55,8 @@
       "correct_answer": "CLOB"
     },
     {
-      "question": "Casual Language Model ...",
-      "options": ["measures probability of next word in a sequence", "generates casual texts based on wikipedia articles"],
+      "question": "Causal Language Model ...",
+      "options": ["measures probability of next word in a sequence", "generates causal texts based on wikipedia articles"],
       "correct_answer": "measures probability of next word in a sequence"
     },
     {

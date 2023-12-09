@@ -25,7 +25,7 @@
       "correct_answer": "yes"
     },
     {
-      "question": "softmax function normalize attention scores so they sum up to ",
+      "question": "softmax function normalizes attention scores so they sum up to ",
       "options": ["1", "100"],
       "correct_answer": "1"
     },  
@@ -51,7 +51,7 @@
     },
     {
       "question": "How words are vectorized?",
-      "options": ["This is model's global task done via math in language models", "vectorized? no, AI works with texts"],
+      "options": ["This is model's global task done via math in language models", "vectorized?", "no, AI works with texts"],
       "correct_answer": "This is model's global task done via math in language models"
     },
     {
@@ -70,29 +70,29 @@
       "correct_answer": "Not exactly, it looks up for a highest probability token_ids, at least"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can I use a tokenizer from one transformer model with another model, especially if they are compatible in terms of architecture and vocabulary?",
+      "options": ["In many cases yes, but you have to be careful with such things like compatibility in terms of vocabulary, text parsing, positional embeddings, etc", "Yes, why not, there are still texts, still python code, why not"],
+      "correct_answer": "In many cases yes, but you have to be careful with such things like compatibility in terms of vocabulary, text parsing, positional embeddings, etc"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Why do some language models use a special padding token?",
+      "options": ["to process multiple inputs of different length", "it gives model some time to think before to generate another yet gibberish"],
+      "correct_answer": "to process multiple inputs of different length"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Language models understand the text that they are processing the way humans do",
+      "options": ["yes", "no"],
+      "correct_answer": "no"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Transformers have limit on the length of their inputs",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "How are word vectors and parameters in a Transformer based language model learned?",
+      "options": ["Linear regression", "Gradient descent by learning from data"],
+      "correct_answer": "Gradient descent by learning from data"
     },
     {
       "question": "",

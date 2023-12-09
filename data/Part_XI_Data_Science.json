@@ -66,8 +66,8 @@
     },
     {
       "question": "ChatGPT works like:<br>1. splits text with built-in model's tokenizer into tokens<br>2. encodes tokens to get token_id<br>3. Runs them through the model itself and gets probability of the next token_id(s)<br>4. Applies sampling algorithm to predict next word<br>5.Decodes all token_ids, so human can read",
-      "options": ["Yes", "No"],
-      "correct_answer": "Yes"
+      "options": ["Yes", "Not exactly, it looks up for a highest probability token_ids, at least"],
+      "correct_answer": "Not exactly, it looks up for a highest probability token_ids, at least"
     },
     {
       "question": "",

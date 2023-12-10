@@ -65,7 +65,7 @@
       "correct_answer": "The capital of France is ..."
     },
     {
-      "question": "ChatGPT works like:<br>1. splits text with built-in model's tokenizer into tokens<br>2. encodes tokens to get token_id<br>3. Runs them through the model itself and gets probability of the next token_id(s)<br>4. Applies sampling algorithm to predict next word<br>5.Decodes all token_ids, so human can read",
+      "question": "Generally speaking, ChatGPT works this way:<br>1. splits text with built-in model's tokenizer into tokens<br>2. encodes tokens to get token_id<br>3. Runs them through the model itself and gets probability of the next token_id(s)<br>4. Applies sampling algorithm to predict next word<br>5.Decodes all token_ids, so human can read",
       "options": ["Yes", "Not exactly, it looks up for a highest probability token_ids, at least"],
       "correct_answer": "Not exactly, it looks up for a highest probability token_ids, at least"
     },
@@ -135,14 +135,14 @@
       "correct_answer": "for systematically evaluating an ML model with the intent of learning how it behaves when provided with malicious or inadvertently harmful input"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The more complicated and bigger Language Model is the more human alike behavior it has",
+      "options": ["no, it still can be untruthful, toxic, or simply not helpful to the user", "yes, it has bigger vocabulary, this is the most important thing"],
+      "correct_answer": "no, it still can be untruthful, toxic, or simply not helpful to the user"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "As of 2023 and in AI expansion context, human extinction is a current or hypothetical risk?",
+      "options": ["current", "hypothetical"],
+      "correct_answer": "hypothetical"
     },
     {
       "question": "",

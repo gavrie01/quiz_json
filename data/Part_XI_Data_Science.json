@@ -5,7 +5,7 @@
        "correct_answer": "recurrent, it requires one by by input that can not be parallelized"
      },
     {
-      "question": "For arabic language in neural language network right-to-left generation is used",
+      "question": "For arabic language in neural language network right-to-left text generation is used",
       "options": ["yes", "no, there is still left-to-right generation like in english, the text is transformed on last hidden layer"],
       "correct_answer": "yes"
      }, 
@@ -45,7 +45,7 @@
       "correct_answer": "1/64: A perplexity of 4 shows that the average per-token probability is 1/4, so the probability of a three token sequence is 1/4 * 1/4 * 1/4 which is 1/64"
     },
     {
-      "question": "For the sentences<br>'I want to watch a movie' and 'I checked the time on my watch'<br> what the vectors could be?",
+      "question": "For the sentences<br>'I want to watch a movie' and 'I checked the time on my watch'<br> what the vectors could be here?",
       "options": ["[0.4, 0.1] and [0.1, 0.4]", "[0.4, 0.1] and [0.21, 0.40]"],
       "correct_answer": "[0.4, 0.1] and [0.1, 0.4]"
     },
@@ -55,9 +55,9 @@
       "correct_answer": "This is model's global task done via math in language models"
     },
     {
-      "question": "<strong>Text</strong> given to a causal model is known as",
-      "options": ["prompt", "instruction", "script"],
-      "correct_answer": "prompt"
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
     },
     {
       "question": "Example of prompt ...",
@@ -80,7 +80,7 @@
       "correct_answer": "to process multiple inputs of different length"
     },
     {
-      "question": "Language models understand the text that they are processing the way humans do",
+      "question": "NN with Language models understand the text that they are processing the way humans do",
       "options": ["yes", "no"],
       "correct_answer": "no"
     },
@@ -120,7 +120,7 @@
       "correct_answer": "bugs"
     },
     {
-      "question": "Sometimes LLM tries to find patterns in data where hey do not exist and finds them, it is ...",
+      "question": "Sometimes LLM tries to find patterns in data where they do not exist and finds them, it is ...",
       "options": ["hallucination", "this is how generative AI works, it is ok"],
       "correct_answer": "hallucination"
     },
@@ -145,34 +145,34 @@
       "correct_answer": "hypothetical"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Python, True - False == ?",
+      "options": ["1", "-1", "error"],
+      "correct_answer": "1"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Every time when I modify the string, Python creates a new string and assigns it to the variable",
+      "options": ["true", "false"],
+      "correct_answer": "true"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In NLP, a dialogue is a sequence of ... each a single contribution from one speaker to the dialogue",
+      "options": ["blocks", "turns", "units", "tokens"],
+      "correct_answer": "turns"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "self-attention mechanism is implemented in NN as ...",
+      "options": ["layer", "special type of token"],
+      "correct_answer": "layer"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "in LSTM,  the purpose of this gate is to delete information from the context that is no longer needed",
+      "options": ["remove gate", "forget gate", "forgive and forget gate"],
+      "correct_answer": "forget gate"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "When gradients are eventually driven to zero, a situation called the ... problem",
+      "options": ["cheshire gradients", "vanishing gradients"],
+      "correct_answer": "vanishing gradients"
     }
        
    

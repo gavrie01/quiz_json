@@ -1,0 +1,179 @@
+[
+    {
+       "question": "What does Convolution Layer in CNN do?",
+       "options": ["extracts/learn the most important features from target texts", "extracts/learn the most important features from target images", "extracts/learn the most important features from target audio recordings"],
+       "correct_answer": "extracts/learn the most important features from target images"
+     },
+    {
+      "question": "Pooling Layer ... in CNN",
+      "options": ["reduces dimensionality of learned image features", "pools calculated logits to the next layer", "discriminates features with low probabilities and pools the rest to the next layer"],
+      "correct_answer": "reduces dimensionality of learned image features"
+     },
+     {
+      "question": "... is base domain library for PyTorch computer vision",
+      "options": ["torchvision", "torchlooking", "torchtracking"],
+      "correct_answer": "torchvision"
+    },
+   {
+     "question": "What does ToTensor() do in torchvision.transforms",
+     "options": ["converts PIL image to tensor", "converts PIL image or ndarray to tensor"],
+     "correct_answer": "converts PIL image or ndarray to tensor"
+    }, 
+    {
+      "question": "'PIL' is ...",
+      "options": ["Python Imaging Library", "short form of 'pillow'", "excuse me?"],
+      "correct_answer": "Python Imaging Library"
+    },
+   {
+     "question": "PIL enables Python to deal with images",
+     "options": ["yes", "no"],
+     "correct_answer": "yes"
+    }, 
+    {
+      "question": "MNIST is a ...",
+      "options": ["large DB of handwritten digits, is commonly used for training in DL systems", "Python library used in CNN"],
+      "correct_answer": "large DB of handwritten digits, is commonly used for training in DL systems"
+    },
+   {
+     "question": "In PyTorch ... are not considered to have a 'shape'",
+     "options": ["tensors", "arrays", "integers"],
+     "correct_answer": "integers"
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    },  
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+   {
+     "question": "",
+     "options": ["", ""],
+     "correct_answer": ""
+    }, 
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    }
+        
+   ]
+   

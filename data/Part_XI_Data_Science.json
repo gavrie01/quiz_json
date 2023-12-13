@@ -55,9 +55,9 @@
       "correct_answer": "This is model's global task done via math in language models"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "... in context of Bayesian Inference is the updated probability of the hypothesis or event after considering both the prior probability and the likelihood",
+      "options": ["posterior probability", "relative frequency", "nominal"],
+      "correct_answer": "posterior probability"
     },
     {
       "question": "Example of prompt ...",

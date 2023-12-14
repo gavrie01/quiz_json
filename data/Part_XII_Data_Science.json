@@ -40,59 +40,59 @@
      "correct_answer": "integers"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Pytorch, the ... provides the ability to divide a dataset into batches and iterate over them seamlessly",
+      "options": ["DataBalancer", "DataLoader", "DataMapper"],
+      "correct_answer": "DataLoader"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "in PyTorch, nn.Flatten() does what?",
+     "options": ["applies Laplace Smoothing to each layer of i.e. CNN", "reshapes the data being passed between layers in i.e. CNN, it works with dimensions"],
+     "correct_answer": "reshapes the data being passed between layers in i.e. CNN, it works with dimensions"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "nn.Flatten():<br>Shape before flattening: torch.Size([1, 28, 28])<br>Shape after flattening: torch.Size([.....])<br>What is after flattening shape?",
+      "options": ["[1, 56]", "[1, 784]", "[1, 28, 28], no need to apply flattening in this case"],
+      "correct_answer": "[1, 784]"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "nn.Flatten() is a layer on NN?",
+     "options": ["yes, it is a built-in layer", "it is rather a data preprocessing operation"],
+     "correct_answer": "it is rather a data preprocessing operation"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Flatten(), in Pytorch, is applied to ... in a context of NN",
+      "options": ["tensor", "scalar", "string", "image"],
+      "correct_answer": "tensor"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "Rank 0 tensor is ...",
+     "options": ["scalar", "matrix"],
+     "correct_answer": "scalar"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Rank 4 tensor is ...",
+      "options": ["4D tensor", "scalar", "3D tensor"],
+      "correct_answer": "4D tensor"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "Rank 2 tenыor is ...",
+     "options": ["2D / matrix", "matrix"],
+     "correct_answer": "2D / matrix"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "The ... function looks at the predictions and the true answers and calculates a number that tells us how far off our predictions are from the truth",
+      "options": ["activation", "loss"],
+      "correct_answer": "loss"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "nn.CrossEntropyLoss() suits better ... case",
+     "options": ["linear regression", "multi classification"],
+     "correct_answer": "multi classification"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": " ... is a Python library that provides a fast, extensible progress bar for loops and other iterable processes",
+      "options": ["timeit", "tqdm", "sleep&wakeup"],
+      "correct_answer": "tqdm"
     },
    {
      "question": "",

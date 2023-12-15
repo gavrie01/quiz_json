@@ -95,14 +95,14 @@
       "correct_answer": "tqdm"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "in Python, class D(B, C): means ...",
+     "options": ["class D inherits from classes B and C", "class D aggregates classes B and C"],
+     "correct_answer": "class D inherits from classes B and C"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, super().__init__() is responsible for ...",
+      "options": ["ensures that each class in the hierarchy contributes to the initialization process without redundantly reinitializing shared components", "i do not know"],
+      "correct_answer": "ensures that each class in the hierarchy contributes to the initialization process without redundantly reinitializing shared components"
     },
    {
      "question": "",

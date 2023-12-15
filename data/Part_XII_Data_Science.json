@@ -165,9 +165,9 @@
       "correct_answer": "nn.Conv2d()"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "class nn.MaxPool2d() performs ... in context of CNN",
+     "options": ["smoothing of weights", "down-sampling operation to reduce the spatial dimensions of the input data and retain important features"],
+     "correct_answer": "down sampling operation to reduce the spatial dimensions of the input data and retain important features"
     }, 
     {
       "question": "",

@@ -49,7 +49,7 @@ st.sidebar.markdown("[BERT](https://huggingface.co/blog/bert-101#3-bert-model-si
 st.sidebar.markdown("[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)")
 st.sidebar.markdown("[Dan Jurafsky Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)")
 st.sidebar.markdown("[Graph Sketch](https://graphsketch.com)")
-st.sidebar.markdown("[How to generate ...](https://huggingface.co/blog/how-to-generate)")
+st.sidebar.markdown("[CNN explainer](https://poloclub.github.io/cnn-explainer/)")
 
 st.title("Quiz")
 

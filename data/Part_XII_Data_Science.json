@@ -75,7 +75,7 @@
       "correct_answer": "4D tensor"
     },
    {
-     "question": "Rank 2 tenыor is ...",
+     "question": "Rank 2 tensor is ...",
      "options": ["2D / matrix", "matrix"],
      "correct_answer": "2D / matrix"
     }, 
@@ -100,7 +100,7 @@
      "correct_answer": "class D inherits from classes B and C"
     }, 
     {
-      "question": "In Python, super().__init__() is responsible for ...",
+      "question": "In Python, super().__init__() is ...",
       "options": ["ensures that each class in the hierarchy contributes to the initialization process without redundantly reinitializing shared components", "i do not know"],
       "correct_answer": "ensures that each class in the hierarchy contributes to the initialization process without redundantly reinitializing shared components"
     },

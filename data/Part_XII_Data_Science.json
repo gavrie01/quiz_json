@@ -105,59 +105,59 @@
       "correct_answer": "ensures that each class in the hierarchy contributes to the initialization process without redundantly reinitializing shared components"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "A Layer in NN is a collection of ...",
+     "options": ["neurons", "weights and biases"],
+     "correct_answer": "neurons"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "A neuron can be thought of as a function that takes in .... inputs and delivers a .... output",
+      "options": ["multiple/single", "single/multiple", "single/single"],
+      "correct_answer": "multiple/single"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "In CNN, 'viridis', 'jet', 'gray' are ... ",
+     "options": ["cmap values in a from of heatmaps", "cmap values in a from of colors 'R', 'B', 'G' - respectively"],
+     "correct_answer": "cmap values in a from of heatmaps"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In CNNs, the term 'kernel' is often used specifically for the ... ... used in convolution operations",
+      "options": ["small-sized matrices", "neurons in layer", "output layer"],
+      "correct_answer": "small-sized matrices"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "In CNN, kernel is usually ...-sized",
+     "options": ["odd", "even"],
+     "correct_answer": "odd"
     },  
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In CNN kernel is odd-sized due to a few reason, one of them is ... ",
+      "options": ["central pixel can be defined in odd-sized matrix", "calculations are faster"],
+      "correct_answer": "central pixel can be defined in odd-sized matrix"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "Kernel size is a hyperparameter",
+     "options": ["yes", "no"],
+     "correct_answer": "yes"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In CNN, a large kernel size extracts ... information",
+      "options": ["more", "less"],
+      "correct_answer": "less"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "Stride indicates how many ... the kernel should be shifted over at a time",
+     "options": ["kernels", "pixels"],
+     "correct_answer": "pixels"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "When applying convolution operations in a CNN, it's common to use ... to handle the cases where the kernel extends beyond the borders of the input image or feature map",
+      "options": ["logarithm", "padding", "directional sensitivity"],
+      "correct_answer": "padding"
     },
    {
-     "question": "",
-     "options": ["", ""],
-     "correct_answer": ""
+     "question": "In context of CNN, 'VGG' refers to a family of models (VGG16 and VGG19), which are  originally proposed for .... tasks",
+     "options": ["for computer vision", "natural language processing"],
+     "correct_answer": "for computer vision"
     }, 
     {
       "question": "",

@@ -160,9 +160,9 @@
      "correct_answer": "for computer vision"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "... is a class in the PyTorch library used to create a two-dimensional convolutional layer in a neural network",
+      "options": ["nn.Conv(2d)", "nn.Conv2d()"],
+      "correct_answer": "nn.Conv2d()"
     },
    {
      "question": "",

@@ -6,7 +6,7 @@
      },
     {
       "question": "Pooling Layer ... in CNN",
-      "options": ["reduces dimensionality of learned image features", "pools calculated logits to the next layer", "discriminates features with low probabilities and pools the rest to the next layer"],
+      "options": ["reduces dimensionality of learned image features", "pushes calculated logits to the next layer", "discriminates features with low probabilities and pools the rest to the next layer"],
       "correct_answer": "reduces dimensionality of learned image features"
      },
      {

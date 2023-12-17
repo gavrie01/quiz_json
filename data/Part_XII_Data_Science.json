@@ -170,9 +170,9 @@
      "correct_answer": "down sampling operation to reduce the spatial dimensions of the input data and retain important features"
     }, 
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "What is the term used to describe the phenomenon where a neural network, despite being trained on a specific task, also learns to perform another related task without explicit instructions?",
+      "options": ["transfer learning", "overfitting", "dropout"],
+      "correct_answer": "transfer learning"
     }
         
    ]

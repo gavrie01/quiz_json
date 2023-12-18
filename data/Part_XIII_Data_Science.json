@@ -25,7 +25,7 @@
       "correct_answer": "Portable Operating System Interface - a set of standards specifying the interface between a user and the operating system (UNIX)"
     },
    {
-     "question": "in PyTorch,'glob' or 'globbing' is commonly used to describe the process of matching wildcard patterns against ...",
+     "question": "in Python,'glob' or 'globbing' is commonly used to describe the process of matching wildcard patterns against ...",
      "options": ["corpora in LM context", "file paths in a directory", "set of images in a context of central pixels"],
      "correct_answer": "file paths in a directory"
     },

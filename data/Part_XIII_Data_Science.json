@@ -1,33 +1,33 @@
 [
     {
-       "question": "",
-       "options": ["", "", ""],
-       "correct_answer": ""
+       "question": "In case I want to take a look into pytorch model's details (i.e. model_2), how can I do this?",
+       "options": ["model_2.parameters()", "model_2.state_dict()", "there is no such ability in Python"],
+       "correct_answer": "model_2.state_dict()"
      },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "kernel_size can be specified as (3,3)?",
+      "options": ["no, only 'kernel_size = 3 works'", "yes of course, kernel_size = (3,3) also works", "yes, but is should be [3,3]"],
+      "correct_answer": "yes of course, kernel_size = (3,3) also works"
      },
      {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "object.unsqueeze(dim=0) and object.unsqueeze(0) are equivalent",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "nn.MaxPool2d() layer compresses images' features",
+     "options": ["yes", "no"],
+     "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "What is POSIX?",
+      "options": ["API collection to support processing of custom data sets in PyTorch", "Portable Operating System Interface - a set of standards specifying the interface between a user and the operating system (UNIX)"],
+      "correct_answer": "Portable Operating System Interface - a set of standards specifying the interface between a user and the operating system (UNIX)"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "in PyTorch,'glob' or 'globbing' is commonly used to describe the process of matching wildcard patterns against ...",
+     "options": ["corpora in LM context", "file paths in a directory", "set of images in a context of central pixels"],
+     "correct_answer": "file paths in a directory"
     },
     {
       "question": "",

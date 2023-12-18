@@ -30,29 +30,29 @@
      "correct_answer": "file paths in a directory"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python the ... block contains code that will be executed regardless of whether an exception occurs or not. It provides a way to ensure that certain code is always executed, whether an exception is raised or not",
+      "options": ["try / except", "finally", "all the above"],
+      "correct_answer": "finally"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "... in the context of CNNs is a technique used to artificially increase the diversity of a training dataset by applying various transformations to the existing images",
+     "options": ["Data reduction", "Data augmentation", "Data labeling"],
+     "correct_answer": "Data augmentation"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Rotation, Flip, Resize, Shift, Brightness and Contrast, Shear etc ... used in CNN",
+      "options": ["are reduction of dimensions", "are augmentation techniques", "allows CNN to recognize better what is on images"],
+      "correct_answer": "are augmentation techniques"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "Augmentation techniques in torchvision can be applied ",
+     "options": ["manually", "via transforms module"],
+     "correct_answer": "via transforms module"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "If I apply 'image_path.parent.stem' to '/path/to/dataset/cat/image001.jpg', I get ...",
+      "options": ["jpg", "dataset", "cat", "image001"],
+      "correct_answer": "cat"
     },
    {
      "question": "",

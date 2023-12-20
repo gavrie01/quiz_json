@@ -6,7 +6,7 @@
      },
     {
       "question": "kernel_size can be specified as (3,3)?",
-      "options": ["no, only 'kernel_size = 3 works'", "yes of course, kernel_size = (3,3) also works", "yes, but is should be [3,3]"],
+      "options": ["no, only 'kernel_size = 3' works", "yes of course, kernel_size = (3,3) also works", "yes, but is should be [3,3]"],
       "correct_answer": "yes of course, kernel_size = (3,3) also works"
      },
      {
@@ -55,34 +55,34 @@
       "correct_answer": "cat"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "in PyTorch, where is 'os.cpu_count()' used?",
+     "options": ["evaluation", "DataLoader"],
+     "correct_answer": "DataLoader"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "shuffle is used in machine learning ...",
+      "options": ["to speed up the training process", "not to let the model recognize any order in data"],
+      "correct_answer": "not to let the model recognize any order in data"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "gc.collect() is mostly used for",
+     "options": ["immediate and guaranteed garbage collection of all objects in the code being run", "debugging purposes"],
+     "correct_answer": "debugging purposes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "What is a method in Python (simply speaking)?",
+      "options": ["method is an action (verb), like 'start', 'set_value', etc", "method is a noun (no action) i.e. color, size"],
+      "correct_answer": "method is an action (verb), like 'start', 'set_value', etc"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "... is a reference from an instance of a class to itself",
+     "options": ["obj", "self", "this"],
+     "correct_answer": "self"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": " title = f'Class: {classes[targ_label]}' when executing this code ...",
+      "options": ["run-time error happens", "executed successfully"],
+      "correct_answer": "executed successfully"
     },
    {
      "question": "",

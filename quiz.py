@@ -50,6 +50,9 @@ st.sidebar.markdown("[Attention is all you need](https://arxiv.org/pdf/1706.0376
 st.sidebar.markdown("[Dan Jurafsky Book](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)")
 st.sidebar.markdown("[Graph Sketch](https://graphsketch.com)")
 st.sidebar.markdown("[CNN explainer](https://poloclub.github.io/cnn-explainer/)")
+st.sidebar.markdown("[Understanding DL Book](https://udlbook.github.io/udlbook/)")
+
+
 
 st.title("Quiz")
 

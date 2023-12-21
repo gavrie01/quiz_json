@@ -85,43 +85,43 @@
       "correct_answer": "executed successfully"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
+     "question": "The expression 'image_path_list[:10]' in Python retrieves the ... 10 elements of the list image_path_list",
+     "options": ["last", "first", "10 random one by one elements"],
+     "correct_answer": "first"
+    },
+    {
+      "question": "The expression 'image_path_list[-10:]' in Python retrieves the ... 10 elements of the list image_path_list",
+      "options": ["last", "first", "run-time error"],
+      "correct_answer": "last"
+    },
+   {
+     "question": "The expression 'image_path_list[10:]' in Python retrieves the ... 10 elements of the list image_path_list",
+     "options": ["all elements from index 10 to the end of the list 'image_path_list'", "last", "none of the above"],
      "correct_answer": ""
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Example of dunder methods in Python ...",
+      "options": ["__init__", "print()", "type()"],
+      "correct_answer": "__init__"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "What is correct: ...",
+     "options": ["def __new__(cls):", "def __new__(cls, *args, **kwargs):", "def __new__(self, *args, **kwargs):"],
+     "correct_answer": "def __new__(cls, *args, **kwargs):"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, all classes are subclasses of the built-in ... class.",
+      "options": ["base", "object", "init"],
+      "correct_answer": "object"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
-    },
-   {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "In programming, ... is a mechanism to make the variable name more unique to avoid accidental name clashes in a class hierarchy",
+     "options": ["Name mangling", "Name wrangling"],
+     "correct_answer": "Name mangling"
     },{
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, @callsmethod and @staticethod are ...",
+      "options": ["decorators", "modifiers", "class extensions"],
+      "correct_answer": "decorators"
     },
    {
      "question": "",

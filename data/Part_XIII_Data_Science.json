@@ -124,14 +124,14 @@
       "correct_answer": "decorators"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "Class is a name space",
+     "options": ["yes", "no"],
+     "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Boolean type is a subtype of Integer data type in Python",
+      "options": ["True", "False"],
+      "correct_answer": "True"
     },
    {
      "question": "",

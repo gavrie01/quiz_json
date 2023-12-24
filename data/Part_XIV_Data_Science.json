@@ -1,103 +1,103 @@
 [
     {
-       "question": "",
-       "options": ["", "", ""],
-       "correct_answer": ""
+       "question": "In Python args is presented with tuple",
+       "options": ["yes", "no"],
+       "correct_answer": "yes"
      },
      {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python kwargs is presented with dictionary",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "kw in kwargs is",
+      "options": ["keyword", "knowledge"],
+      "correct_answer": "keyword"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, a ... is an argument that is passed to a function by position or order",
+      "options": ["positional argument", "keyword argument"],
+      "correct_answer": "positional argument"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "greet(name='Bob', age=30) is an example of ...",
+      "options": ["kwargs", "args"],
+      "correct_answer": "kwargs"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "For kwargs position is ...",
+      "options": ["not important", "important"],
+      "correct_answer": "not important"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, 'def add(x: int, y: int) -> int:' this function is example of ...",
+      "options": ["annotation type", "container type", "abstract type"],
+      "correct_answer": "annotation type"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Annotations in Python are primarily used for ...",
+      "options": ["faster code compilation", "code readability and documentation"],
+      "correct_answer": "code readability and documentation"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in Python, lambda function is a no name function",
+      "options": ["yes", "no", "it is not a function at all"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "The ... provides a concise way to write an if-else statement in a single line.",
+      "options": ["walrus operator", "ternary operator"],
+      "correct_answer": "ternary operator"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "'maximum = a if a > b else b' is an example of ternary operator",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, there are ... copy",
+      "options": ["shallow/copy and deep", "metadata"],
+      "correct_answer": "shallow/copy and deep"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Deep copy ... ",
+      "options": ["keeps references to object only", "recursively creates copies of all nested objects within the original object"],
+      "correct_answer": "recursively creates copies of all nested objects within the original object"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Poetry is ...",
+      "options": ["installer, project dependencies manager, handles packaging, and provides tools for building and publishing packages", "a package installer", "another name of pip"],
+      "correct_answer": "installer, project dependencies manager, handles packaging, and provides tools for building and publishing packages"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "pip downloads all packages from ...",
+      "options": ["internet via search engine", "pypi.org"],
+      "correct_answer": "pypi.org"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in Python, a set is implemented as ...",
+      "options": ["an array", "a hash table"],
+      "correct_answer": "a hash table"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, lists are implemented as ...",
+      "options": ["a traditional array", "a dynamic array with automatic resizing, like in C"],
+      "correct_answer": "a dynamic array with automatic resizing, like in C"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, sets do not support indexing",
+      "options": ["support", "does not support"],
+      "correct_answer": "does not support"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In Python, a hash table is implemented as a ...",
+      "options": ["dictionary", "ndarray", "list"],
+      "correct_answer": "dictionary"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "hash table uses ... function for index mapping",
+      "options": ["md5", "hash function"],
+      "correct_answer": "hash function"
     },
     {
       "question": "",

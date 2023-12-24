@@ -97,11 +97,11 @@
    {
      "question": "The expression 'image_path_list[10:]' in Python retrieves the ... 10 elements of the list image_path_list",
      "options": ["all elements from index 10 to the end of the list 'image_path_list'", "last", "none of the above"],
-     "correct_answer": ""
+     "correct_answer": "all elements from index 10 to the end of the list 'image_path_list'"
     },
     {
       "question": "Example of dunder methods in Python ...",
-      "options": ["__init__", "print()", "type()"],
+      "options": ["_ _init_ _", "print()", "type()"],
       "correct_answer": "__init__"
     },
    {
@@ -134,43 +134,43 @@
       "correct_answer": "True"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "self represents ...",
+     "options": ["class itself", "instance of the class"],
+     "correct_answer": "instance of the class"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "cls represents ...",
+      "options": ["instance of the class", "class itself"],
+      "correct_answer": "class itself"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "What is the difference between == and is?",
+     "options": ["== Compares the values of two objects, while is compares memory addresses", " == compares immutables data types, while is compares only mutable"],
+     "correct_answer": "== Compares the values of two objects, while is compares memory addresses"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "a = [1, 2, 3]<br>b = [1, 2, 3]<br>print(a is b) returns ...",
+      "options": ["False", "True", "'is' is not applicable here"],
+      "correct_answer": "False"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "str = '123456789'<br>str[3] = '45 returns ...'",
+     "options": ["str object does not support item assignment, string data type is immutable", "1234556789"],
+     "correct_answer": "str object does not support item assignment, string data type is immutable"
     },{
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Data types in Python are divided into:",
+      "options": ["mutable and immutable", "public and private"],
+      "correct_answer": "mutable and immutable"
     },
    {
-     "question": "",
-     "options": ["", "", ""],
-     "correct_answer": ""
+     "question": "How mutable and immutable arguments are passed into a function?",
+     "options": ["mutable - by value, immutable - by reference", "immutable - by value, mutable - by reference"],
+     "correct_answer": "immutable - by value, mutable - by reference"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "def some_function(some_arg: list = None):<br>if some_arg is None:<br>some_arg = []<br>some_arg.append(1)<br>imagine thr indentation is correct, so the code return some_arg<br>print(some_function())<br>print(some_function()) returns ...",
+      "options": ["[1], [1, 1]", "[1], [1]"],
+      "correct_answer": "[1], [1, 1]"
     }
      
    ]

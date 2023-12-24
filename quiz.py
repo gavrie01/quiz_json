@@ -51,8 +51,7 @@ st.sidebar.markdown("[Dan Jurafsky Book](https://web.stanford.edu/~jurafsky/slp3
 st.sidebar.markdown("[Graph Sketch](https://graphsketch.com)")
 st.sidebar.markdown("[CNN explainer](https://poloclub.github.io/cnn-explainer/)")
 st.sidebar.markdown("[Understanding DL Book](https://udlbook.github.io/udlbook/)")
-
-
+st.sidebar.markdown("[Python лекции](https://www.youtube.com/watch?v=Z7AY41tE-3U&list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E)")
 
 st.title("Quiz")
 

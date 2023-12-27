@@ -55,14 +55,14 @@
       "correct_answer": "yes, sets use hash function"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is more expensive: append() or insert()?",
+      "options": ["insert(), it adds to beginning of the list, so we need to shift the whole sequence to +1", "append(), so we need to find the last element of the list"],
+      "correct_answer": "insert(), it adds to beginning of the list, so we need to shift the whole sequence to +1"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In SVM, the algorithm relies on a set of data points called ... to create the best separation between different classes.",
+      "options": ["support vectors", "number of neural network layers"],
+      "correct_answer": "support vectors"
     },
     {
       "question": "",

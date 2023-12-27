@@ -20,39 +20,39 @@
       "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Auto regression models use ...",
+      "options": ["logistic regression", "time series"],
+      "correct_answer": "time series"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Python, print(True + False) returns ...",
+      "options": ["error", "1", "0"],
+      "correct_answer": "1"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Examole of generator in Python",
+      "options": ["exit", "yield"],
+      "correct_answer": "yield"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Python, when generator function is called, it returns an ... called a generator",
+      "options": ["object", "iterator"],
+      "correct_answer": "iterator"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Python, comments to fucntions are introduced as ...",
+      "options": ["#", "docstring"],
+      "correct_answer": "docstring"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is pythonic way to name a variable?",
+      "options": ["ptc", "participants_total_count", "a-"],
+      "correct_answer": "participants_total_count"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Calculation 'if 100 in {1, 2, 3, ...1000}' is faster rather than 'if 100 in [1, 2, 3, ...1000]'",
+      "options": ["yes, sets use hash function", "no, performance is the same"],
+      "correct_answer": "yes, sets use hash function"
     },
     {
       "question": "",

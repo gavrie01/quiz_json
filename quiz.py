@@ -58,9 +58,6 @@ st.title("Quiz")
 # Add a button to clear the session state
 clear_state_button = st.button("Clear Session State")
 
-#language selector
-#selected_language = st.radio("Select Language", ["English", "German", "Russian"])
-
 # Check if the button is clicked
 if clear_state_button:
     st.session_state.clear()
@@ -113,7 +110,7 @@ footer = """
 
 
 <div style="text-align: center; padding: 10px; background-color: #f0f0f0;">
-    <p>&copy; 2023 Quiz | Contact: <a href="mailto:elena.e.gav@gmail.com">Feedback & Questions</a></p>
+    <p>&copy; 2024 Quiz | Contact: <a href="mailto:elena.e.gav@gmail.com">Feedback & Questions</a></p>
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)

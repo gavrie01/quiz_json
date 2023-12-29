@@ -95,7 +95,7 @@
       "correct_answer": "computational methods"
     },
     {
-      "question": "Long, long time ago mathematical equations were oriented towards integer numbers because other types of numbers had not yet been discovered",
+      "question": "Long, long time ago mathematical equations were oriented towards integer numbers because other types of numbers ....",
       "options": ["had been discovered, scientist considered them to be too complex to use", "had not yet been discovered"],
       "correct_answer": "had not yet been discovered"
     },

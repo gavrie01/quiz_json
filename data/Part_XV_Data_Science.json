@@ -100,29 +100,29 @@
       "correct_answer": "had not yet been discovered"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In  context of API, what request I can use with i.e. 'https://shopping/drinks/light_drinks/904' endpoint",
+      "options": ["POST", "PUT"],
+      "correct_answer": "PUT"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In context of API, ... is used for update",
+      "options": ["PUT", "UPDATE"],
+      "correct_answer": "PUT"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The ... method is used to apply a partial update to a resource",
+      "options": ["PUT", "PATCH"],
+      "correct_answer": "PATCH"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... is a human-readable data serialization format",
+      "options": ["Form-Data", "YAML"],
+      "correct_answer": "YAML"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "With ..., you can easily inspect the details of your PyTorch model, such as the input and output shapes of each layer, the total number of parameters, and the memory footprint",
+      "options": ["Torchvisualization", "Torchinfo"],
+      "correct_answer": "Torchinfo"
     },
     {
       "question": "",

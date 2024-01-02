@@ -41,7 +41,7 @@
     },
     {
       "question": "In Python, comments to fucntions are introduced as ...",
-      "options": ["#", "docstring"],
+      "options": ["comment", "docstring"],
       "correct_answer": "docstring"
     },
     {
@@ -125,54 +125,54 @@
       "correct_answer": "Torchinfo"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In algebra, can I divide 0 by 0?<br>Choose the most relevant option",
+      "options": ["yes, division itself is possible, but there is no single solution, therefore it is division fact w/o solution", "no, it is impossible to divide by 0 whatever happens", "yes, it is possible, there are multiple solutions, any number multiplied ty 0 returns 0", "no, if it is impossible in physics, it is impossible in math"],
+      "correct_answer": "yes, division itself is possible, but there is no single solution, therefore it is division fact w/o solution"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "def f(a, *t, **d):<br>print(a, t, d)<br>f(1, 2, 3, n =4) returns ... (let us imagine indentation is correct)",
+      "options": ["[1, (2, 3), {'n': 4}]", "1 (2, 3) {'n': 4}", "1 (2, 3) {4, 4, 4, 4}"],
+      "correct_answer": "1 (2, 3) {'n': 4}"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "We ... use unknown word model for naive Bayes",
+      "options": ["do", "don't"],
+      "correct_answer": "don't"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Gaussian, Bernoulli, Categorical, Binary, Standard, it is all about ...",
+      "options": ["Laplace Smoothing mechanisms", "Naive Bayes", "text tokenization technics"],
+      "correct_answer": "Naive Bayes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In NLP context, this is example of dealing with negation in sentiment analysis tasks: 'didn't like the movie, but I'",
+      "options": ["<NOT>like the movie</NOT>, but I", "didn't NOT_like NOT_this NOT_movie, but i"],
+      "correct_answer": "didn't NOT_like NOT_this NOT_movie, but i"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In NLP, is there any difference between NOT_bored and NOT_like",
+      "options": ["yes, in sentiment analysis context", "no, NOT_ is not used like that, these words should be added into stop lists"],
+      "correct_answer": "yes, in sentiment analysis context"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "NLP context, a ... a simple model used to predict the outcome of data. It serves as a starting point for analysis.",
+      "options": ["baseline model", "initial model", "zero model"],
+      "correct_answer": "baseline model"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Naive Bayes Classifiers can be sued for sentiment analysis and spam detection",
+      "options": ["only for sentiment analysis", "only for spam detection", "for the given tasks only", "for the given tasks + number of other tasks, like language identification fraud detection"],
+      "correct_answer": "for the given tasks + number of other tasks, like language identification fraud detection"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In NLP, ... refers to the 'likelihood' of a particular outcome or event occurring",
+      "options": ["there is no such official term 'likelihood'", "probability"],
+      "correct_answer": "probability"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Only likelihood is used in Naive Bayes to make a classification decision",
+      "options": ["yes, it is enough", "no, full Naive Bayes model is used"],
+      "correct_answer": "no, full Naive Bayes model is used"
     } 
      
    ]

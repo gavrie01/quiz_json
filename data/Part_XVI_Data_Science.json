@@ -1,0 +1,179 @@
+[
+    {
+       "question": "Sigmoid function is called like this because it ...",
+       "options": ["was discovered by scientist named Sigmoid", "looks like letter 's'"],
+       "correct_answer": "looks like letter 's'"
+     },
+     {
+      "question": "Sigmoid function is also called ... function",
+      "options": ["logistic", "linear regression"],
+      "correct_answer": "logistic"
+    },
+    {
+      "question": "Logistic regression makes a decision based on ...",
+      "options": ["decision boundary, i.e. 0.5", "learning rate"],
+      "correct_answer": "decision boundary, i.e. 0.5"
+    },
+    {
+      "question": "In logistic regression, decision boundary is ...",
+      "options": ["probability", "recall", "'F1 score'"],
+      "correct_answer": "probability"
+    },
+    {
+      "question": "Logistic regression can be applied to ... ... of NLP tasks",
+      "options": ["restricted set", "all sorts"],
+      "correct_answer": "all sorts"
+    },
+    {
+      "question": "NLP context, consider we added the same feature f1 twice, Naive Bayes will treat both f1 ...",
+      "options": ["as if they were separate", "as if they are the same and will assign part of the weight to the first and the rest to the second"],
+      "correct_answer": "as if they were separate"
+    },
+    {
+      "question": "NLP context, when there are many correlated features, ...  will assign more accurate probability than ...",
+      "options": ["logistic regression / naive Bayes", "naive Bayes / logistic regression"],
+      "correct_answer": "logistic regression / naive Bayes"
+    },
+    {
+      "question": "NLP context, ... ... works better on small datasets, easy to implement and very fast to train",
+      "options": ["naive Bayes", "Logistic regression"],
+      "correct_answer": "naive Bayes"
+    },
+    {
+      "question": "NLP context, multinomial logistic regression is also called ... ",
+      "options": ["softmax regression or maxent classifier", "softmax regression"],
+      "correct_answer": "softmax regression or maxent classifier"
+    },
+    {
+      "question": "sigmoid and softmax are ... functions",
+      "options": ["exponential", "convex"],
+      "correct_answer": "exponential"
+    },
+    {
+      "question": "softmax function as well as sigmoid can be used in (multinomial) logistic regression",
+      "options": ["yes", "yes, only for multinomial", "no, only sigmoid can be used"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "The distance between the model's output and 'golden' output is called ... function",
+      "options": ["loss / cost", "precision"],
+      "correct_answer": "loss / cost"
+    },
+    {
+      "question": "The goal of gradient descent is to find the ...",
+      "options": ["optimal weights", "optimal biases"],
+      "correct_answer": "optimal weights"
+    },
+    {
+      "question": "The loss function used in logistic regression, typically the binary cross-entropy loss (log loss) is ...",
+      "options": ["linear", "convex"],
+      "correct_answer": "convex"
+    },
+    {
+      "question": "convex function has a few local minima",
+      "options": ["yes", "no"],
+      "correct_answer": "no"
+    },
+    {
+      "question": "The loss function for multi-layered NN is ...",
+      "options": ["convex", "non-convex"],
+      "correct_answer": "non-convex"
+    },
+    {
+      "question": "non-convex function means gradient descent can ...",
+      "options": ["stuck at local minima", "skip local minima"],
+      "correct_answer": "stuck at local minima"
+    },
+    {
+      "question": "SGD is called stochastic because it chooses a ... ... example at a time, moving the weights so as to improve performance on that single example ",
+      "options": ["single random", "single pre-defined"],
+      "correct_answer": "single random"
+    },
+    {
+      "question": "It is common to compute gradient descent ... ",
+      "options": ["over single instance", "over batches"],
+      "correct_answer": "over batches"
+    },
+    {
+      "question": "In Batch Training we compute gradient over ...",
+      "options": ["entire dataset", "group of m examples"],
+      "correct_answer": "entire dataset"
+    },
+    {
+      "question": "Regularization helps to avoid overfitting",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "L1 Regularization is a linear fnction of the weight values named after L1 Norm (the sum of the absolute values of the weights or Mahnattan Distance)",
+      "options": ["yes", "no, it is L2"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "f(x) = u(v(x)) is an example of ...",
+      "options": ["composite function", "recursive function"],
+      "correct_answer": "composite function"
+    },
+    {
+      "question": "In 'maxent classifier' maxent stand for ... ",
+      "options": ["nothing, this is maxent", "maximum entropy"],
+      "correct_answer": "maximum entropy"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+       
+   ]
+   

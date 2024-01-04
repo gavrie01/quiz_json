@@ -120,59 +120,59 @@
       "correct_answer": "maximum entropy"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In many languages the infinitive form is used as ... for a verb",
+      "options": ["stem", "lemma"],
+      "correct_answer": "lemma"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In linguistics, a difference in linguistic form is always associated with some difference in meaning is called",
+      "options": ["principle of contrast", "principle of similarity"],
+      "correct_answer": "principle of contrast"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A ... is a set of words which cover a particular domain, i.e. 'surgeon', 'scalpel', 'nurse' --> hospital and bare structured relations with each other",
+      "options": ["semantic field", "relatedness field"],
+      "correct_answer": "semantic field"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Positive or Negative evaluation language is called",
+      "options": ["sentiment", "complement"],
+      "correct_answer": "sentiment"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... ...  focuses on understanding the position or stance expressed in relation to a specific target or topic",
+      "options": ["Sentiment analysis", "Stance detection"],
+      "correct_answer": "Stance detection"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... ... is a standard way to represent meaning in NLP",
+      "options": ["Vector semantics", "Semantic frame"],
+      "correct_answer": "Vector semantics"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The idea if vector semantics is to represent a word as a point in multidimensional semantic space that is derived from the distributions of word neighbors",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... for representing words are called embeddings",
+      "options": ["Points", "Vectors"],
+      "correct_answer": "Vectors"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "This vector [0,0,0,0,0,0,5,0,0,0,0,0,0] is called ...",
+      "options": ["sparse because of zeros", "dense because of zeros"],
+      "correct_answer": "sparse because of zeros"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... space is collection of vectors characterized by their dimension",
+      "options": ["Vector", "Embedding"],
+      "correct_answer": "Vector"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Similar documents have similar vectors",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     }
        
    ]

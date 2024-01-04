@@ -30,74 +30,74 @@
       "correct_answer": "Inverse Document Frequency"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "print(r'\nhello'), what is the output and why?",
+      "options": ["'\nhello', 'r' creates a raw string literal", "error", "new line, 'hello'"],
+      "correct_answer": "'\nhello', 'r' creates a raw string literal"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "PMI (pointwise mutual information) is one of important concepts in NLP, it measures how often two events x and y occur, compared with what we would expect if the were independent",
+      "options": ["yes", "yes, but not in NLP, it is related to CNN, pixels processing"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Negative PMI values are ... reliable",
+      "options": ["reliable", "unreliable", "unreliable unlesss our corpora are enormous"],
+      "correct_answer": "unreliable unlesss our corpora are enormous"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "PPMI (Positive PMI) replaces all negative PMI values with 0",
+      "options": ["yes", "yes, but it replaces with 1", "yes, but P in PPMI means 'probable'"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Very rare words tend to have  very ... PMI values",
+      "options": ["low", "high"],
+      "correct_answer": "high"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In NLP context, there is such thing like the multidimensional version of mean: a single vector that has the minimum sum of squared distances to each of the vectors in the set",
+      "options": ["centroid document vector", "vector space"],
+      "correct_answer": "centroid document vector"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Word2Vec is a model used in NLP, it represents words as continuous vector spaces",
+      "options": ["yes", "no"],
+      "correct_answer": "no"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Sparse vectors work better than dense vectors in any NLP task",
+      "options": ["yes", "no, it is vice versa dense better than sparse"],
+      "correct_answer": "no, it is vice versa dense better than sparse"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... co-occurrence, it is when two words have similar neighbors",
+      "options": ["First-order", "Second-order"],
+      "correct_answer": "Second-order"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In NLP context, the parallelogram method is in general too ... to model human cognitive process",
+      "options": ["complex", "simple"],
+      "correct_answer": "simple"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "When a model allocates resources (job or credit) unfairly to different groups, i.e. it downweights women when hiring programmers",
+      "options": ["allocational harm", "hallucination"],
+      "correct_answer": "allocational harm"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "When gendered terms become more gendered in embedding space than they were in the input text statistics, this is ..",
+      "options": ["bias amplification", "allocational bias"],
+      "correct_answer": "bias amplification"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Vector semantic models fall into 2 classes: ",
+      "options": ["sparse / dense", "first-word co-occurrence / second-word co-occurrence"],
+      "correct_answer": "sparse / dense"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The idea of vector semantics arose out of research (linguistics, computer science, psychology) in the ...",
+      "options": ["2000s", "1950s", "1990s"],
+      "correct_answer": "1950s"
     },
     {
       "question": "",

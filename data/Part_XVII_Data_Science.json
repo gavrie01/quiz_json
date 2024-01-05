@@ -100,39 +100,39 @@
       "correct_answer": "1950s"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In neural language models as activation function ... is commonly used, this function is almost similar, but always performs better",
+      "options": ["sigmoid", "tanh"],
+      "correct_answer": "tanh"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The ... function maps input values from the entire real number line to the range (-1, 1) and is sigmoidal in shape",
+      "options": ["tanh", "sine", "cosine"],
+      "correct_answer": "tanh"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Using of ... function 'avoids' vanishing gradient problem",
+      "options": ["linear", "ReLU"],
+      "correct_answer": "ReLU"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... is a very simple neural unit that has a binary output and does not have a non-linear activation function",
+      "options": ["Perceptron", "Multitron"],
+      "correct_answer": "Perceptron"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "If A = 1 and B = 1, A XOR B = ...",
+      "options": ["1", "0"],
+      "correct_answer": "0"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Is it possible to build a perceptron to compute logical XOR? Why?",
+      "options": ["no, because XOR is not a linearly separable function", "yes, it is possible to build for OR and AND"],
+      "correct_answer": "no, because XOR is not a linearly separable function"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "While XOR can not be computed by perceptron it can be computed by layered neural network",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
       "question": "",

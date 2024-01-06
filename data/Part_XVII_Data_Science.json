@@ -1,6 +1,6 @@
 [
     {
-       "question": "IN NP, a word vector is often represented as a ... vector",
+       "question": "In NLP, a word vector is often represented as a ... vector",
        "options": ["row", "sparse", "dense"],
        "correct_answer": "row"
      },
@@ -20,7 +20,7 @@
       "correct_answer": "documents"
     },
     {
-      "question": "The lowest weight of 1 is assigned to a term that occur in all the documents",
+      "question": "In NLP, the lowest weight of 1 is assigned to a term that occur in all the documents",
       "options": ["yes", "yes, but the lowest is 0"],
       "correct_answer": "yes"
     },
@@ -30,9 +30,9 @@
       "correct_answer": "Inverse Document Frequency"
     },
     {
-      "question": "print(r'\nhello'), what is the output and why?",
-      "options": ["'\nhello', 'r' creates a raw string literal", "error", "new line, 'hello'"],
-      "correct_answer": "'\nhello', 'r' creates a raw string literal"
+      "question": "print(r'slashnhello'), what is the output and why?",
+      "options": ["'slashnhello', 'r' creates a raw string literal", "error", "new line, 'hello'"],
+      "correct_answer": "'slashnhello', 'r' creates a raw string literal"
     },
     {
       "question": "PMI (pointwise mutual information) is one of important concepts in NLP, it measures how often two events x and y occur, compared with what we would expect if the were independent",
@@ -62,7 +62,7 @@
     {
       "question": "Word2Vec is a model used in NLP, it represents words as continuous vector spaces",
       "options": ["yes", "no"],
-      "correct_answer": "no"
+      "correct_answer": "yes"
     },
     {
       "question": "Sparse vectors work better than dense vectors in any NLP task",
@@ -135,44 +135,44 @@
       "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "1e-3 equals ...",
+      "options": ["1000", "0.001", "-2e"],
+      "correct_answer": "0.001"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Early stopping prevents overfitting",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Train for longer time helps to reduce underfitting",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Tweaking a learning rate is a good approach to handle ... ",
+      "options": ["overfitting", "underfitting"],
+      "correct_answer": "underfitting"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In machine learning 'just right' it is when ...",
+      "options": ["train and test 'loss over learning rate' curves are similar and close to X axe enough", "train is higher than test", "both could be lower on the graph, there is still enough space till X axe"],
+      "correct_answer": "train and test 'loss over learning rate' curves are similar and close to X axe enough"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... - optimizer in PyTorch",
+      "options": ["Luis", "Adam", "Billy"],
+      "correct_answer": "Adam"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A  data type contains all whole non-negative numbers from 0 to 255",
+      "options": ["uint8", "integer"],
+      "correct_answer": "uint8"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "uint8 data type is mostly used in ...",
+      "options": ["graphics", "video", "audio"],
+      "correct_answer": "graphics"
     }
          
    ]

@@ -102,7 +102,7 @@
   {
     "question": "In 'GPT' Transformers mean",
     "options": ["Generally speaking it is a specific type of architecture, which is a specific Neural Network", "Transactional Providers", "Transmitting Formulators"],
-    "correct_answer": "Generally speaking it is a specific type of architecture"
+    "correct_answer": "Generally speaking it is a specific type of architecture, which is a specific Neural Network"
   },
   {
     "question": "MySQL, Oracle, PostgreSQL are examples of:",

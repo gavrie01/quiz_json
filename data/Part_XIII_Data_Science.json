@@ -102,7 +102,7 @@
     {
       "question": "Example of dunder methods in Python ...",
       "options": ["_ _init_ _", "print()", "type()"],
-      "correct_answer": "__init__"
+      "correct_answer": "_ _init_ _"
     },
    {
      "question": "What is correct: ...",
@@ -154,7 +154,7 @@
       "correct_answer": "False"
     },
    {
-     "question": "str = '123456789'<br>str[3] = '45 returns ...'",
+     "question": "str = '123456789'<br>str[3] = '45' returns ...",
      "options": ["str object does not support item assignment, string data type is immutable", "1234556789"],
      "correct_answer": "str object does not support item assignment, string data type is immutable"
     },{
@@ -168,7 +168,7 @@
      "correct_answer": "immutable - by value, mutable - by reference"
     },
     {
-      "question": "def some_function(some_arg: list = None):<br>if some_arg is None:<br>some_arg = []<br>some_arg.append(1)<br>imagine thr indentation is correct, so the code return some_arg<br>print(some_function())<br>print(some_function()) returns ...",
+      "question": "def some_function(some_arg: list = None):<br>if some_arg is None:<br>some_arg = []<br>some_arg.append(1)<br>print(some_function())<br>print(some_function()) returns (let the indentation be correct)...",
       "options": ["[1], [1, 1]", "[1], [1]"],
       "correct_answer": "[1], [1, 1]"
     }

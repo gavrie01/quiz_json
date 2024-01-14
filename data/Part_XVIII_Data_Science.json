@@ -1,0 +1,180 @@
+[
+    {
+       "question": "... are specific to Jupyter Notebooks and provide a convenient way to interact with and control the behavior of the notebook environment",
+       "options": ["Magics", "Stories", "Lullabies"],
+       "correct_answer": "Magics"
+     },
+     {
+      "question": "How do I differentiate line and cell magics?",
+      "options": ["% and %%", "& and &&"],
+      "correct_answer": "% and %%"
+    },
+    {
+      "question": "You can view a list of available magics and their documentation by running ... in a Jupyter Notebook cell.",
+      "options": ["%lsmagic", "lsmagic", "%%lsmagic"],
+      "correct_answer": "%lsmagic"
+    },
+    {
+      "question": "If I write my code in Jupyter Notebook, can I quickly save it as python script?",
+      "options": ["yes, by using magics", "no, manual copy/paste is needed", "yes, by changing notebook's extension to .py"],
+      "correct_answer": "yes, by using magics"
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "In Python 'self' is ...",
+      "options": ["attribute", "method"],
+      "correct_answer": "attribute"
+    },
+    {
+      "question": " ... Datatypes, ... Devices, .... Shapes are three big errors in PyTorch's Deep Learning scientists usually make",
+      "options": ["Wrong", "Complex"],
+      "correct_answer": "Wrong"
+    },
+    {
+      "question": "In Jupyter Notebooks, ... ... are special commands that provide additional functionality beyond what standard Python syntax offers",
+      "options": ["magic commands / magics", "extra commands / extras", "command line commands / clc"],
+      "correct_answer": "magic commands / magics"
+    },
+    {
+      "question": "In Jupyter Notebooks, there are ... types of magics: ..., ...., ....",
+      "options": ["two: line magics and cell magics", "three: line magics, cell magics and full magic"],
+      "correct_answer": "two: line magics and cell magics"
+    }
+     
+         
+   ]
+   

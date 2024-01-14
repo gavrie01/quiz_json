@@ -30,7 +30,7 @@
       "correct_answer": "1"
     },
     {
-      "question": "Examole of generator in Python",
+      "question": "Example of generator in Python",
       "options": ["exit", "yield"],
       "correct_answer": "yield"
     },

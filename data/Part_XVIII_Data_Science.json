@@ -20,39 +20,39 @@
       "correct_answer": "yes, by using magics"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "... less common term for decimal",
+      "options": ["binary", "denary", "float"],
+      "correct_answer": "denary"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Take an already well performing model from a problem space similar to your and then customize it to fit better into you problem, this is ...",
+      "options": ["reinforcement learning", "transfer learning"],
+      "correct_answer": "transfer learning"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Transfer learning allows us to take the patterns, also called ..., another model has learned from another problem and use them for our own problem.",
+      "options": ["weights", "layers"],
+      "correct_answer": "weights"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "A ... is a deep learning model that adopts the mechanism of self-attention",
+      "options": ["bidirectional encoder", "transformer", "markov chain"],
+      "correct_answer": "transformer"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Transformers are designed to process ... input data",
+      "options": ["non-sequential", "sequential"],
+      "correct_answer": "sequential"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "... processes all the entire input at once",
+      "options": ["RNN", "Transformer"],
+      "correct_answer": "Transformer"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "GELU stands for Gaussian Error Linear Unit. It is an ... ... that is commonly used in neural networks, esp in NLP",
+      "options": ["bias", "activation function"],
+      "correct_answer": "activation function"
     },
     {
       "question": "",

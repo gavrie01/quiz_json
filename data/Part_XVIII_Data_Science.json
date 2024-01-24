@@ -120,39 +120,39 @@
       "correct_answer": "No, because each next NF is build over the previous one, the 2NF prohibits duplication of records"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in Python, Boolean values (True and False) are a subtype of integers",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In the context of RDBMS, ... is a file that contains a set of SQL statements that, when executed, recreate the database structure and/or data",
+      "options": ["Dump", "Content"],
+      "correct_answer": "Dump"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, it is often used for backup or migration purposes",
+      "options": ["dump", "rollback"],
+      "correct_answer": "dump"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, index speeds up search in DB and slows down saving into DB",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, index is stored in a form of a table",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "... is a Python library for generating fake data, and it is used in Python scripts or applications to create realistic but non-sensitive data for testing or development purposes",
+      "options": ["pgfutter", "Faker"],
+      "correct_answer": "Faker"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Once indexes are added, they can not be removed from DB",
+      "options": ["no, they can be removed, re-built", "yes, they are a part of schema now and could not be changed"],
+      "correct_answer": "no, they can be removed, re-built"
     },
     {
       "question": "In Python 'self' is ...",

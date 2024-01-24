@@ -25,7 +25,7 @@
       "correct_answer": "denary"
     },
     {
-      "question": "Take an already well performing model from a problem space similar to your and then customize it to fit better into you problem, this is ...",
+      "question": "Take an already well performing model from a problem space similar to yours and then customize it to fit better into your problem, this is ...",
       "options": ["reinforcement learning", "transfer learning"],
       "correct_answer": "transfer learning"
     },
@@ -55,69 +55,69 @@
       "correct_answer": "activation function"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Acronym 'ACID' in RDBMS refers to a set of 4 key properties: ...?",
+      "options": ["Atomicity, Consistency, Isolation, and Durability", "Advanced, Concurrency, Isolation, Database", "Allgemeine, Communism, Isolation, Datenbank"],
+      "correct_answer": "Atomicity, Consistency, Isolation, and Durability"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "ACID is an acronym that refers to the set of 4 key properties that define a ... : Atomicity, Consistency, Isolation, and Durability",
+      "options": ["transaction", "contract", "negotiation"],
+      "correct_answer": "transaction"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "RDBMS: CAP theorem in simple words...",
+      "options": ["you are not allowed to have everything at once and have to choose any 2 options out of three at any time", "you are allowed to have everything at once, a system must be stable each moment in the time - stability", "CAP theorem is not related to RDBMS"],
+      "correct_answer": "you are not allowed to have everything at once and have to choose any 2 options out of three at any time"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Each transaction has a level of ...",
+      "options": ["isolation", "rollback", "commit"],
+      "correct_answer": "isolation"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "... transaction provides a full isolation",
+      "options": ["repeatable read", "serializable", "read committed", "read uncommitted"],
+      "correct_answer": "serializable"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In SQL, the ... and ... statements are used to define the boundaries of a transaction",
+      "options": ["BEGIN / COMMIT", "BEGIN TRANSACTION / COMMIT", "BEGIN / END"],
+      "correct_answer": "BEGIN TRANSACTION / COMMIT"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, how many typical / most common <strong>normalization forms</strong> exist?",
+      "options": ["1NF, 2NF, 3NF", "1NF, 2NF, 3NF, 4NF, 5NF", "it depends on DB architecture, there are not such terms like xNF in RDBMS"],
+      "correct_answer": "1NF, 2NF, 3NF"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "In RDBMS, when each field of the table contains just one value + no composite data, it is ...",
+      "options": ["1NF", "2NF", "3NF"],
+      "correct_answer": "1NF"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, there is a table 'Employees', it has a field 'Employee' and contains value 'Ivanov Ivan Ivanovich', this value has 1NF view",
+      "options": ["No, 1NF has no composite data as values", "yes"],
+      "correct_answer": "No, 1NF has no composite data as values"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "1NF + primary key + lack of duplicates is ...",
+      "options": ["2NF", "3NF"],
+      "correct_answer": "2NF"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "2NF + all the attributes in the table depend only on primary key",
+      "options": ["3NF", "developer's sweet dream", "4NF"],
+      "correct_answer": "3NF"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, when data in a table is related directly to table's primary key and not to records located in other tables is indication of ...",
+      "options": ["2NF", "3NF", "1NF"],
+      "correct_answer": "3NF"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "in RDBMS, 3NF allows duplications of records",
+      "options": ["No, because each next NF is build over the previous one, the 2NF prohibits duplication of records", "Yes, it allows, NF are isolated from each other", "There is no such constraint on records duplication"],
+      "correct_answer": "No, because each next NF is build over the previous one, the 2NF prohibits duplication of records"
     },
     {
       "question": "",

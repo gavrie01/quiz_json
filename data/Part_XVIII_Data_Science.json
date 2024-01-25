@@ -150,9 +150,9 @@
       "correct_answer": "Faker"
     },
     {
-      "question": "Once indexes are added, they can not be removed from DB",
-      "options": ["no, they can be removed, re-built", "yes, they are a part of schema now and could not be changed"],
-      "correct_answer": "no, they can be removed, re-built"
+      "question": "in Transformers, self-attention, ... function preserves the order of the input values from ow to high",
+      "options": ["softmax", "linear"],
+      "correct_answer": "softmax"
     },
     {
       "question": "In Python 'self' is ...",

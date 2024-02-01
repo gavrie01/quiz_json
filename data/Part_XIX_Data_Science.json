@@ -1,0 +1,180 @@
+[
+    {
+       "question": "Python: for loop and else, can for loop use else statement?",
+       "options": ["no, else belongs to conditional if", "yes, of course"],
+       "correct_answer": "yes, of course"
+     },
+     {
+      "question": "Python, can we use float in this construction: 'for x in range(0.5, 5.5, 0.5):'",
+      "options": ["yes", "no, only integers"],
+      "correct_answer": "no, only integers"
+    },
+    {
+      "question": "print( (1.1 + 2.2) == 3.3 )",
+      "options": ["true", "false"],
+      "correct_answer": "false"
+    },
+    {
+      "question": "PyTorch, NN: stack of layers is a ...",
+      "options": ["model", "block"],
+      "correct_answer": "block"
+    },
+    {
+      "question": "PyTorch, NN: stack of blocks is a ...",
+      "options": ["model", "block", "composite block"],
+      "correct_answer": "model"
+    },
+    {
+      "question": "In the context of a transformer's encoder, 'MLP' typically refers to the ...",
+      "options": ["Maximum Layer Precision", "Multi-Layer Perceptron"],
+      "correct_answer": "Multi-Layer Perceptron"
+    },
+    {
+      "question": "Multi-Layer Perceptron is the same as Multi-Layer Feedforward Network",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "PyTorch, NN: The ViT model breaks down an input image into fixed-size non-overlapping ..., and each .... is linearly embedded into a lower-dimensional vector",
+      "options": ["patches / patch", "tensors / tensor"],
+      "correct_answer": "patches / patch"
+    },
+    {
+      "question": "Pytorch, NN: ViT is ...",
+      "options": ["Vision Transformer", "Visual Interpretation Technology"],
+      "correct_answer": "Vision Transformer"
+    },
+    {
+      "question": "PyTorch, NN: stack of blocks is a Model, in this context Model is the same as ...",
+      "options": ["Model", "Architecture", "Composite Model"],
+      "correct_answer": "Architecture"
+    },
+    {
+      "question": "PyTorch, NN, 2024: Which model variants has ViT",
+      "options": ["Tiny / Small / Medium / Large", "Base / Large / Huge"],
+      "correct_answer": "Base / Large / Huge"
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correct_answer": ""
+    }
+       
+         
+   ]
+   

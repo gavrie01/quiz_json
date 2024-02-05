@@ -55,47 +55,47 @@
       "correct_answer": "Base / Large / Huge"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch, NN: Residual connections mainly help mitigate ....",
+      "options": ["model's overfitting", "vanishing gradient problem", "model'S underfitting"],
+      "correct_answer": "vanishing gradient problem"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch, NN: Without the residual connections, a large part of the training signal would get lost during ...",
+      "options": ["loss function calculation", "back-propagation", "optimization"],
+      "correct_answer": "back-propagation"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch, NN: Residual connections are typically used in ... neural networks where the vanishing gradient problem may impede the training process",
+      "options": ["very deep", "shallow", "moderate"],
+      "correct_answer": "very deep"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch, NN: very deep neural networks may contain thousands of layers",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch, NN: residual connections in neural networks involve the use of ... during the training process",
+      "options": ["derivative", "gradient"],
+      "correct_answer": "derivative"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Most competitive neural sequence transduction models have an ... structure",
+      "options": ["encoder-decoder", "encoder", "decoder", "predictive"],
+      "correct_answer": "encoder-decoder"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "it's common to see neural networks designed with ... in both the encoder and decoder.",
+      "options": ["multiple layers", "one layer", "no layers, since encoding and decoding belong to input and output layers"],
+      "correct_answer": "multiple layers"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "An attention function can be described as mapping a query and a set of key-value pairs to an output. What is 'query' here?",
+      "options": ["vector that you want to focus on", "sql query"],
+      "correct_answer": "vector that you want to focus on"
     },
     {
-      "question": "",
+      "question": "In NLP: a 'token' can be a word, a subword, or even a character, depending on how the tokenization process is performed",
       "options": ["", "", ""],
       "correct_answer": ""
     },

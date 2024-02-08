@@ -96,13 +96,13 @@
     },
     {
       "question": "In NLP: a 'token' can be a word, a subword, or even a character, depending on how the tokenization process is performed",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "A simplistic or straight forward approach to assigning labels or categories to data points without considering more sophisticated methods or nuances",
+      "options": ["hypothesis labeling system", "naive labeling system"],
+      "correct_answer": "naive labeling system"
     },
     {
       "question": "",

@@ -105,49 +105,49 @@
       "correct_answer": "naive labeling system"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "NN, PyTorch, ViT: Dropout, when used applied after every dense layer (in general, but with some exception)",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Dense Layer in NN is a layer, where neurons are connected as:",
+      "options": ["each one from the previous layer with each one from current, etc", "neurons from previous layer are connected to neurons from current layer based on maximum weights"],
+      "correct_answer": "each one from the previous layer with each one from current, etc"
+    },
+    {
+      "question": "PyTorch supports two execution modes:",
+      "options": ["eager / graph", "lazy / tree", "now / later"],
+      "correct_answer": "eager / graph"
+    },
+    {
+      "question": "PyTorch: In ... mode, operators in a model are immediately executed as they are encountered",
+      "options": ["eager", "graph"],
+      "correct_answer": "eager"
+    },
+    {
+      "question": "PyTorch: In graph mode, operators are first synthesized into a graph, which will then be compiled and executed as a whole",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
       "question": "",
-      "options": ["", "", ""],
+      "options": ["", ""],
       "correct_answer": ""
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch: ... mode typically delivers higher performance",
+      "options": ["Graph", "Eager"],
+      "correct_answer": "Graph"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch: ... mode is easier to use, more suitable for ML researchers",
+      "options": ["Eager", "Graph"],
+      "correct_answer": "Eager"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
-    },
-    {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "PyTorch: default mode of execution for PyTorch model is ...",
+      "options": ["eager", "graph"],
+      "correct_answer": "eager"
     },
     {
       "question": "",

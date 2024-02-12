@@ -130,9 +130,9 @@
       "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "GPT model, LLMs: Vectors DB is a result of trained Neural Network",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
       "question": "PyTorch: ... mode typically delivers higher performance",
@@ -150,19 +150,19 @@
       "correct_answer": "eager"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "GPT models, LLM: Vector in vectors DB contains semantic and contextual info learnt during training phase",
+      "options": ["yes", "semantic only"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "GPT is a type of autoregressive language model based on the Transformer architecture",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "The ... architecture is commonly used in seq2seq models",
+      "options": ["encoder", "encoder-decoder", "encoder-decoder-encoder"],
+      "correct_answer": "encoder-decoder"
     },
     {
       "question": "",

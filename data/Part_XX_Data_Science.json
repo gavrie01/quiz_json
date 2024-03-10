@@ -1,0 +1,178 @@
+[
+    {
+       "question": "Representative, is balanced, is marked up - are mandatory measures / features of ...  quality",
+       "options": ["gaussian distribution", "corpora"],
+       "correct_answer": "corpora"
+     },
+     {
+      "question": "Linguistics corpora are created on order ...",
+      "options": ["readers can read with greater comfort", "linguists can explore a language through the corpora more effective"],
+      "correct_answer": "linguists can explore a language through the corpora more effective"
+    },
+    {
+      "question": "There is a difference between Corpus and Vocabulary",
+      "options": ["yes", "no, they are the same"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Small corpus contains circa ... tokens",
+      "options": ["50 000", "500", "1 000 000"],
+      "correct_answer": "50 000"
+    },
+    {
+      "question": "sms language, kids language, students language, etc are .... of the same 'common' language",
+      "options": ["units", "sub-languages"],
+      "correct_answer": "sub-languages"
+    },
+    {
+      "question": "As of today corpora are constructed by linguists, they contain synthetic data",
+      "options": ["No, the texts are real", "Yes"],
+      "correct_answer": "No, the texts are real"
+    },
+    {
+      "question": "Can Speech Recoding be in of Corpus?",
+      "options": ["no, only texts", "yes of course, there are spoken speech corpora"],
+      "correct_answer": "yes of course"
+    },
+    {
+      "question": "Beginning of Corpus Linguistics addresses us to .... ",
+      "options": ["1950'", "1990'", "2000', 'as soon as writing system was created"],
+      "correct_answer": "1950'"
+    },
+    {
+      "question": "Corpora linguistics has started in regards to better understanding of ...",
+      "options": ["The Works of Thomas Aquinas", "The works of Pythagoras", "Bible"],
+      "correct_answer": "The Works of Thomas Aquinas"
+    },
+    {
+      "question": "How can linguist understand the sense of a Word better?",
+      "options": ["to explore all possible context of the word in a number of texts fragments", "to explore a national registry of all words in a language", "to ask LLM aka ChatGPT"],
+      "correct_answer": "to explore all possible context of the word in a number of texts fragments"
+    },
+    {
+      "question": ".... helps better to explore word's context",
+      "options": ["Concordance / Corpus", "Dictionary"],
+      "correct_answer": "Concordance / Corpus"
+    },
+    {
+      "question": "First Concordance for Russian Language was created manually ...",
+      "options": ["1720-30", "1920-30", "1990"],
+      "correct_answer": "1720-30"
+    },
+    {
+      "question": "The first Concordance created in 1985 with programmatic means was for ...",
+      "options": ["A. Pushkin", "W. Shakespeare"],
+      "correct_answer": "A. Pushkin"
+    },
+    {
+      "question": "First Concordance in the world was created for Bible",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "First Dictionary in the World (Samuel Johnson, 1755) was  ....",
+      "options": ["British English", "American English", "Latin"],
+      "correct_answer": "British English"
+    },
+    {
+      "question": "A standard Corpus for implementation of other Corpora is ...",
+      "options": ["Brown Corpus", "Golden Corpus", "Tübingen Corpus", "COCA Corpus"],
+      "correct_answer": "Brown Corpus"
+    },
+    {
+      "question": "Brown Corpus ... Poetry and Drama texts",
+      "options": ["does contain", "does not contain"],
+      "correct_answer": "does not contain"
+    },
+    {
+      "question": "It is strongly recommended to include in Corpora ...",
+      "options": ["whole texts", "texts' fragments"],
+      "correct_answer": "whole texts"
+    },
+    {
+      "question": "Each Corpus is created to resolve a concrete linguistic task",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "studying the forms of politeness in the language - could that be a linguistic task for a relevant Corpora?",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Each Corpus should be delivered with description / paper / passport that clearly defines objectives, sources, purpose, etc",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Charles Carpenter Fries considered that so called 'vulgar' language differed from so called 'standard' language in the following way ....",
+      "options": ["spelling error rate", "poor vocabulary", "language constructions variety"],
+      "correct_answer": "language constructions variety"
+    },
+    {
+      "question": "Linguistic: Concordance is  a listing of each occurrence of a word (or pattern) in a text or corpus, presented with the words surrounding it",
+      "options": ["no, what you say is a dictionary", "yes, that is right"],
+      "correct_answer": "yes, that is right"
+    },
+    {
+      "question": "Corpora reflects language environment and time frame, its content shapes them",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Linguistics: Term Usus (Lat) means...",
+      "options": ["simplification of spoken speech within one geo location", "common usage of words, language construction that does not conform to rules, therefore is not considered to be an erroneous"],
+      "correct_answer": "common usage of words, language construction that does not conform to rules, therefore is not considered to be an erroneous"
+    },
+    {
+      "question": "Written language and Spoken speech are different",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Corpus that includes spoken speech usually contains ...",
+      "options": ["audio file / transcription (optional)", "only transcription"],
+      "correct_answer": "audio file / transcription (optional)"
+    },
+    {
+      "question": "Mark up of spoken Corpora contains special markup for pauses / exhales / inhales",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Corpora contains variety of texts that belong to the same language",
+      "options": ["yes", "no, corpora may contain multiple languages"],
+      "correct_answer": "no, corpora may contain multiple languages"
+    },
+    {
+      "question": "The Razice Stone (dated by 1 Century AD) is an example of ...",
+      "options": ["multi language / parallel corpus", "one language corpus"],
+      "correct_answer": "multi language / parallel corpus"
+    },
+    {
+      "question": "LOB and Brown Corpora are ...",
+      "options": ["comparable", "parallel"],
+      "correct_answer": "comparable"
+    },
+    {
+      "question": "National Corpora deals with language of the country",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "... are words that are the same in sound and spelling, but different in meaning",
+      "options": ["Homonyms", "Antonyms"],
+      "correct_answer": "Homonyms "
+    },
+    {
+      "question": "Spree, Berlin, Paris, Elba, Mount Everest are ...",
+      "options": ["Toponyms", "Synonyms"],
+      "correct_answer": "Toponyms"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+]
+   

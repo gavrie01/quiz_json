@@ -1,8 +1,8 @@
 [
     {
-       "question": "Python: for loop and else, can for loop use else statement?",
-       "options": ["no, else belongs to conditional if", "yes, of course"],
-       "correct_answer": "yes, of course"
+       "question": "",
+       "options": ["", ""],
+       "correct_answer": ""
      },
      {
       "question": "Python, can we use float in this construction: 'for x in range(0.5, 5.5, 0.5):'",
@@ -165,14 +165,14 @@
       "correct_answer": "encoder-decoder"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "How many languages exists in the world?",
+      "options": ["circa 250", "circa 7000", "circa 50 000"],
+      "correct_answer": "circa 7000"
     },
     {
-      "question": "",
-      "options": ["", "", ""],
-      "correct_answer": ""
+      "question": "Population of the Globe increases while number of languages ...",
+      "options": ["increases as well", "decreases"],
+      "correct_answer": "decreases"
     }
        
          

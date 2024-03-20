@@ -1,0 +1,179 @@
+[
+    {
+       "question": "Automatic tagging during annotation is done based on predefined dictionaries, i.e. dictionaries that define word endings",
+       "options": ["Yes", "No"],
+       "correct_answer": "Yes"
+     },
+     {
+      "question": "In linguistics, ... refers to the process of resolving ambiguity, which occurs when a word, phrase, or sentence has more than one possible meaning or interpretation",
+      "options": ["Syntactic confusion", "Disambiguation"],
+      "correct_answer": "Disambiguation"
+    },
+    {
+      "question": "Removing homonymy makes the linguist's work with the corpus easier",
+      "options": ["yes, it saves a lot of time", "no, it reduces size of corpus"],
+      "correct_answer": "no, it reduces size of corpus"
+    },
+    {
+      "question": "4 письма знакомой из Киева не заменят фотографии его любимой и милой дочери Марии - is this an example of morphological or syntactic ambiguity?",
+      "options": [" morphological ambiguity", "syntactic ambiguity"],
+      "correct_answer": "syntactic ambiguity"
+    },
+    {
+      "question": "Many well-known syntactic parsers and NLP tools, such as i.e. ... work with dependency trees to represent the syntactic structure of sentences in various languages",
+      "options": ["SpaCy", "Seaborn", "Collections"],
+      "correct_answer": "Spacy"
+    },
+    {
+      "question": "Tagging in annotation is done based on parts of speech",
+      "options": ["No, it is done based on dependency trees", "Yes, this is the only known way as of today"],
+      "correct_answer": "No, it is done based on dependency trees"
+    },
+    {
+      "question": "A ... in linguistics is a corpus of text that has been annotated with syntactic structure according to a particular formalism, often represented as trees",
+      "options": ["treebank", "sub-corpus"],
+      "correct_answer": "treebank"
+    },
+    {
+      "question": "treebanks are used for training of parsers via machine learning",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "There are two documents with nearly the same value of TTR index (number of unique forms of word / total number of tokens), what can we say about them?",
+      "options": ["plagiarism", "these documents are unique"],
+      "correct_answer": "plagiarism"
+    },
+    {
+      "question": "Lemmatization is not mandatory, linguists can work with tokens, this is more informative",
+      "options": ["Yes, lemmatization does not allow to see 'features' of token", "no, lemmatization is a must"],
+      "correct_answer": "Yes, lemmatization does not allow to see 'features' of token"
+    },
+    {
+      "question": "ipm used in frequency dictionary in corpora linguistics means:",
+      "options": ["instance per million", "iteration per million"],
+      "correct_answer": "instance per million"
+    },
+    {
+      "question": "What is collolaction in linguistics?",
+      "options": ["number of words (tokens) in corpus frequently rather than occasionally met together", "there is no such term in linguistics"],
+      "correct_answer": "number of words (tokens) frequently met together"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+    
+]
+   

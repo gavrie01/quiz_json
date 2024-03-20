@@ -1,6 +1,6 @@
 [
     {
-       "question": "Representative, is balanced, is marked up - are mandatory measures / features of ...  quality",
+       "question": "Representative, is balanced, contains tagging - are mandatory measures / features of ...  quality",
        "options": ["gaussian distribution", "corpora"],
        "correct_answer": "corpora"
      },
@@ -135,7 +135,7 @@
       "correct_answer": "audio file / transcription (optional)"
     },
     {
-      "question": "Mark up of spoken Corpora contains special markup for pauses / exhales / inhales",
+      "question": "Mark up of spoken Corpora contains special tagging for pauses / exhales / inhales",
       "options": ["yes", "no"],
       "correct_answer": "yes"
     },
@@ -170,9 +170,9 @@
       "correct_answer": "Toponyms"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Linguistics: tagging can be: automatic, manual, semi-automatic",
+      "options": ["yes", "only manual or automatic"],
+      "correct_answer": "yes"
     }
 ]
    

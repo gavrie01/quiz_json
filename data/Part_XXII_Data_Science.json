@@ -1,0 +1,180 @@
+
+[
+    {
+       "question": "WEB1, WEB2, WEB3 is ...",
+       "options": ["WWW", "conceptual evolution of WEB"],
+       "correct_answer": "conceptual evolution of WEB"
+     },
+     {
+      "question": "WEB3 can be described as: ...  WEB",
+      "options": ["Intelligent, semantic, and decentralized", "Dynamic, social, and interactive", "Static and read-only web"],
+      "correct_answer": "Intelligent, semantic, and decentralized"
+    },
+    {
+      "question": "In the context of backend development, a Manifest typically refers to a ...",
+      "options": ["document that describes a purpose of a project or package", "file that contains metadata about a project or package", "it is non-IT term"],
+      "correct_answer": "file that contains metadata about a project or package"
+    },
+    {
+      "question": "The Playwright Codegen command is a useful tool to help you generate scripts interactively by recording your actions on a website",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "Playwright: For each function there should be assertion to validate result of function's execution",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Playwright: it's generally good practice to ensure that each test function validates a specific aspect of functionality",
+      "options": ["yes, so these functions can be re-used to build e-2-e scenarios in different variations", "no, the more functions validates, the better"],
+      "correct_answer": "yes, so these functions can be re-used to build e-2-e scenarios in different variations"
+    },
+    {
+      "question": "Playwright: what is the difference between expect() and assert keyword?",
+      "options": ["assert is pythonic specific, expect() is playwright specific", "expect() is pythonic, assert is playwright specific"],
+      "correct_answer": "assert is pythonic specific, expect() is playwright specific"
+    },
+    {
+      "question": "Markov Chain, N-Gram are ... LLM",
+      "options": ["traditional", "modern"],
+      "correct_answer": "traditional"
+    },
+    {
+      "question": "Prompt Engineering: Generate a synonym for each of the following words: Happy: Joyful, Sad / Unhappy, Wide: Narrow, Bright: ? demonstrates ...",
+      "options": ["few-shot learning", "one-shot learning"],
+      "correct_answer": "few-shot learning"
+    },
+    {
+      "question": "LLM: ... is the input text or instruction you provide to a Large Language Model (LLM) to generate a desired output",
+      "options": ["Prompt", "Query"],
+      "correct_answer": "Prompt"
+    },
+    {
+      "question": "Traditional large language models are ...",
+      "options": ["deterministic", "probabilistic", "embedded"],
+      "correct_answer": "probabilistic"
+    },
+    {
+      "question": "BERT, LLAMA, MISTRAL, GEMINI are ... LLMs",
+      "options": ["modern", "traditional"],
+      "correct_answer": "modern"
+    },
+    {
+      "question": "... model is a type of artificial intelligence that processes and integrates information from multiple data modalities, such as text, images, audio, and video",
+      "options": ["multimodal", "unimodal"],
+      "correct_answer": "multimodal"
+    },
+    {
+      "question": "... AI is a framework and methodology for training and deploying artificial intelligence systems that align with ethical guidelines, human values, and societal norms",
+      "options": ["Generative", "Constitutional", "Narrow"],
+      "correct_answer": "Constitutional"
+    },
+    {
+      "question": "... AI refers to AI systems that are designed and trained to perform a specific task or a limited range of tasks",
+      "options": ["Narrow / Weak", "Generative / Strong"],
+      "correct_answer": "Narrow / Weak"
+    },
+    {
+      "question": "Artificial General Intelligence is a ...",
+      "options": ["theoretical concept and has not yet been achieved", "It is the same as Generative AI"],
+      "correct_answer": "theoretical concept and has not  yet been achieved"
+    },
+    {
+      "question": "Narrow AI has general cognitive abilities",
+      "options": ["Yes", "No"],
+      "correct_answer": "No"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+
+]
+   

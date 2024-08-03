@@ -65,7 +65,7 @@
         "correct_answer": "a Loss function"
       },
       {
-        "question": "This is<br>−(y⋅log(p)+(1−y)⋅log(1−p)), where y is true label (0,1) and p is predicted probability is ...",
+        "question": "This is<br>-(y⋅log(p)+(1-y)⋅log(1-p)), where y is true label (0,1) and p is predicted probability is ...",
         "options": ["Shannon Entropy", "Binary Cross-Entropy", "Gini Impurity", "Entropy in Decision Trees"],
         "correct_answer": "Binary Cross-Entropy"
       },

@@ -86,94 +86,94 @@
       "correct_answer": "No"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: Can Vision Model be prompted?",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: It can understand what's happening in a sequence of images: i.e. human is doing a push up motion",
+      "options": ["Temporal Reasoning ", "Excuse me..."],
+      "correct_answer": "Temporal Reasoning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... is a technique for eliciting reasoning in LLM, by asking the model to thin before completing a task",
+      "options": ["Emotion Prompting", "Chain of thought"],
+      "correct_answer": "Chain of Thought"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: Chain of Thought prompting is considered a ... technique",
+      "options": ["few-shot", "one-shot"],
+      "correct_answer": "few-shot"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: Adding This is very important to my career into the prompt is ...",
+      "options": ["Pure manipulation", "Emotion Prompt", "LLMs do not handle the case"],
+      "correct_answer": "Emotion Prompt"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: ... involves instructing the model to assume a specific role or persona in order to generate responses",
+      "options": ["Emotion Prompting", "Role prompting"],
+      "correct_answer": "Role prompting"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: Role Prompting can be considered a zero-shot learning technique",
+      "options": ["yes", "no", "zero-shot does not exist"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: System, User, Agent are called ... in Prompt Engineering",
+      "options": ["Actors", "Roles", "Doers"],
+      "correct_answer": "Roles"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: ... enters What is the capital of France?",
+      "options": ["User", "Agent", "System"],
+      "correct_answer": "User"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: ... instructs You are a helpful assistant",
+      "options": ["User", "System", "Agent"],
+      "correct_answer": "System"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: ... answers The capital of France is Paris",
+      "options": ["User", "System", "Agent"],
+      "correct_answer": "Agent"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Prompt Engineering Agent is ...",
+      "options": ["LLM / LMM", "007"],
+      "correct_answer": "LLM/LMM"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: System's instruction is the same as prompt",
+      "options": ["yes", "no"],
+      "correct_answer": "no"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: What is the difference between Prompt and System(s instruction)",
+      "options": ["System sets the context, tone, or behavior for an Agent, while Prompt contains the whole user Input", "They are the same"],
+      "correct_answer": "System sets the context, tone, or behavior for an Agent, while Prompt contains the whole user Input"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: ... is a powerful technique in prompt engineering where a language model is given examples within the prompt to learn a task on-the-fly",
+      "options": ["SkyNet", "In-Context Learning", "Fly Prompting"],
+      "correct_answer": "In-Context Learning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Generally zero-shot learning performs less well than few-shot learning for complex tasks",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: ...  involves generating multiple outputs (samples) for a given prompt and then selecting the most consistent or most common output among them",
+      "options": ["Probabilistic Sampling", "Self-Consistency Sampling"],
+      "correct_answer": "Self-Consistency Sampling"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Prompt Engineering: Self-Consistency Sampling technique assures that the correct or most appropriate answer will be the one that appears most frequently among the samples, thus providing a more robust and reliable response",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     }
 
 ]

@@ -20,9 +20,9 @@
     "correct_answer": "dropna()"
   },
   {
-    "question": "What is <strongest>dot(scalar) product</strong> for vetors A = [a₁, a₂, a₃] and B = [b₁, b₂, b₃]) ",
-    "options": ["⚫ =a₁b₁+a₂b₂+a₃b₃", "⚫ = [a₁b₁,a₂b₂,a₃b₃]"],
-    "correct_answer": "⚫ =a₁b₁+a₂b₂+a₃b₃"
+    "question": "What is <strong>dot(scalar) product</strong> for vectors A = [a₁, a₂, a₃] and B = [b₁, b₂, b₃]) ",
+    "options": [" =a₁b₁+a₂b₂+a₃b₃", " = [a₁b₁,a₂b₂,a₃b₃]"],
+    "correct_answer": " =a₁b₁+a₂b₂+a₃b₃"
   },
   {
     "question": "how can i get a dot product of two tensors in Pytorch?",

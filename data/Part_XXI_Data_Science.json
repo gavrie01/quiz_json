@@ -60,119 +60,119 @@
       "correct_answer": "number of words (tokens) frequently met together"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LangGraph: Fundamental unit of execution within a graph.\nRepresents a specific task or action, i.e. making a call to LLM",
+      "options": ["node", "edge", "state"],
+      "correct_answer": "node"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LangGraph is LangChain's state machine, graph based approach to orchestration of LLM",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LangGraph: .. is a component that holds and manages the data being processes as the graph executes",
+      "options": ["state", "node"],
+      "correct_answer": "state"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "...  is a conceptual framework that represents relationships between language elements, such as words, phrases, or sentences, in a structured and interconnected manner",
+      "options": ["Turing Machine", "LangGraph"],
+      "correct_answer": "LangGraph"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: Creating detailed images of a cat wearing a astronaut suit",
+      "options": ["Stable Diffusion", "GAN"],
+      "correct_answer": "Stable Diffusion"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is it: Take an Image, Add Noise during Traning, Enter Prompt, Take out Noise and get a new Image based on Prompt",
+      "options": ["GAN", "Stable Diffusion"],
+      "correct_answer": "Stable Diffusion"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is behind: Profile Pictures, Stock Photos, Product Placement",
+      "options": ["RAG", "Stable Diffusion"],
+      "correct_answer": "Stable Diffusion"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion has problems with generation of Hands / Faces",
+      "options": ["yes, 6 fingers are ok", "no"],
+      "correct_answer": "yes, 6 fingers are ok"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... is an instruction to prevent an image from including particular elements",
+      "options": ["Negative Prompt", "Positive Prompt"],
+      "correct_answer": "Negative Prompt"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Do Stable Diffusion based models support negative prompting?",
+      "options": ["yes, most of them", "yes, all of them", "do not support"],
+      "correct_answer": "yes, most of them"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... is a training technique that updates the entire diffusion model by training on just a few images of a subject or style",
+      "options": ["Realbooth", "DreamBooth"],
+      "correct_answer": "DreamBooth"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "DALL-E 3:... correct artefacts or sections of an image by erasing and re-generating",
+      "options": ["Inpainting", "It is impossible"],
+      "correct_answer": "Inpainting"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: CFG stands for ... ",
+      "options": [" Configuration-Free Guidance", " Classifier-Free Guidance"],
+      "correct_answer": " Classifier-Free Guidance"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: ... is a parameter used in Stable Diffusion to determine how closely the generated image adheres to the provided text prompt",
+      "options": ["LOL", "CFG scale"],
+      "correct_answer": "CFG scale"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: CFG is a scale",
+      "options": ["Yes", "No, it is a fixed value"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: Lower value on CFG scale points out to ...",
+      "options": ["The model has more creative freedom, resulting in images that might deviate from the prompt", "The model has less creative freedom, resulting in images that might deviate from the prompt"],
+      "correct_answer": "The model has more creative freedom, resulting in images that might deviate from the prompt"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "CFG scale in (Stable Diffusion) and Temperature (in other generative models) concepts are similar",
+      "options": ["yes, they both control the degree of randomness or creativity in the output of a generative model", "yes, both are the same, just with different naming"],
+      "correct_answer": "yes, they both control the degree of randomness or creativity in the output of a generative model"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: Programmatic, Synthetic, Human are ",
+      "options": ["Words", "Types of evals"],
+      "correct_answer": "Types of evals"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI: Eval is ...",
+      "options": ["Evolution of LLM", "Evaluation Metric"],
+      "correct_answer": "Evaluation Metric"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "LLM: What is the most expensive eval?",
+      "options": ["Human", "Synthetic", "Programmatic"],
+      "correct_answer": "Human"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Naive-Bayes is classification algorithm",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "An artificially intelligent car adjusts its speed based on the distance from the car in front of it, the appropriate algorithm would be ...",
+      "options": ["logistic regression", "decision tree", "naive-bayes", "linear regression"],
+      "correct_answer": "linear regression"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: zip() returns an object, when printing it the object method is returned",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     }
     
 ]

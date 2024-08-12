@@ -1,0 +1,180 @@
+
+[
+    {
+       "question": "Python:\n def addition(num):\nif num:\n how does this condition work?",
+       "options": ["it is the same as if num != 0:", "this construction causes syntax error when running"],
+       "correct_answer": "it is the same as if num != 0:"
+     },
+     {
+      "question": "Python: can I assign a new name to function?",
+      "options": ["yes", "no, you can just rename it in code"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "LLM: ... is a technique used in machine learning and data processing to represent categorical variables as binary vectors",
+      "options": ["One-hot encoding", "Few-shot Encoding"],
+      "correct_answer": "One-hot encoding"
+    },
+    {
+      "question": "LLM: red, green, blue -  are -... as one-hot encoding",
+      "options": ["[1,0,0], [0,1,0], [0,0,1]", "[1,1,1], [0,0,0], [0,0,0"],
+      "correct_answer": "[1,0,0], [0,1,0], [0,0,1]"
+    },
+    {
+      "question": "LLM: What are embeddings?",
+      "options": ["Dense vectors where each word is presented as multi-dimensional floating point vector", "Sparse vectors where each word is presented as multi-dimensional floating point vector"],
+      "correct_answer": "Dense vectors where each word is presented as multi-dimensional floating point vector"
+    },
+    {
+      "question": "LLM: What is dense vector?",
+      "options": ["a type of vector where most or all of its elements are non-zero", "a type of vector where most or all of its elements are zero"],
+      "correct_answer": "a type of vector where most or all of its elements are non-zero"
+    },
+    {
+      "question": "Embeddings: vector = [1.5, -2.3, 3.7] is a ...",
+      "options": ["sparse vector", "floating point vector", "embedding is never floating"],
+      "correct_answer": "floating point vector"
+    },
+    {
+      "question": "NN: ... transforms language tokens to multi-dimensional vectors",
+      "options": ["Embedding Layer", "Dropout Layer"],
+      "correct_answer": "Embedding Layer"
+    },
+    {
+      "question": "NN: Transformation of tokens to multi-dimensional vectors in Neural Net is done via ...",
+      "options": ["Layer", "Transformer", "Self Attention mechanism"],
+      "correct_answer": "Layer"
+    },
+    {
+      "question": "NN: Embedding Layer is added between ... and ...",
+      "options": ["input layer / first hidden layer", "last hidden layer / output layer", "it is the same as output layer"],
+      "correct_answer": "input layer / first hidden layer"
+    },
+    {
+      "question": "NLP: Embedding Matrix consists of ...",
+      "options": ["embedding vectors", "embedded vectors"],
+      "correct_answer": "embedding vectors"
+    },
+    {
+      "question": "NLP: Embedding Matrix is always ... dimensional",
+      "options": ["2", "3", "depends on vocabulary"],
+      "correct_answer": "2"
+    },
+    {
+      "question": "NLP: Row in Embedding Matrix is a ...",
+      "options": ["unique category or entity in dataset", "dimension of the embedded vector"],
+      "correct_answer": "unique category or entity in dataset"
+    },
+    {
+      "question": "NLP: The values in embedding matrix can be initialized ...",
+      "options": ["randomly / via pretrained models", "randomly", "via word2vec-like model"],
+      "correct_answer": "randomly / via pretrained models"
+    },
+    {
+      "question": "NLP, NN:In an embedding matrix, all vectors have the same dimensions",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "NLP, NN: Why do we even need this embedding matrix?",
+      "options": ["Dimensions Reduction, Semantic Relationship, Improved Performance", "it is a technical restriction, NN does not run without it"],
+      "correct_answer": "Dimensions Reduction, Semantic Relationship, Improved Performance"
+    },
+    {
+      "question": "NLP, NN: Embedding Matrix must be indexed before input",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "NLP, NN: Embedding Matrix is updated during Backpropogation",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+   
+]
+   

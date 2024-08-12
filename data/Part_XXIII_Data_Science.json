@@ -91,69 +91,69 @@
       "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: library that offers SQL-like functionality with more flexibility",
+      "options": ["pandas", "pytorch", "sql alchemy"],
+      "correct_answer": "pandas"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Panas: one of the most common ways to create a DataFrame is by loading from a ... file",
+      "options": ["doc", "csv", "pdf"],
+      "correct_answer": "csv"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Pandas: The head() method returns the first ... rows if a number is not specified",
+      "options": ["5", "10"],
+      "correct_answer": "5"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can I perform JOINS of DataFrames in Pandas like I do it in SQL",
+      "options": ["df.merge(df1, df2, on = 'id', how = 'inner')", "df.join(df1, df2, auto)", "no"],
+      "correct_answer": "df.merge(df1, df2, on = 'id', how = 'inner')"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can I create a Pivot table with SQL?",
+      "options": ["A kind of, use CASE statement", "No"],
+      "correct_answer": "A kind of, use CASE statement"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can I create Pivot table with Pandas?",
+      "options": ["A kind of, use pd.pivot_table(df, values, index, columns, aggfunc)", "no"],
+      "correct_answer": "A kind of, use pd.pivot_table(df, values, index, columns, aggfunc)"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can Pandas work wit TimeSeries data?",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": ".. seasonal decomposition, and exponential smoothing are commonly used",
+      "options": ["ARIMA", "T-SNE", "Linear Regression"],
+      "correct_answer": "ARIMA"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "stock prices, monthly sales, or daily temperatures are about ....",
+      "options": ["Time Series Data", "Cross-Sectional Data"],
+      "correct_answer": "Time Series Data"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Pandas library has built-in visualization tool",
+      "options": ["no", "yes"],
+      "correct_answer": "no"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Pandas integrates with other libraries to visualize",
+      "options": ["yes", "no, it just SQL-like tool"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Seaborn, Matplotlib, Plotly are libraries for ...",
+      "options": ["visualization", "are the same as Gradio and Stremlit"],
+      "correct_answer": "visualization"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Can I export my data with Pandas to different formats",
+      "options": ["yes: i.e. JSON, XLSX, CSV", "Yes, CSV", "Yes, but the same format you used during import"],
+      "correct_answer": "yes: i.e. JSON, XLSX, CSV"
     },
     {
       "question": "",
@@ -175,6 +175,6 @@
       "options": ["", ""],
       "correct_answer": ""
     }
-   
 ]
+
    

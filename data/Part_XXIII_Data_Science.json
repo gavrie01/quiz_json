@@ -1,7 +1,7 @@
 
 [
     {
-       "question": "Python:\n def addition(num):\nif num:\n how does this condition work?",
+       "question": "Python:<br> def addition(num):<br>   if num:<br>how does this condition work?",
        "options": ["it is the same as if num != 0:", "this construction causes syntax error when running"],
        "correct_answer": "it is the same as if num != 0:"
      },
@@ -96,7 +96,7 @@
       "correct_answer": "pandas"
     },
     {
-      "question": "Panas: one of the most common ways to create a DataFrame is by loading from a ... file",
+      "question": "Pandas: one of the most common ways to create a DataFrame is by loading from a ... file",
       "options": ["doc", "csv", "pdf"],
       "correct_answer": "csv"
     },

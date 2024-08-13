@@ -156,24 +156,24 @@
       "correct_answer": "yes: i.e. JSON, XLSX, CSV"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Security: Who are you?",
+      "options": ["authentication", "authorization"],
+      "correct_answer": "authentication"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Security: What can you do?",
+      "options": ["authentication", "authorization"],
+      "correct_answer": "authorization"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "You have a customer dataset where some 'phone number' fields are missing, and some records have duplicate entries. ... will fill in the missing phone numbers with a placeholder or remove them and eliminate duplicate records",
+      "options": ["Data cleaning", "Normalization"],
+      "correct_answer": "Data cleaning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... is optimized for storing and querying high-dimensional vectors, which are often used in machine learning models, especially in tasks like image recognition, text embeddings, and recommendation systems",
+      "options": ["LanceDB", "MongoDB", "DuckDB", "MariaDB"],
+      "correct_answer": "LanceDB"
     }
 ]
 

@@ -160,7 +160,7 @@
       "correct_answer": "it has 3 roots"
     },
     {
-      "question": "If case discriminant of an equation is less than 0, equation has complex conjugate roots, incl. imaginary numbers",
+      "question": "In case discriminant of an equation is less than 0, equation has complex conjugate roots, incl. imaginary numbers",
       "options": ["yes, just yes", "no, discriminant is negative, at school I was taught, there are no roots in this case"],
       "correct_answer": "yes, just yes"
     },

@@ -4,41 +4,41 @@ import random
 import base64
 
 correct_answers_counter = 0  # add to st.sidebar
-file_path = 'image_by_benzoix_on_Freepic.jpg'
+#file_path = 'image_by_benzoix_on_Freepic.jpg'
 # Function to read an image from a file
-def read_image(file_path):
-    with open(file_path, 'rb') as file:
-        encoded_image = base64.b64encode(file.read()).decode()
-    return encoded_image
+#def read_image(file_path):
+#    with open(file_path, 'rb') as file:
+#        encoded_image = base64.b64encode(file.read()).decode()
+#   return encoded_image
 
 # Use the read_image function to get the base64 encoded image
-encoded_bg_image = read_image(file_path)
+#encoded_bg_image = read_image(file_path)
 
 # Apply the encoded image to the background style
-page_bg_img = f"""
-<style>
-[data-testid="stAppViewContainer"] > .main {{
-    background-image: url("data:image/jpeg;base64,{encoded_bg_image}");
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}}
+#page_bg_img = f"""
+#<style>
+#[data-testid="stAppViewContainer"] > .main {{
+#    background-image: url("data:image/jpeg;base64,{encoded_bg_image}");
+#    background-position: center; 
+#    background-repeat: no-repeat;
+#    background-attachment: fixed;
+#}}
 
-[data-testid="stHeader"] {{
-    background: rgba(0,0,0,0);
-}}
+#[data-testid="stHeader"] {{
+#    background: rgba(0,0,0,0);
+#}}
 
-[data-testid="stToolbar"] {{
-    right: 2rem;
-}}
+#[data-testid="stToolbar"] {{
+#    right: 2rem;
+#}}
 
-[data-testid=stSidebar] {{
-        background-color: #D6CFC7;
-}}
-</style>
-"""
+#[data-testid=stSidebar] {{
+#        background-color: #D6CFC7;
+#}}
+#</style>
+#"""
 # Add markdown to the Streamlit sidebar
-st.markdown(page_bg_img, unsafe_allow_html=True)
+#st.markdown(page_bg_img, unsafe_allow_html=True)
 # Add interesting links to the Streamlit sidebar
 st.sidebar.markdown("[Matrices & Math_1](http://matrixmultiplication.xyz)")
 st.sidebar.markdown("[Matrices & Math_2](https://matrix.reshish.com/)")
@@ -105,12 +105,12 @@ if uploaded_file:
 
     except json.JSONDecodeError:
         st.error("Invalid JSON file. Please upload a valid JSON file.")
-footer = """
+#footer = """
 
 
 
-<div style="text-align: center; padding: 10px; background-color: #f0f0f0;">
-    <p>&copy; 2024 Quiz | Contact: <a href="mailto:elena.e.gav@gmail.com">Feedback & Questions</a></p>
-</div>
-"""
-st.markdown(footer, unsafe_allow_html=True)
+#<div style="text-align: center; padding: 10px; background-color: #f0f0f0;">
+#    <p>&copy; 2024 Quiz | Contact: <a href="mailto:elena.e.gav@gmail.com">Feedback & Questions</a></p>
+#</div>
+#"""
+#st.markdown(footer, unsafe_allow_html=True)

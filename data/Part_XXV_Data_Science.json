@@ -16,54 +16,54 @@
       "correct_answer": "No difference, Hudson is former name of Jenkins"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "HTML: Every page contains: ... and ... ",
+      "options": ["head, body", "head, tail", "doctype, body"],
+      "correct_answer": "head, body"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... adds styles to HTML",
+      "options": ["JSON", "CSS"],
+      "correct_answer": "CSS"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Styles, Borders, Fonts, Sizes, Colors, Background are related to ... ",
+      "options": ["CSS", "HTML"],
+      "correct_answer": "CSS"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "CSS: ....  this is when each element is represented as a rectangular box",
+      "options": ["Box Model", "Flexbox Model", "Grid"],
+      "correct_answer": "Box Model"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": ".. is the most commonly used framework for Front-End-Development",
+      "options": ["Django", "Bootstrap"],
+      "correct_answer": "Bootstrap"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "To layout web application on multiple screen sizes, laptop, desktop, mobile etc we need ...",
+      "options": ["Grid system", "Screen", "Electricity"],
+      "correct_answer": "Grid system"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In web design, a ... is a large, prominent section typically used to grab attention on a webpage. ",
+      "options": ["jumbotron", "spider man"],
+      "correct_answer": "jumbotron"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In Bootstrap 5, the jumbotron class was removed",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "document.URL, document.body, document.head, document.links are important attributes of ...",
+      "options": ["DOM", "CSS", "HTML5"],
+      "correct_answer": "DOM"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "A ... is a distributed network of servers strategically located across various geographic regions to deliver web content to users more efficiently and quickly",
+      "options": ["CDN", "Youtube"],
+      "correct_answer": "CDN"
     },
     {
       "question": "",

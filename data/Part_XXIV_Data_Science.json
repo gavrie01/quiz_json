@@ -1,0 +1,181 @@
+
+[
+    {
+       "question": "SQL: 14 + NULL = ...",
+       "options": ["14", "NULL"],
+       "correct_answer": "NULL"
+     },
+     {
+      "question": "SQL: How can I perform 14 + NULL = 14",
+      "options": ["Use coalesce(column_name, 0). it returns column_name.value, otherwise 0", "Use coalesce(column_name, 0). it returns column_name.value == 0 always"],
+      "correct_answer": "Use coalesce(column_name, 0). it returns column_name.value, otherwise 0"
+    },
+    {
+      "question": "... primarily deals with the mathematical techniques for data analysis, including probability, hypothesis testing, regression analysis, and inferential ...",
+      "options": ["Statistics / statistics", "Data Science / data science"],
+      "correct_answer": "Statistics / statistics"
+    },
+    {
+      "question": "... statistics summarize the characteristics of a data set",
+      "options": ["Descriptive", "Inferential"],
+      "correct_answer": "Descriptive"
+    },
+    {
+      "question": "... helps you come to conclusions and make predictions based on your data",
+      "options": ["Descriptive", "Inferential"],
+      "correct_answer": "Inferential"
+    },
+    {
+      "question": "Testing Hypotheses to draw conclusions about populations is a use of ... statistics",
+      "options": ["inferential ", "descriptive"],
+      "correct_answer": "inferential"
+    },
+    {
+      "question": "Mean, Central Tendency, Distribution are about ... statistics",
+      "options": ["descriptive", "inferential"],
+      "correct_answer": "descriptive"
+    },
+    {
+      "question": "Mean, Median, Mode is called ... in descriptive statistics",
+      "options": ["central tendency", "triple tendency"],
+      "correct_answer": "central tendency"
+    },
+    {
+      "question": "What is the average height of the entire camps related to ... statistics",
+      "options": ["descriptive", "inferential"],
+      "correct_answer": "descriptive"
+    },
+    {
+      "question": "... a sample is a subset of population data",
+      "options": ["sample data (n)", "sample data (N)"],
+      "correct_answer": "sample data (n)"
+    },
+    {
+      "question": "... is a group or a superset of data that you are interested in studying",
+      "options": ["population data (N)", "population data (n)"],
+      "correct_answer": "population data (N)"
+    },
+    {
+      "question": "Categorical data is the same as ... data",
+      "options": ["qualitative", "quantitative", "categorical"],
+      "correct_answer": "qualitative"
+    },
+    {
+      "question": "Numerical data is the same as ... data",
+      "options": ["qualitative", "quantitative", "numerical"],
+      "correct_answer": "numerical"
+    },
+    {
+      "question": "Customers' Feedback in a from of ranks, i.e.: 1, 2, 3, 4, 5 is ... data",
+      "options": ["ordinal", "discrete"],
+      "correct_answer": "ordinal"
+    },
+    {
+      "question": "Consider the given dataset 5, 4, 2, 3, 2, 1, 5, 4, 5 what is the Mode?",
+      "options": ["5", "4"],
+      "correct_answer": "5"
+    },
+    {
+      "question": "... helps to understand the distribution of the data",
+      "options": ["dispersion", "standard deviation"],
+      "correct_answer": "dispersion"
+    },
+    {
+      "question": "... a statistical measure that describes the lack of symmetry or asymmetry in the probability distribution of a dataset",
+      "options": ["Skewness", "Deviation"],
+      "correct_answer": "Skewness"
+    },
+    {
+      "question": "Mean < Median < Mode points to ... skewed distribution",
+      "options": ["left", "right"],
+      "correct_answer": "left"
+    },
+    {
+      "question": "Sampling can be: probability and non-probability",
+      "options": ["yes", "No, it is always probability sampling, it is statistics"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "... is a statistical term that refers to a systematic relationship between two random variables in which a change in the other reflects a change in one variable",
+      "options": ["Correlation", "Covariance"],
+      "correct_answer": "Covariance"
+    },
+    {
+      "question": "The covariance value can range from -∞ to +∞",
+      "options": ["No, it ranges from 0 to +∞", "Yes", "It ranges from -1 to +1"],
+      "correct_answer": "Yes"
+    },
+    {
+      "question": "If covariance equals zero, then no relationship exists",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "We need covariance to calculate correlation",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Covariance(X,Y) normalized by standard deviation of (X,Y) is ...",
+      "options": ["Correlation", "Normalized Covariance"],
+      "correct_answer": "Correlation"
+    },
+    {
+      "question": "Normal distributions are symmetrical, but not all symmetrical distributions are normal",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "mean == median == mode",
+      "options": ["normal distribution", "left skew", "right skew"],
+      "correct_answer": "normal distribution"
+    },
+    {
+      "question": "... is the tendency of a statistic to overestimate or underestimate a parameter",
+      "options": ["Bias", "Overfitting", "Underfitting"],
+      "correct_answer": "Bias"
+    },
+    {
+      "question": "The number of standard deviations from the mean is also called the ...",
+      "options": ["z-score", "dispersion"],
+      "correct_answer": "z-score"
+    },
+    {
+      "question": "For large sample sizes, the sampling distribution of means will approximate to normal distribution even if the population distribution is not normal",
+      "options": ["Central Limit Theorem", "Key Limit Theorem"],
+      "correct_answer": "Central Limit Theorem"
+    },
+    {
+      "question": "Central Limit theorem applies when the sample size is greater than ...",
+      "options": ["30", "100"],
+      "correct_answer": "30"
+    },
+    {
+      "question": "A ... is used when the sample size is less than 30 and the population variance is unknown",
+      "options": ["t-test", "z-test"],
+      "correct_answer": "t-test"
+    },
+    {
+      "question": "SQL: FROM, SELECT, WHERE, GROUP BY - what is executed last when the query runs?",
+      "options": ["SELECT", "GROUP BY"],
+      "correct_answer": "SELECT"
+    },
+    {
+      "question": "SQL: CROSS JOIN is cartesian product",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "SQL: relational DB uses tables, rows and columns",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "... is designed to work with graphs, nodes, edges and properties",
+      "options": ["Graph DB", "Analytical DB"],
+      "correct_answer": "Graph DB"
+    }
+    
+]
+
+   

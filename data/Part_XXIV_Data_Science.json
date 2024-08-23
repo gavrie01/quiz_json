@@ -171,7 +171,7 @@
       "correct_answer": "yes"
     },
     {
-      "question": "... is designed to work with graphs, nodes, edges and properties",
+      "question": "NoSQL:... is designed to work with graphs, nodes, edges and properties",
       "options": ["Graph DB", "Analytical DB"],
       "correct_answer": "Graph DB"
     }

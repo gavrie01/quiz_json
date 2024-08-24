@@ -66,114 +66,114 @@
       "correct_answer": "CDN"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: a variable can be reassigned to different types of values without any explicit type declaration",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Using ...  for naming variables, functions, and other identifiers in Python is a standard convention that improves readability and consistency in your code",
+      "options": ["snake_case", "rabbit_case", "chameleon_case"],
+      "correct_answer": "snake_case"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: ... are implemented using hash tables, which provide very efficient lookups, insertions, and deletions",
+      "options": ["Dictionaries", "Lists", "Nested Lists"],
+      "correct_answer": "Dictionaries"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: Sets allow duplicate values and are ordered",
+      "options": ["do not allow and are unordered", "allow and ordered", "allow and unordered"],
+      "correct_answer": "do not allow and are unordered"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: f-strings provide a way to embed expressions inside string literals, using ...",
+      "options": ["{}", "()", "[]"],
+      "correct_answer": "{}"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: .... functions are small, anonymous functions that can have any number of arguments but can only have one expression",
+      "options": ["Beta", "Lambda", "Alpha", "Alpha Numeric"],
+      "correct_answer": "Lambda"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: Lambda functions are useful for creating ..., one-time-use functions",
+      "options": ["quick", "heavy"],
+      "correct_answer": "quick"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: This my_list[2:6] is example of ... ",
+      "options": ["Slicing Notation", "Chunking Notation", "It is not Python syntax"],
+      "correct_answer": "Slicing Notation"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: The ... statement creates a context manager that handles the opening and closing of the file",
+      "options": ["there are two statements: fopen and fclose", "with"],
+      "correct_answer": "with"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: The ... function in Python is used to get an index and the value from an iterable simultaneously during a loop",
+      "options": ["enumerate()", "zip()"],
+      "correct_answer": "enumerate()"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: ...  are special functions that use the 'yield' keyword instead of 'return'",
+      "options": ["Downshifts", "Generators"],
+      "correct_answer": "Generators"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: ... in Python are used to create isolated spaces for different projects, ensuring that dependencies for one project do not affect another",
+      "options": ["Sand Box", "Virtual environments", "Test Bed"],
+      "correct_answer": "Virtual environments"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: The __...__ file is essential for creating a Python package. It signals to Python that the directory should be treated as a package, allowing you to import modules from it",
+      "options": ["package.py", "init.py", "npm.py"],
+      "correct_answer": "init.py"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "In programming, an ... is a common pattern or practice that is widely used and accepted by developers in that language",
+      "options": ["idiom", "proverb", "rule"],
+      "correct_answer": "idiom"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Python: This if __name__ == '__main__':  is ...",
+      "options": ["bad code example", "idiom"],
+      "correct_answer": "idiom"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Google originated by ...",
+      "options": ["it is an abstract name", "googol", "no one knows"],
+      "correct_answer": "googol"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "SQLite DB is serverless",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "ML: ... or learning to learn, is the science of systematically observing how different machine learning approaches perform on a wide range of learning tasks, and then learning from this experience, or meta-data, to learn new tasks much faster than otherwise possible",
+      "options": ["Meta-learning", "Generative AI", "Reinforcement Learning"],
+      "correct_answer": "Meta-learning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "ML: Transfer learning is commonly used in many ... tasks",
+      "options": ["computer vision", "NLP", "sentiment analysis"],
+      "correct_answer": "computer vision"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "ML: ...  involves updating the weights of some or all layers of the pre-trained model to adapt it to the new task",
+      "options": ["Fine-tuning", "Transfer learning"],
+      "correct_answer": "Fine-tuning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "ML: ... smartly addresses this challenge of training ML models on private data",
+      "options": ["Federated learning", "Incognito Learning", "Against the law Learning"],
+      "correct_answer": "Federated learning"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "ML: We want our model to take a real value (x) as input and generate two outputs: cos(x), sin(x), it is an example of ...",
+      "options": ["It is Federated Learning definitely", "This can be formulated as an multitasking problem"],
+      "correct_answer": "This can be formulated as an multitasking problem"
     }
 ]
 

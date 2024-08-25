@@ -1,0 +1,182 @@
+
+[
+    {
+       "question": "... is the process of converting data from its raw form to a tidy from ready for analysis",
+       "options": ["Data Wrangling", "Exploratory Data Analysis", "Extract Transform Load"],
+       "correct_answer": "Data Wrangling"
+     },
+     {
+      "question": "Outliers are very common and expected in large datasets",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "Outliers degrade the predictive power of ML models",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
+    },
+    {
+      "question": "When dataset contains a large (significant) number of records with missing values, the only way to handle the situation is to remove these records",
+      "options": ["no, we can lose valuable data", "yes, we can not do anything with missing values anyway"],
+      "correct_answer": "no, we can lose valuable data"
+    },
+    {
+      "question": "Missing Values: In case of numeric column we can replace them with the ... value of the column",
+      "options": ["mean", "mode"],
+      "correct_answer": "mean"
+    },
+    {
+      "question": "This one does not belong to the picture: Linear Regression, Logistic Regression Classifier, Support Vector Regression, KNeighbours Regression",
+      "options": ["Logistic Regression Classifier", "Linear Regression", "Support Vector Regression"],
+      "correct_answer": "Logistic Regression Classifier"
+    },
+    {
+      "question": "Evaluation Metrics: MSPE, MSAE, R Square",
+      "options": ["Regression", "Classification"],
+      "correct_answer": "Regression"
+    },
+    {
+      "question": "Evaluation Metrics: BLEU Score, Likelihood function",
+      "options": ["NLP", "Classification"],
+      "correct_answer": "NLP"
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    },
+    {
+      "question": "",
+      "options": ["", ""],
+      "correct_answer": ""
+    }
+
+
+]
+
+   

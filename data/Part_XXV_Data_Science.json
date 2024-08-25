@@ -172,8 +172,8 @@
     },
     {
       "question": "ML: We want our model to take a real value (x) as input and generate two outputs: cos(x), sin(x), it is an example of ...",
-      "options": ["It is Federated Learning definitely", "This can be formulated as an multitasking problem"],
-      "correct_answer": "This can be formulated as an multitasking problem"
+      "options": ["It is Federated Learning definitely", "This can be formulated as a multitasking problem"],
+      "correct_answer": "This can be formulated as a multitasking problem"
     }
 ]
 

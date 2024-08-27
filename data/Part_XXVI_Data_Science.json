@@ -41,104 +41,104 @@
       "correct_answer": "NLP"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "MidJourney is one of the few that directly supports ...-style prompts with options like {} and commas",
+      "options": ["permutation", "retrieve", "verbal"],
+      "correct_answer": "permutation"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "The goal of ... is to get the AI to generate images that resonate with widely understood visual humor or concepts",
+      "options": ["meme mapping", "smile mapping"],
+      "correct_answer": "meme mapping"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "... represents a category of AI initiatives, platforms, and tools that aim to specifically address the needs, challenges, and experiences of women",
+      "options": ["WomAI", "FemAI", "Excuse me?"],
+      "correct_answer": "FemAI"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": " ...  web user interface (UI) is a popular open-source tool designed to work with the Stable Diffusion text-to-image model, making it easier for users to generate images using the mode",
+      "options": ["Stable Diffusion does not have UI", "AUTOMATIC1111"],
+      "correct_answer": "AUTOMATIC1111"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Midjourney: When I upload an image and get a prompt for the uploaded image, this is called a ...",
+      "options": ["prompt-reverse engineering", "lie, Midjourney can not do this"],
+      "correct_answer": "prompt-reverse engineering"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: ... allows users to train an AI model to recognize a particular subject (e.g., a person, pet, object) and then generate images of that subject in various styles, settings, or contexts using text prompts",
+      "options": ["DreamBooth", "DreamBus", "This is your stable fantasy"],
+      "correct_answer": "DreamBooth"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: ... refers to the process of gradually refining an image from random noise to a coherent, detailed image guided by a text prompt",
+      "options": ["Denoising", "Clearance", "Precision"],
+      "correct_answer": "Denoising"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion: The strength of the connection between the text and image depends on how many layers of CLIP are used during inference",
+      "options": ["no, CLIP is not layered", "Yes", "CLIP is ot used in Image generation"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is CLIP in AI image generation?",
+      "options": ["Contrastive Language-Image Pre-training", "Music Clip, it help to add motions to images"],
+      "correct_answer": "Contrastive Language-Image Pre-training"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "CLIP skip, Stable Diffusion: When fewer layers are skipped, the model has a more detailed understanding of the prompt, which usually results in more accurate and detailed images",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "Stable Diffusion, CLIP skip: 'skip' here is related to layers, i.e. skip few or more layers",
+      "options": ["Yes", "No, CLIP is not layered"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "What is CLIP skip?",
+      "options": ["It is a parameter used specifically in the Stable Diffusion Web UI for AI Image generation", "I do not know"],
+      "correct_answer": "It is a parameter used specifically in the Stable Diffusion Web UI"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI Image generation: Inpainting happens within generation frame",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI Image generation: Inpainting takes the whole rest of the image into account when regenerating its parts",
+      "options": ["yes", "no"],
+      "correct_answer": "yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "MidJourney does not allow inpainting",
+      "options": ["Yes", "No"],
+      "correct_answer": "Yes"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI image generation: The opposite of inpainting is called ....",
+      "options": ["offpainting", "outpainting", "exterior"],
+      "correct_answer": "outpainting"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI Image generation: Outpainting sometimes is called ...",
+      "options": ["extrapolation", "exterior"],
+      "correct_answer": "extrapolation"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI Image generation: ... generates new content that extends the original scene while maintaining the context and style",
+      "options": ["Outpainting", "Inpainting"],
+      "correct_answer": "Outpainting"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI Image generation: ... is about filling in or fixing what’s inside an image",
+      "options": ["Outpainting", "Inpainting"],
+      "correct_answer": "Inpainting"
     },
     {
-      "question": "",
-      "options": ["", ""],
-      "correct_answer": ""
+      "question": "AI Image Generation: ... extends the capabilities of diffusion models like Stable Diffusion by allowing users to control not just what is generated, but also how it is composed",
+      "options": ["ControlCell", "ControlNet"],
+      "correct_answer": "ControlNet"
     },
     {
       "question": "",
